@@ -1,0 +1,666 @@
+{
+  "orient": "Narrator: Lockwood at first, back at Thrushcross Grange with a cold. After the row of asterisks, his housekeeper Mrs. Dean (Nelly) takes over and tells the story, going back about thirty years. Scholars usually date the arrival she describes to the summer of 1771.",
+  "notes": [
+    {
+      "t": "vain weather-cocks",
+      "c": "old",
+      "g": "Foolish, changeable creatures.",
+      "n": "A weathercock is a weathervane that turns with every wind. Lockwood swore off company yesterday, and today he is lonely."
+    },
+    {
+      "t": "social intercourse",
+      "c": "shift",
+      "g": "Social contact; talking and spending time with people.",
+      "m": "'Intercourse' just meant dealings or conversation. No sexual meaning."
+    },
+    {
+      "t": "thanked my stars",
+      "c": "old",
+      "g": "Thanked my luck.",
+      "n": "From the old belief that the stars controlled your fortune."
+    },
+    {
+      "t": "lighted on",
+      "c": "old",
+      "g": "Found; came upon."
+    },
+    {
+      "t": "next to impracticable",
+      "c": "old",
+      "g": "Almost impossible."
+    },
+    {
+      "t": "strike my colours",
+      "c": "ref",
+      "g": "Give in; surrender.",
+      "n": "A naval phrase: a ship surrendered by lowering ('striking') its flag."
+    },
+    {
+      "t": "under pretence of",
+      "c": "old",
+      "g": "Using the excuse of."
+    },
+    {
+      "t": "necessities of my establishment",
+      "c": "old",
+      "g": "What my household needs."
+    },
+    {
+      "t": "Mrs. Dean",
+      "c": "name",
+      "first": true,
+      "g": "Lockwood's housekeeper at the Grange: the 'fixture' from Chapter II.",
+      "n": "She grew up around Wuthering Heights and becomes the main storyteller of the novel. Her first name is Ellen, and people call her Nelly."
+    },
+    {
+      "t": "supper",
+      "c": "shift",
+      "g": "A light evening meal.",
+      "m": "Since 'dinner' was at midday, the evening meal was 'supper'."
+    },
+    {
+      "t": "a regular gossip",
+      "c": "shift",
+      "g": "A real chatterbox; someone who loves to talk about others.",
+      "m": "'Regular' here means 'thorough, proper', not 'happening often'."
+    },
+    {
+      "t": "rouse me to animation",
+      "c": "old",
+      "g": "Liven me up."
+    },
+    {
+      "t": "the mistress was married",
+      "c": "old",
+      "g": "When the lady of this house (the late Mrs. Linton) got married."
+    },
+    {
+      "t": "retained me",
+      "c": "old",
+      "g": "Kept me on in his service."
+    },
+    {
+      "t": "There ensued a pause",
+      "c": "old",
+      "g": "A pause followed."
+    },
+    {
+      "t": "ruddy countenance",
+      "c": "old",
+      "g": "Rosy, healthy-looking face."
+    },
+    {
+      "t": "alterations",
+      "c": "old",
+      "g": "Changes."
+    },
+    {
+      "t": "girl-widow",
+      "c": "old",
+      "g": "Very young widow (Mrs. Heathcliff)."
+    },
+    {
+      "t": "an exotic",
+      "c": "shift",
+      "g": "An outsider from somewhere else.",
+      "m": "A noun here: like an 'exotic' plant brought from abroad."
+    },
+    {
+      "t": "indigenae",
+      "c": "old",
+      "g": "Latin: the natives; the local people.",
+      "n": "Lockwood's showy Latin, treating the Yorkshire folk like a foreign tribe."
+    },
+    {
+      "t": "recognise for kin",
+      "c": "old",
+      "g": "Accept as family."
+    },
+    {
+      "t": "let Thrushcross Grange",
+      "c": "shift",
+      "g": "Rented out Thrushcross Grange.",
+      "m": "To 'let' a house means to rent it out, not to allow."
+    },
+    {
+      "t": "nobody knows what money",
+      "c": "old",
+      "g": "An unknown amount of money; lots of it."
+    },
+    {
+      "t": "very near—close-handed",
+      "c": "shift",
+      "g": "Very stingy, mean with money.",
+      "m": "'Near' here means tight-fisted, not close by."
+    },
+    {
+      "t": "flit",
+      "c": "dialect",
+      "g": "Move house.",
+      "n": "Still used in Scotland and the north of England."
+    },
+    {
+      "t": "a few hundreds more",
+      "c": "old",
+      "g": "A few hundred pounds more (in rent)."
+    },
+    {
+      "t": "my late master’s daughter",
+      "c": "old",
+      "g": "The daughter of my former master, who is now dead.",
+      "n": "'Late' means dead. Her master was Mr. Linton of Thrushcross Grange."
+    },
+    {
+      "t": "Catherine Linton was her maiden name",
+      "c": "name",
+      "g": "Before marrying, young Mrs. Heathcliff was called Catherine Linton.",
+      "n": "A 'maiden name' is a woman's surname before marriage. Lockwood is startled because Catherine Linton is the ghost's name from Chapter III. But this is a different, younger Catherine."
+    },
+    {
+      "t": "I nursed her",
+      "c": "shift",
+      "g": "I looked after her as a child.",
+      "m": "A 'nurse' here is a nanny or children's maid, not a hospital nurse."
+    },
+    {
+      "t": "remove here",
+      "c": "shift",
+      "g": "Move house to here.",
+      "m": "'Remove' meant to move home."
+    },
+    {
+      "t": "my predecessor",
+      "c": "old",
+      "g": "The person who lived here before me."
+    },
+    {
+      "t": "the late Mrs. Linton’s nephew",
+      "c": "name",
+      "g": "Hareton's aunt was the late Mrs. Linton, young Catherine's mother.",
+      "n": "Later in this chapter Nelly mentions that Hareton's father is Hindley Earnshaw. So Mrs. Linton was born an Earnshaw: Hindley's sister. Remember the names on the window ledge."
+    },
+    {
+      "t": "one on the mother’s, the other on the father’s side",
+      "c": "name",
+      "g": "Young Catherine has two cousins: Hareton (through her mother) and her dead husband (through her father).",
+      "n": "Her father's sister married Heathcliff, so Heathcliff's son was her cousin too. Families marrying cousins was common then, especially in remote places."
+    },
+    {
+      "t": "our Miss Cathy",
+      "c": "name",
+      "g": "Nelly's pet name for young Mrs. Heathcliff, whom she raised.",
+      "n": "Careful: in Nelly's story below, 'Miss Cathy' means a different girl."
+    },
+    {
+      "t": "Miss Cathy",
+      "c": "name",
+      "first": true,
+      "g": "A different Cathy: Catherine Earnshaw as a little girl.",
+      "n": "This is the Catherine of the diary in Chapter III, Hindley's sister. Don't mix her up with young Mrs. Heathcliff ('our Miss Cathy' above)."
+    },
+    {
+      "t": "Rough as a saw-edge",
+      "c": "old",
+      "g": "As rough as the teeth of a saw."
+    },
+    {
+      "t": "whinstone",
+      "c": "rural",
+      "g": "A very hard, dark rock found in the north of England.",
+      "n": "Used for road stone because it is so tough."
+    },
+    {
+      "t": "churl",
+      "c": "old",
+      "g": "A rude, mean-spirited man."
+    },
+    {
+      "t": "It’s a cuckoo’s",
+      "c": "ref",
+      "g": "His history is like a cuckoo's.",
+      "n": "A cuckoo lays its egg in another bird's nest. The cuckoo chick then pushes the other chicks out. Nelly means Heathcliff was an outsider who took over a family that wasn't his."
+    },
+    {
+      "t": "unfledged dunnock",
+      "c": "rural",
+      "g": "A baby hedge sparrow that has no feathers yet.",
+      "n": "Dunnocks are a common victim of cuckoos. Hareton is the chick pushed out of his own nest."
+    },
+    {
+      "t": "parish",
+      "c": "ref",
+      "g": "The local district served by one church; the neighbourhood."
+    },
+    {
+      "t": "gruel",
+      "c": "old",
+      "g": "Thin, runny porridge, given to sick people."
+    },
+    {
+      "t": "The worthy woman",
+      "c": "old",
+      "g": "The good, decent woman."
+    },
+    {
+      "t": "basket of work",
+      "c": "shift",
+      "g": "A basket of sewing.",
+      "m": "'Work' here means needlework."
+    },
+    {
+      "t": "the hob",
+      "c": "rural",
+      "g": "A flat shelf beside the fireplace where pots and dishes are kept warm."
+    },
+    {
+      "t": "companionable",
+      "c": "old",
+      "g": "Friendly and sociable."
+    },
+    {
+      "t": "my mother had nursed Mr. Hindley Earnshaw",
+      "c": "ref",
+      "g": "Nelly's mother had been Hindley's nurse when he was a baby.",
+      "n": "So Nelly grew up at Wuthering Heights almost as one of the household, though she was a servant's child. She is about Hindley's age."
+    },
+    {
+      "t": "that was Hareton’s father",
+      "c": "name",
+      "g": "Who was Hareton's father.",
+      "n": "So the Hindley of Catherine's diary is Hareton's father. 'That was' means 'who was'."
+    },
+    {
+      "t": "make hay",
+      "c": "rural",
+      "g": "Cut grass and dry it in the sun to feed animals in winter."
+    },
+    {
+      "t": "the beginning of harvest",
+      "c": "rural",
+      "g": "Late summer, when the grain crops are cut."
+    },
+    {
+      "t": "Mr. Earnshaw, the old master",
+      "c": "name",
+      "g": "Hindley and Catherine's father, who owned Wuthering Heights then."
+    },
+    {
+      "t": "my bonny man",
+      "c": "dialect",
+      "g": "My fine lad.",
+      "n": "'Bonny' means handsome or fine, still common in northern England and Scotland."
+    },
+    {
+      "t": "Liverpool",
+      "c": "ref",
+      "g": "A large port city about sixty miles from the Heights.",
+      "n": "In the 1770s Liverpool was Britain's busiest port, and a centre of the slave trade, full of sailors and immigrants. Readers have long wondered where Heathcliff came from. The book never says."
+    },
+    {
+      "t": "sixty miles each way",
+      "c": "ref",
+      "g": "About 100 km each way, on foot.",
+      "n": "120 miles in three days shows how tough the old farmer is."
+    },
+    {
+      "t": "a long spell",
+      "c": "old",
+      "g": "A long stretch; a long way."
+    },
+    {
+      "t": "fiddle",
+      "c": "old",
+      "g": "A violin."
+    },
+    {
+      "t": "for the three kingdoms",
+      "c": "ref",
+      "g": "Not for anything in the world.",
+      "n": "The 'three kingdoms' were England, Scotland and Ireland, all ruled by one king."
+    },
+    {
+      "t": "flighted",
+      "c": "dialect",
+      "g": "Frightened."
+    },
+    {
+      "t": "great-coat",
+      "c": "old",
+      "g": "A heavy overcoat."
+    },
+    {
+      "t": "you must e’en take it",
+      "c": "old",
+      "g": "You'll just have to accept it.",
+      "n": "'E'en' is short for 'even'."
+    },
+    {
+      "t": "as dark almost as if it came from the devil",
+      "c": "ref",
+      "g": "The child is so dark-skinned he might be the devil's.",
+      "n": "From the start, Heathcliff's darkness marks him as an outsider. Notice how Nelly calls him 'it'."
+    },
+    {
+      "t": "gibberish",
+      "c": "old",
+      "g": "Speech nobody could understand.",
+      "n": "He seems to speak a language none of them know."
+    },
+    {
+      "t": "fly up",
+      "c": "old",
+      "g": "Burst out angrily."
+    },
+    {
+      "t": "fashion to bring",
+      "c": "dialect",
+      "g": "Bring himself to bring; have the nerve to bring.",
+      "n": "The same dialect verb Joseph used in Chapter II ('faishion')."
+    },
+    {
+      "t": "gipsy brat",
+      "c": "ref",
+      "g": "An insulting name: a dark-skinned beggar child.",
+      "n": "'Gipsy' is an old, now offensive term for the Romani people, used here as an insult because of his looks."
+    },
+    {
+      "t": "bairns",
+      "c": "dialect",
+      "g": "Children."
+    },
+    {
+      "t": "fend for",
+      "c": "old",
+      "g": "Provide for; look after."
+    },
+    {
+      "t": "as good as dumb",
+      "c": "shift",
+      "g": "Almost unable to speak.",
+      "m": "'Dumb' meant mute, unable to talk, not stupid."
+    },
+    {
+      "t": "run into vain expenses",
+      "c": "old",
+      "g": "Spend money uselessly."
+    },
+    {
+      "t": "grumbled herself calm",
+      "c": "old",
+      "g": "Complained until she calmed down."
+    },
+    {
+      "t": "blubbered",
+      "c": "old",
+      "g": "Cried noisily."
+    },
+    {
+      "t": "crushed to morsels",
+      "c": "old",
+      "g": "Crushed to bits."
+    },
+    {
+      "t": "showed her humour",
+      "c": "shift",
+      "g": "Showed her temper.",
+      "m": "'Humour' means mood, not comedy."
+    },
+    {
+      "t": "on the morrow",
+      "c": "old",
+      "g": "The next day."
+    },
+    {
+      "t": "quitting his chamber",
+      "c": "old",
+      "g": "Leaving his bedroom."
+    },
+    {
+      "t": "in recompense",
+      "c": "old",
+      "g": "As payment (here, as punishment)."
+    },
+    {
+      "t": "my banishment perpetual",
+      "c": "old",
+      "g": "That I was sent away forever."
+    },
+    {
+      "t": "christened him",
+      "c": "ref",
+      "g": "Gave him a name (literally, baptised him)."
+    },
+    {
+      "t": "the name of a son who died in childhood",
+      "c": "ref",
+      "g": "The Earnshaws' own dead child had been called Heathcliff.",
+      "n": "So he is named after a lost son, which may explain some of Mr. Earnshaw's love for him."
+    },
+    {
+      "t": "both for Christian and surname",
+      "c": "old",
+      "g": "As both his first name and his family name.",
+      "n": "He has only the one name, Heathcliff, and no family name of his own."
+    },
+    {
+      "t": "very thick",
+      "c": "shift",
+      "g": "Very close friends.",
+      "m": "Not 'stupid'. As in 'thick as thieves'."
+    },
+    {
+      "t": "plagued and went on with him",
+      "c": "old",
+      "g": "Tormented and mistreated him."
+    },
+    {
+      "t": "put in a word on his behalf",
+      "c": "old",
+      "g": "Spoke up for him."
+    },
+    {
+      "t": "without winking",
+      "c": "old",
+      "g": "Without flinching or blinking."
+    },
+    {
+      "t": "precious little",
+      "c": "old",
+      "g": "Very little."
+    },
+    {
+      "t": "petting him up",
+      "c": "old",
+      "g": "Spoiling him; making a pet of him."
+    },
+    {
+      "t": "wayward",
+      "c": "old",
+      "g": "Wilful and disobedient."
+    },
+    {
+      "t": "Mrs. Earnshaw",
+      "c": "name",
+      "first": true,
+      "g": "Mr. Earnshaw's wife: Hindley and Catherine's mother."
+    },
+    {
+      "t": "the young master",
+      "c": "old",
+      "g": "Hindley, the son and heir."
+    },
+    {
+      "t": "oppressor",
+      "c": "old",
+      "g": "Someone who treats you cruelly or unjustly."
+    },
+    {
+      "t": "usurper",
+      "c": "old",
+      "g": "Someone who wrongfully takes another person's place.",
+      "n": "As the eldest son, Hindley expected to be first in his father's love and to inherit the farm."
+    },
+    {
+      "t": "brooding",
+      "c": "old",
+      "g": "Thinking resentfully about something for a long time."
+    },
+    {
+      "t": "fell ill of the measles",
+      "c": "old",
+      "g": "Caught measles, a serious and often deadly childhood disease then."
+    },
+    {
+      "t": "take on me the cares of a woman at once",
+      "c": "old",
+      "g": "Suddenly do an adult woman's work.",
+      "n": "Nelly is still a teenager herself."
+    },
+    {
+      "t": "hadn’t wit to guess",
+      "c": "old",
+      "g": "Wasn't clever enough to realise."
+    },
+    {
+      "t": "partial",
+      "c": "shift",
+      "g": "Biased; favouring some over others.",
+      "m": "Not 'incomplete'."
+    },
+    {
+      "t": "commendations",
+      "c": "old",
+      "g": "Praise."
+    },
+    {
+      "t": "dote on",
+      "c": "old",
+      "g": "Be very fond of; adore."
+    },
+    {
+      "t": "indulgence",
+      "c": "old",
+      "g": "Kindness; spoiling."
+    },
+    {
+      "t": "insolent",
+      "c": "old",
+      "g": "Rude and disrespectful."
+    },
+    {
+      "t": "benefactor",
+      "c": "old",
+      "g": "The person who helps and supports him (Mr. Earnshaw)."
+    },
+    {
+      "t": "insensible",
+      "c": "shift",
+      "g": "Unfeeling; not showing any response.",
+      "m": "Here it doesn't mean 'unconscious'."
+    },
+    {
+      "t": "colts",
+      "c": "rural",
+      "g": "Young male horses."
+    },
+    {
+      "t": "parish fair",
+      "c": "rural",
+      "g": "The local fair, where farmers bought and sold animals and goods."
+    },
+    {
+      "t": "fell lame",
+      "c": "rural",
+      "g": "Became unable to walk properly (of a horse, an injured leg)."
+    },
+    {
+      "t": "black to the shoulder",
+      "c": "old",
+      "g": "Bruised black all the way up."
+    },
+    {
+      "t": "cuffed him over the ears",
+      "c": "old",
+      "g": "Hit him on the side of the head."
+    },
+    {
+      "t": "with interest",
+      "c": "old",
+      "g": "With extra on top (like interest on a loan)."
+    },
+    {
+      "t": "an iron weight used for weighing potatoes and hay",
+      "c": "rural",
+      "g": "A heavy iron weight for a balance scale."
+    },
+    {
+      "t": "turn me out of doors",
+      "c": "old",
+      "g": "Throw me out of the house."
+    },
+    {
+      "t": "directly",
+      "c": "shift",
+      "g": "Immediately.",
+      "m": "A time word here, not 'in a straight line'."
+    },
+    {
+      "t": "letting his condition plead for him",
+      "c": "old",
+      "g": "Letting his injuries speak for themselves."
+    },
+    {
+      "t": "beggarly interloper",
+      "c": "old",
+      "g": "Contemptible intruder.",
+      "n": "An 'interloper' pushes in where he doesn't belong; 'beggarly' means poor and worthless."
+    },
+    {
+      "t": "wheedle",
+      "c": "old",
+      "g": "Coax and flatter someone into giving you things."
+    },
+    {
+      "t": "imp of Satan",
+      "c": "old",
+      "g": "Little devil; child of the devil."
+    },
+    {
+      "t": "loose the beast",
+      "c": "rural",
+      "g": "Untie the horse."
+    },
+    {
+      "t": "stall",
+      "c": "rural",
+      "g": "A horse's own space in a stable."
+    },
+    {
+      "t": "qualm",
+      "c": "shift",
+      "g": "A sudden feeling of sickness or faintness.",
+      "m": "Not a doubt or worry of conscience, its usual sense today."
+    },
+    {
+      "t": "occasioned",
+      "c": "old",
+      "g": "Caused."
+    },
+    {
+      "t": "such stirs",
+      "c": "old",
+      "g": "Such disturbances."
+    },
+    {
+      "t": "vindictive",
+      "c": "old",
+      "g": "Wanting revenge."
+    },
+    {
+      "t": "I was deceived completely, as you will hear",
+      "c": "ref",
+      "g": "Nelly hints at what is coming.",
+      "n": "Storytellers often drop hints like this ('foreshadowing'). Keep it in mind."
+    }
+  ]
+}
