@@ -1,0 +1,706 @@
+{
+ "orient": "Narrator: Nelly Dean, continuing her story to Lockwood. It is late summer 1801. Nelly has been locked in a room at Wuthering Heights for four days and five nights, while Cathy is held elsewhere in the house and Edgar lies dying at the Grange.",
+ "notes": [
+  {
+   "t": "donned in her scarlet shawl",
+   "c": "old",
+   "g": "Wearing her bright red shawl.",
+   "n": "To 'don' something is to put it on."
+  },
+  {
+   "t": "black silk bonnet",
+   "c": "old",
+   "g": "A woman's hat that framed the face and tied under the chin."
+  },
+  {
+   "t": "a willow-basket",
+   "c": "rural",
+   "g": "A basket woven from willow twigs."
+  },
+  {
+   "t": "Zillah",
+   "c": "name",
+   "first": true,
+   "g": "The housekeeper at Wuthering Heights, back from her trip."
+  },
+  {
+   "t": "Eh, dear!",
+   "c": "dialect",
+   "g": "Oh dear!"
+  },
+  {
+   "t": "there is a talk about you",
+   "c": "old",
+   "g": "People are talking about you."
+  },
+  {
+   "t": "Gimmerton",
+   "c": "name",
+   "first": true,
+   "g": "The nearby village."
+  },
+  {
+   "t": "I never thought but you were sunk",
+   "c": "old",
+   "g": "I was sure you had drowned."
+  },
+  {
+   "t": "the Blackhorse marsh",
+   "c": "name",
+   "g": "A bog on the moors.",
+   "n": "Moorland bogs could be deadly, especially in the dark or in fog."
+  },
+  {
+   "t": "missy",
+   "c": "old",
+   "g": "The young miss (Cathy)."
+  },
+  {
+   "t": "he’d lodged you here",
+   "c": "old",
+   "g": "He had given you a room here."
+  },
+  {
+   "t": "got on an island",
+   "c": "old",
+   "g": "Got stranded on a patch of dry ground in the marsh."
+  },
+  {
+   "t": "in the hole",
+   "c": "old",
+   "g": "In the bog."
+  },
+  {
+   "t": "so poorly",
+   "c": "old",
+   "g": "So ill.",
+   "n": "'Poorly' is everyday British English for unwell."
+  },
+  {
+   "t": "a true scoundrel",
+   "c": "old",
+   "g": "A real villain."
+  },
+  {
+   "t": "he shall answer for it",
+   "c": "old",
+   "g": "He will be held to account for it."
+  },
+  {
+   "t": "raised that tale",
+   "c": "old",
+   "g": "Started that story."
+  },
+  {
+   "t": "laid bare",
+   "c": "old",
+   "g": "Exposed."
+  },
+  {
+   "t": "I calls to Earnshaw",
+   "c": "dialect",
+   "g": "I called out to Hareton Earnshaw.",
+   "n": "Zillah slips into dialect grammar here ('I calls', 'they's')."
+  },
+  {
+   "s": "Eh, they’s queer things",
+   "e": "cant Nelly Dean.",
+   "c": "dialect",
+   "who": "Zillah",
+   "tr": "Oh, there have been strange goings-on, Mr. Hareton, since I went away. It's a sad shame about that fine young girl, and lively Nelly Dean."
+  },
+  {
+   "t": "they’s queer things",
+   "c": "dialect",
+   "g": "There are strange things.",
+   "n": "'Queer' simply meant odd or strange."
+  },
+  {
+   "t": "likely young lass",
+   "c": "old",
+   "g": "Fine, promising young girl.",
+   "n": "'Likely' meant promising or good-looking."
+  },
+  {
+   "t": "cant",
+   "c": "dialect",
+   "g": "Probably 'lively, brisk, hearty'.",
+   "n": "A northern dialect word for someone cheerful and full of life."
+  },
+  {
+   "t": "aught",
+   "c": "old",
+   "g": "Anything."
+  },
+  {
+   "t": "flit",
+   "c": "dialect",
+   "g": "Clear out; leave.",
+   "n": "In northern speech 'flit' means to move house."
+  },
+  {
+   "t": "The bog-water got into her head",
+   "c": "old",
+   "g": "The marsh water made her delirious (Heathcliff's lie)."
+  },
+  {
+   "t": "quite flighty",
+   "c": "old",
+   "g": "Quite light-headed; not in her right mind."
+  },
+  {
+   "t": "I fixed her",
+   "c": "old",
+   "g": "I kept her where she was; I shut her in."
+  },
+  {
+   "t": "came round to her senses",
+   "c": "old",
+   "g": "Recovered her wits."
+  },
+  {
+   "t": "bid her",
+   "c": "old",
+   "g": "Tell her."
+  },
+  {
+   "t": "the squire’s funeral",
+   "c": "ref",
+   "g": "The funeral of the squire, Edgar Linton.",
+   "n": "The 'squire' was the leading landowner of a country district. Heathcliff speaks as if the funeral is already certain."
+  },
+  {
+   "t": "sit you down",
+   "c": "old",
+   "g": "Sit down."
+  },
+  {
+   "t": "my good mistress",
+   "c": "old",
+   "g": "My good woman.",
+   "n": "'Mistress' was a polite title for an older or married woman, the full form of 'Mrs.'"
+  },
+  {
+   "t": "you’re right sickly yet",
+   "c": "dialect",
+   "g": "You still look very ill.",
+   "n": "'Right' means 'very' here."
+  },
+  {
+   "t": "Doctor Kenneth",
+   "c": "name",
+   "first": true,
+   "g": "The local doctor, who has looked after both families for years."
+  },
+  {
+   "t": "my outdoor things",
+   "c": "old",
+   "g": "My cloak and bonnet."
+  },
+  {
+   "t": "the way was free",
+   "c": "old",
+   "g": "The way out was open."
+  },
+  {
+   "t": "the settle",
+   "c": "rural",
+   "g": "A long wooden bench with a high back, by the fire."
+  },
+  {
+   "t": "sole tenant",
+   "c": "shift",
+   "g": "The only one there.",
+   "m": "Not someone renting: 'tenant' here just means occupant."
+  },
+  {
+   "t": "sugar-candy",
+   "c": "old",
+   "g": "Rock candy; a stick of hard sugar sweet."
+  },
+  {
+   "t": "apathetic eyes",
+   "c": "old",
+   "g": "Dull, uninterested eyes."
+  },
+  {
+   "t": "intelligence",
+   "c": "shift",
+   "g": "Information; news.",
+   "m": "Not brainpower. 'Intelligence' meant news or information, as in 'military intelligence'."
+  },
+  {
+   "t": "like an innocent",
+   "c": "old",
+   "g": "As if he had done nothing wrong.",
+   "n": "'An innocent' could also mean a simpleton, which fits too."
+  },
+  {
+   "t": "make you sing out sharply",
+   "c": "old",
+   "g": "Make you cry out in pain."
+  },
+  {
+   "t": "she’s my wife",
+   "c": "ref",
+   "g": "So the marriage has taken place.",
+   "n": "Nelly does not tell us how Heathcliff arranged it, with Cathy under 21 and no consent from her father."
+  },
+  {
+   "t": "she may have my money",
+   "c": "ref",
+   "g": "So that she can get my inheritance.",
+   "n": "As Edgar's heir, Linton expects to inherit the Grange estate."
+  },
+  {
+   "t": "sung you songs",
+   "c": "old",
+   "g": "Sang you songs.",
+   "n": "'Sung' was an accepted past-tense form then."
+  },
+  {
+   "t": "a servant merely",
+   "c": "old",
+   "g": "Only a servant."
+  },
+  {
+   "t": "she does not even know that you will have any",
+   "c": "ref",
+   "g": "Cathy doesn't even know you will inherit money.",
+   "n": "Cathy has never been told that the Grange estate will go to Linton rather than to her."
+  },
+  {
+   "t": "give over",
+   "c": "dialect",
+   "g": "Stop.",
+   "n": "Still common in northern English: 'Give over!' means 'Stop it!'"
+  },
+  {
+   "t": "screamed for vexation",
+   "c": "old",
+   "g": "Screamed with annoyance."
+  },
+  {
+   "t": "sympathise with",
+   "c": "old",
+   "g": "Share in the feelings of."
+  },
+  {
+   "t": "in the court",
+   "c": "rural",
+   "g": "In the courtyard.",
+   "n": "The enclosed yard beside the house."
+  },
+  {
+   "t": "master of the Grange after him",
+   "c": "ref",
+   "g": "The owner of Thrushcross Grange after Edgar.",
+   "n": "Linton is Edgar's heir: the estate passes to him, not to Cathy (Chapters XVI and XX)."
+  },
+  {
+   "t": "papa says everything she has is mine",
+   "c": "ref",
+   "g": "Heathcliff's claim, based on the marriage law of the time.",
+   "n": "Under English law, when a woman married, her money and personal belongings passed to her husband. This was called 'coverture'. So the cruel claim was largely true."
+  },
+  {
+   "t": "two pictures in a gold case",
+   "c": "ref",
+   "g": "A locket holding two tiny portraits.",
+   "n": "Small painted portraits, called miniatures, were often worn on a chain as keepsakes."
+  },
+  {
+   "t": "on the other uncle",
+   "c": "name",
+   "g": "On the other side, my uncle (Edgar, her father)."
+  },
+  {
+   "t": "divided the case",
+   "c": "old",
+   "g": "Split the locket in two."
+  },
+  {
+   "t": "resign hers to me",
+   "c": "old",
+   "g": "Hand hers over to me."
+  },
+  {
+   "t": "having my designs in encouraging his talk",
+   "c": "old",
+   "g": "Having my own reasons for keeping him talking."
+  },
+  {
+   "t": "I winked",
+   "c": "shift",
+   "g": "I shut my eyes; I blinked.",
+   "m": "Not a knowing wink. 'Wink' meant to close the eyes."
+  },
+  {
+   "t": "I wink to see",
+   "c": "shift",
+   "g": "I shut my eyes when I see.",
+   "m": "Not a knowing wink. 'Wink' meant to close the eyes."
+  },
+  {
+   "t": "a naughty thing",
+   "c": "old",
+   "g": "A bad, troublesome girl."
+  },
+  {
+   "t": "In what apartment",
+   "c": "shift",
+   "g": "In which room.",
+   "m": "An 'apartment' was a single room, not a flat."
+  },
+  {
+   "t": "bring a rescue",
+   "c": "old",
+   "g": "Bring a rescue party."
+  },
+  {
+   "t": "fellow-servants",
+   "c": "old",
+   "g": "The other servants."
+  },
+  {
+   "t": "I bespoke the announcement of it myself",
+   "c": "old",
+   "g": "I claimed the job of telling him myself."
+  },
+  {
+   "t": "an image of sadness and resignation",
+   "c": "old",
+   "g": "A picture of sorrow and calm acceptance."
+  },
+  {
+   "t": "his actual age was thirty-nine",
+   "c": "ref",
+   "g": "Edgar is only 39."
+  },
+  {
+   "t": "dear master",
+   "c": "old",
+   "g": "My dear employer."
+  },
+  {
+   "t": "sank back in a swoon",
+   "c": "old",
+   "g": "Fell back in a faint."
+  },
+  {
+   "t": "related our compulsory visit",
+   "c": "old",
+   "g": "Told him about our forced visit."
+  },
+  {
+   "t": "detention",
+   "c": "old",
+   "g": "Being held against our will."
+  },
+  {
+   "t": "his already overflowing cup",
+   "c": "ref",
+   "g": "His sorrows, already too many to bear.",
+   "n": "A 'cup' of sorrow or suffering is an old, Bible-flavoured image."
+  },
+  {
+   "t": "He divined",
+   "c": "old",
+   "g": "He guessed."
+  },
+  {
+   "t": "secure the personal property, as well as the estate, to his son",
+   "c": "ref",
+   "g": "Get Cathy's money and possessions, as well as the land, for Linton.",
+   "n": "The 'estate' is the land and house, which go to Linton as heir anyway. 'Personal property' means money and belongings, including the fortune Edgar saved for Cathy. Once she married, that passed to her husband."
+  },
+  {
+   "t": "or rather himself",
+   "c": "ref",
+   "g": "Or, really, for Heathcliff himself.",
+   "n": "Linton is a minor under his father's control. In Chapter XXI Heathcliff said that if Linton died, his property would go to his father."
+  },
+  {
+   "t": "till his decease",
+   "c": "old",
+   "g": "Until Edgar's death."
+  },
+  {
+   "t": "his will had better be altered",
+   "c": "ref",
+   "g": "He ought to change his will."
+  },
+  {
+   "t": "at her own disposal",
+   "c": "ref",
+   "g": "Hers outright, to use as she liked."
+  },
+  {
+   "t": "the hands of trustees",
+   "c": "ref",
+   "g": "People appointed to hold and manage the money for her.",
+   "n": "In a trust, the trustees legally own the money but must use it only for the people named. Since Cathy would never own it outright, it could not pass to her husband, or through him to Heathcliff."
+  },
+  {
+   "t": "for her use during life, and for her children",
+   "c": "ref",
+   "g": "She would have the benefit of it while she lived, and then her children would."
+  },
+  {
+   "t": "it could not fall to Mr. Heathcliff should Linton die",
+   "c": "ref",
+   "g": "It could not end up with Heathcliff if Linton died.",
+   "n": "Otherwise anything Linton gained by marrying Cathy might pass to his father on Linton's death."
+  },
+  {
+   "t": "fetch the attorney",
+   "c": "ref",
+   "g": "Fetch the lawyer.",
+   "n": "An 'attorney' was a lawyer who handled business such as wills and property. In England the title was later replaced by 'solicitor'."
+  },
+  {
+   "t": "serviceable weapons",
+   "c": "old",
+   "g": "Weapons that actually worked."
+  },
+  {
+   "t": "to demand my young lady of her jailor",
+   "c": "old",
+   "g": "To demand that her jailer hand her over."
+  },
+  {
+   "t": "Mr. Green",
+   "c": "name",
+   "first": true,
+   "g": "Edgar's lawyer, named here for the first time.",
+   "n": "In Chapter XVII, Edgar's lawyer had also been Hindley's."
+  },
+  {
+   "t": "his re-entrance",
+   "c": "old",
+   "g": "His return."
+  },
+  {
+   "t": "came back unaccompanied",
+   "c": "old",
+   "g": "Came back alone (without Cathy)."
+  },
+  {
+   "t": "suffer them to see her",
+   "c": "shift",
+   "g": "Allow them to see her.",
+   "m": "'Suffer' here means allow, not feel pain."
+  },
+  {
+   "t": "a whole bevy",
+   "c": "old",
+   "g": "A whole crowd.",
+   "n": "A 'bevy' is properly a flock of certain birds, such as quail."
+  },
+  {
+   "t": "storm it literally",
+   "c": "old",
+   "g": "Actually attack it, like soldiers storming a castle."
+  },
+  {
+   "t": "door-stones",
+   "c": "rural",
+   "g": "The stone slabs at his front door."
+  },
+  {
+   "t": "importunately",
+   "c": "old",
+   "g": "Insistently."
+  },
+  {
+   "t": "The harvest moon",
+   "c": "rural",
+   "g": "The full moon nearest the start of autumn.",
+   "n": "It rises early and bright for several nights, helping farmers bring the harvest in late. So it is now around September."
+  },
+  {
+   "t": "sprang on my neck",
+   "c": "old",
+   "g": "Threw her arms round my neck."
+  },
+  {
+   "t": "chafing it into a faint colour",
+   "c": "old",
+   "g": "Rubbing it until a little colour came back."
+  },
+  {
+   "t": "young Heathcliff",
+   "c": "name",
+   "g": "Linton, now her husband."
+  },
+  {
+   "t": "utter the falsehood",
+   "c": "old",
+   "g": "Tell the lie."
+  },
+  {
+   "t": "couldn’t abide",
+   "c": "old",
+   "g": "Couldn't bear."
+  },
+  {
+   "t": "composed",
+   "c": "old",
+   "g": "Calm."
+  },
+  {
+   "t": "dilating with ecstasy",
+   "c": "old",
+   "g": "Widening with joy."
+  },
+  {
+   "t": "He died blissfully, Mr. Lockwood",
+   "c": "ref",
+   "g": "Nelly breaks off to speak to Lockwood directly."
+  },
+  {
+   "t": "I am going to her",
+   "c": "ref",
+   "g": "To his wife, Cathy's mother, in heaven."
+  },
+  {
+   "t": "rapt, radiant gaze",
+   "c": "old",
+   "g": "Enraptured, shining look."
+  },
+  {
+   "t": "imperceptibly",
+   "c": "old",
+   "g": "So gently nobody could tell."
+  },
+  {
+   "t": "taking some repose",
+   "c": "old",
+   "g": "Getting some rest."
+  },
+  {
+   "t": "dinner-time",
+   "c": "shift",
+   "g": "Midday or early afternoon.",
+   "m": "'Dinner' was the main meal, eaten in the middle of the day."
+  },
+  {
+   "t": "He had sold himself to Mr. Heathcliff",
+   "c": "ref",
+   "g": "He had been bought by Heathcliff to work for him.",
+   "n": "So his delay was deliberate. Edgar died before he could change his will, and his plan to protect Cathy's money was never carried out."
+  },
+  {
+   "t": "worldly affairs",
+   "c": "ref",
+   "g": "Business and money matters."
+  },
+  {
+   "t": "took upon himself to order everything",
+   "c": "old",
+   "g": "Took it on himself to run everything."
+  },
+  {
+   "t": "notice to quit",
+   "c": "ref",
+   "g": "Notice that they were dismissed and must leave.",
+   "n": "Servants were given 'notice', a warning period before they had to go."
+  },
+  {
+   "t": "delegated authority",
+   "c": "old",
+   "g": "Power handed to him by someone else (Heathcliff)."
+  },
+  {
+   "t": "in the chapel, with his family",
+   "c": "ref",
+   "g": "Inside the church, under the Linton family monument.",
+   "n": "Catherine was buried outside, in a corner of the churchyard by the moor (Chapter XVI), and Edgar wished to lie beside her."
+  },
+  {
+   "t": "There was the will, however, to hinder that",
+   "c": "ref",
+   "g": "But Edgar's will said where he was to be buried, and that stopped it.",
+   "n": "Wills often gave instructions for the funeral and burial."
+  },
+  {
+   "t": "infringement of its directions",
+   "c": "old",
+   "g": "Breaking its instructions."
+  },
+  {
+   "t": "Mrs. Linton Heathcliff now",
+   "c": "ref",
+   "g": "Now the wife of Linton Heathcliff.",
+   "n": "A married woman was formally called by her husband's full name, like 'Mrs. John Smith'. She is the young 'Mrs. Heathcliff' Lockwood met in Chapter II."
+  },
+  {
+   "t": "was suffered to stay",
+   "c": "shift",
+   "g": "Was allowed to stay.",
+   "m": "'Suffer' here means allow, not feel pain."
+  },
+  {
+   "t": "her father’s corpse had quitted it",
+   "c": "old",
+   "g": "Her father's body had left the house for burial."
+  },
+  {
+   "t": "spurred Linton",
+   "c": "old",
+   "g": "Pushed Linton into action."
+  },
+  {
+   "t": "incur the risk of liberating her",
+   "c": "old",
+   "g": "Take the risk of setting her free."
+  },
+  {
+   "t": "conveyed up to the little parlour",
+   "c": "old",
+   "g": "Carried up to the small sitting room."
+  },
+  {
+   "t": "re-ascended",
+   "c": "old",
+   "g": "Came back upstairs."
+  },
+  {
+   "t": "his petition was granted",
+   "c": "old",
+   "g": "His request was allowed."
+  },
+  {
+   "t": "lest the dogs should raise an alarm",
+   "c": "old",
+   "g": "For fear the dogs would bark and wake the house."
+  },
+  {
+   "t": "lighting on her mother’s",
+   "c": "old",
+   "g": "Coming upon her mother's old room.",
+   "n": "Probably the room where Lockwood slept in Chapter III, with a fir tree by its window."
+  },
+  {
+   "t": "out of its lattice",
+   "c": "rural",
+   "g": "Out of its window.",
+   "n": "A lattice window has small panes set in a crisscross of lead strips."
+  },
+  {
+   "t": "Her accomplice",
+   "c": "old",
+   "g": "Her partner in the escape (Linton)."
+  },
+  {
+   "t": "suffered for his share",
+   "c": "old",
+   "g": "Was punished for his part."
+  },
+  {
+   "t": "timid contrivances",
+   "c": "old",
+   "g": "Nervous little schemes."
+  }
+ ]
+}

@@ -1,0 +1,575 @@
+{
+  "orient": "Narrator: Nelly Dean, continuing her story to Lockwood. About six months have passed since the burned letters; it is the autumn of 1800, and Cathy is sixteen.",
+  "notes": [
+    {
+      "t": "Michaelmas",
+      "c": "ref",
+      "g": "29 September, the feast of St Michael.",
+      "n": "One of the 'quarter days' when rents were due. The harvest was normally in by then."
+    },
+    {
+      "t": "still uncleared",
+      "c": "rural",
+      "g": "Not yet harvested."
+    },
+    {
+      "t": "Mr. Linton",
+      "c": "name",
+      "first": true,
+      "g": "Edgar Linton, Cathy's father and Nelly's master."
+    },
+    {
+      "t": "reapers",
+      "c": "rural",
+      "g": "Workers cutting the grain crop."
+    },
+    {
+      "t": "the carrying of the last sheaves",
+      "c": "rural",
+      "g": "Bringing in the last bundles of cut grain.",
+      "n": "A sheaf is a bundle of stalks tied together. Bringing home the last load was often celebrated."
+    },
+    {
+      "t": "settled obstinately on his lungs",
+      "c": "old",
+      "g": "Lodged stubbornly in his chest."
+    },
+    {
+      "t": "without intermission",
+      "c": "old",
+      "g": "Without a break."
+    },
+    {
+      "t": "Cathy",
+      "c": "name",
+      "first": true,
+      "g": "Young Catherine Linton, Edgar's daughter, now sixteen."
+    },
+    {
+      "t": "her little romance",
+      "c": "ref",
+      "g": "Her secret letters with her cousin Linton, which Nelly burned (Chapter XXI)."
+    },
+    {
+      "t": "I esteemed it a duty",
+      "c": "old",
+      "g": "I thought it my duty."
+    },
+    {
+      "t": "diurnal occupations",
+      "c": "old",
+      "g": "Daily tasks."
+    },
+    {
+      "t": "my society",
+      "c": "shift",
+      "g": "My company.",
+      "m": "'Society' here means company, not the community at large."
+    },
+    {
+      "t": "fresh watery afternoon",
+      "c": "old",
+      "g": "Cool, damp afternoon."
+    },
+    {
+      "t": "turf",
+      "c": "rural",
+      "g": "Short grass; grassy ground."
+    },
+    {
+      "t": "dark grey streamers",
+      "c": "old",
+      "g": "Long trailing bands of dark cloud."
+    },
+    {
+      "t": "boding abundant rain",
+      "c": "old",
+      "g": "Threatening plenty of rain."
+    },
+    {
+      "t": "forego her ramble",
+      "c": "old",
+      "g": "Give up her walk."
+    },
+    {
+      "t": "donned a cloak",
+      "c": "old",
+      "g": "Put on a cloak."
+    },
+    {
+      "t": "a formal walk",
+      "c": "old",
+      "g": "A neat, regular walk along a set path.",
+      "n": "Not the wild moor, but a tidy path inside the Grange's park."
+    },
+    {
+      "t": "generally affected",
+      "c": "shift",
+      "g": "Usually chose.",
+      "m": "To 'affect' something here means to like or prefer it habitually."
+    },
+    {
+      "t": "never known from his confession",
+      "c": "old",
+      "g": "Never learned from his own admission."
+    },
+    {
+      "t": "melancholy",
+      "c": "old",
+      "g": "Sadness; gloom."
+    },
+    {
+      "t": "countenance",
+      "c": "old",
+      "g": "Face; expression."
+    },
+    {
+      "t": "hazels",
+      "c": "rural",
+      "g": "Hazel bushes: small trees that bear hazelnuts."
+    },
+    {
+      "t": "stunted oaks",
+      "c": "rural",
+      "g": "Oaks that grew small and twisted."
+    },
+    {
+      "t": "held uncertain tenure",
+      "c": "old",
+      "g": "Clung on insecurely.",
+      "n": "'Tenure' is a legal word for holding land. Nelly jokes that the trees barely hold theirs."
+    },
+    {
+      "t": "the latter",
+      "c": "old",
+      "g": "The second one mentioned: the oaks."
+    },
+    {
+      "t": "at such an elevation",
+      "c": "old",
+      "g": "So high up."
+    },
+    {
+      "t": "From dinner to tea",
+      "c": "shift",
+      "g": "From the midday meal to the late-afternoon meal.",
+      "m": "'Dinner' was eaten around midday, and 'tea' in the late afternoon."
+    },
+    {
+      "t": "my nursery lore",
+      "c": "old",
+      "g": "The songs and rhymes I taught her as a small child."
+    },
+    {
+      "t": "joint tenants",
+      "c": "ref",
+      "g": "Sharing the tree with her, like co-owners of a property.",
+      "n": "Another of Nelly's legal jokes, like 'tenure' above."
+    },
+    {
+      "t": "entice",
+      "c": "old",
+      "g": "Coax; tempt."
+    },
+    {
+      "t": "up yonder",
+      "c": "old",
+      "g": "Up there."
+    },
+    {
+      "t": "bluebells",
+      "c": "rural",
+      "g": "Wild flowers with blue, bell-shaped heads.",
+      "n": "English bluebells flower in spring. Flowers blooming in July and lasting into autumn were probably harebells, which northerners and Scots also call bluebells."
+    },
+    {
+      "t": "starved and sackless",
+      "c": "dialect",
+      "g": "Chilled and listless.",
+      "n": "In the north 'starved' meant frozen with cold, not hungry. 'Sackless' meant feeble or without spirit."
+    },
+    {
+      "t": "sauntering",
+      "c": "old",
+      "g": "Strolling slowly."
+    },
+    {
+      "t": "muse over",
+      "c": "old",
+      "g": "Gaze at thoughtfully."
+    },
+    {
+      "t": "blanched grass",
+      "c": "old",
+      "g": "Faded, whitened grass."
+    },
+    {
+      "t": "ever and anon",
+      "c": "old",
+      "g": "Every now and then."
+    },
+    {
+      "t": "averted",
+      "c": "old",
+      "g": "Turned away."
+    },
+    {
+      "t": "I can’t forget your words, Ellen",
+      "c": "ref",
+      "g": "Cathy remembers Nelly's scolding in Chapter XXI.",
+      "n": "Nelly told her to imagine that her father and Nelly were dead and she was alone in the world."
+    },
+    {
+      "t": "Ellen",
+      "c": "name",
+      "first": true,
+      "g": "Nelly Dean, the narrator. Cathy uses her proper first name."
+    },
+    {
+      "t": "anticipate evil",
+      "c": "old",
+      "g": "Expect trouble before it comes."
+    },
+    {
+      "t": "canty dame",
+      "c": "dialect",
+      "g": "Cheerful, lively old woman."
+    },
+    {
+      "t": "spared till he saw sixty",
+      "c": "old",
+      "g": "Allowed by God to live to sixty."
+    },
+    {
+      "t": "calamity",
+      "c": "old",
+      "g": "Disaster."
+    },
+    {
+      "t": "Aunt Isabella was younger than papa",
+      "c": "ref",
+      "g": "Edgar's sister, Linton's mother.",
+      "n": "She died young, in the south, before Linton came north (Chapter XIX)."
+    },
+    {
+      "t": "wait well on your father",
+      "c": "old",
+      "g": "Look after your father carefully."
+    },
+    {
+      "t": "I’ll not disguise",
+      "c": "old",
+      "g": "I won't hide the fact."
+    },
+    {
+      "t": "the son of a person who would be glad to have him in his grave",
+      "c": "ref",
+      "g": "Linton, son of Heathcliff, who hates Edgar."
+    },
+    {
+      "t": "fretted",
+      "c": "old",
+      "g": "Pined; grieved."
+    },
+    {
+      "t": "expedient",
+      "c": "old",
+      "g": "Wise; advisable."
+    },
+    {
+      "t": "vex him",
+      "c": "old",
+      "g": "Upset or annoy him."
+    },
+    {
+      "t": "hips",
+      "c": "rural",
+      "g": "Rose hips: the red berries of the wild rose."
+    },
+    {
+      "t": "summit branches",
+      "c": "old",
+      "g": "Topmost branches."
+    },
+    {
+      "t": "highway side",
+      "c": "old",
+      "g": "The roadside."
+    },
+    {
+      "t": "lest",
+      "c": "old",
+      "g": "In case; for fear that."
+    },
+    {
+      "t": "blackberry stragglers",
+      "c": "rural",
+      "g": "Stray, trailing blackberry brambles."
+    },
+    {
+      "t": "re-ascending",
+      "c": "old",
+      "g": "Climbing back up."
+    },
+    {
+      "t": "porter’s lodge",
+      "c": "rural",
+      "g": "The gatekeeper's cottage at the entrance to the park."
+    },
+    {
+      "t": "scale the ramparts",
+      "c": "old",
+      "g": "Climb the walls.",
+      "n": "Cathy's joke: ramparts are the defensive walls of a castle."
+    },
+    {
+      "t": "in succession",
+      "c": "old",
+      "g": "One after another."
+    },
+    {
+      "t": "arrested me",
+      "c": "shift",
+      "g": "Stopped me.",
+      "m": "Just halted, not a police arrest."
+    },
+    {
+      "t": "Miss Linton",
+      "c": "ref",
+      "g": "Cathy's formal name, as Edgar Linton's daughter."
+    },
+    {
+      "t": "sha’n’t",
+      "c": "old",
+      "g": "Shan't; shall not."
+    },
+    {
+      "t": "Mr. Heathcliff",
+      "c": "name",
+      "first": true,
+      "g": "Master of Wuthering Heights, Linton's father, and Edgar's enemy."
+    },
+    {
+      "t": "nothing to the purpose",
+      "c": "old",
+      "g": "Beside the point."
+    },
+    {
+      "t": "making love in play",
+      "c": "shift",
+      "g": "Courting as a game; flirting.",
+      "m": "'Making love' meant courting or saying loving things, not sex."
+    },
+    {
+      "t": "flogging",
+      "c": "old",
+      "g": "A whipping."
+    },
+    {
+      "t": "the elder",
+      "c": "old",
+      "g": "The older one.",
+      "n": "Cathy is a few months older than Linton."
+    },
+    {
+      "t": "pertness",
+      "c": "old",
+      "g": "Cheek; rudeness."
+    },
+    {
+      "t": "Slough of Despond",
+      "c": "ref",
+      "g": "A bog of despair.",
+      "n": "From John Bunyan's 'The Pilgrim's Progress' (1678), in which the hero sinks into a swamp called the Slough of Despond. 'Slough' here usually rhymes with 'cow'."
+    },
+    {
+      "t": "a standing jest",
+      "c": "old",
+      "g": "A constant joke; a laughing-stock."
+    },
+    {
+      "t": "Hareton",
+      "c": "name",
+      "first": true,
+      "g": "Hareton Earnshaw, Cathy's rough, unschooled cousin at the Heights."
+    },
+    {
+      "t": "under the sod",
+      "c": "old",
+      "g": "In the grave."
+    },
+    {
+      "t": "glaringly",
+      "c": "old",
+      "g": "Blatantly; obviously."
+    },
+    {
+      "t": "Pray ride on",
+      "c": "old",
+      "g": "Please ride on."
+    },
+    {
+      "t": "paltry falsehoods",
+      "c": "old",
+      "g": "Cheap, petty lies."
+    },
+    {
+      "t": "Worthy Mrs. Dean",
+      "c": "old",
+      "g": "Good Mrs. Dean.",
+      "n": "Said sarcastically."
+    },
+    {
+      "t": "double-dealing",
+      "c": "old",
+      "g": "Deceitfulness; two-faced behaviour."
+    },
+    {
+      "t": "bugbear stories",
+      "c": "old",
+      "g": "Scary made-up stories.",
+      "n": "A bugbear was an imaginary monster used to frighten children."
+    },
+    {
+      "t": "door-stones",
+      "c": "rural",
+      "g": "The stone slabs at the door; here, my house."
+    },
+    {
+      "t": "Catherine Linton (the very name warms me)",
+      "c": "ref",
+      "g": "Catherine Linton was also Cathy's mother's married name.",
+      "n": "It is one of the names Lockwood found scratched on the window ledge in Chapter III."
+    },
+    {
+      "t": "my bonny lass",
+      "c": "dialect",
+      "g": "My pretty girl."
+    },
+    {
+      "t": "from home",
+      "c": "old",
+      "g": "Away from home."
+    },
+    {
+      "t": "entreated",
+      "c": "old",
+      "g": "Begged."
+    },
+    {
+      "t": "on my salvation",
+      "c": "ref",
+      "g": "On my hope of going to heaven: a solemn oath."
+    },
+    {
+      "t": "issued out",
+      "c": "old",
+      "g": "Came out."
+    },
+    {
+      "t": "I’ll own to you",
+      "c": "shift",
+      "g": "I'll admit to you.",
+      "m": "'Own' here means admit or confess."
+    },
+    {
+      "t": "Joseph",
+      "c": "name",
+      "first": true,
+      "g": "The sour old servant at Wuthering Heights."
+    },
+    {
+      "t": "a harsh set",
+      "c": "old",
+      "g": "A harsh group of people."
+    },
+    {
+      "t": "pines",
+      "c": "old",
+      "g": "Longs; wastes away with longing."
+    },
+    {
+      "t": "contrive to see him",
+      "c": "old",
+      "g": "Find a way to see him."
+    },
+    {
+      "t": "my charge",
+      "c": "old",
+      "g": "The girl in my care."
+    },
+    {
+      "t": "stretched towards home",
+      "c": "old",
+      "g": "Hurried home with long strides."
+    },
+    {
+      "t": "I divined",
+      "c": "old",
+      "g": "I guessed."
+    },
+    {
+      "t": "retired to rest",
+      "c": "old",
+      "g": "Gone to bed."
+    },
+    {
+      "t": "stole to his room",
+      "c": "old",
+      "g": "Crept quietly to his room."
+    },
+    {
+      "t": "diversion",
+      "c": "old",
+      "g": "Pastime; amusement.",
+      "n": "Nelly is being wry."
+    },
+    {
+      "t": "I suffered her",
+      "c": "shift",
+      "g": "I allowed her.",
+      "m": "'Suffer' meant 'permit', not 'feel pain'."
+    },
+    {
+      "t": "expostulated",
+      "c": "old",
+      "g": "Argued with her; protested."
+    },
+    {
+      "t": "deriding",
+      "c": "old",
+      "g": "Mocking."
+    },
+    {
+      "t": "coincide",
+      "c": "old",
+      "g": "Agree."
+    },
+    {
+      "t": "protestations",
+      "c": "old",
+      "g": "Strong objections."
+    },
+    {
+      "t": "credulity",
+      "c": "old",
+      "g": "Readiness to believe things too easily."
+    },
+    {
+      "t": "wilful",
+      "c": "old",
+      "g": "Headstrong; set on getting her way."
+    },
+    {
+      "t": "dejected",
+      "c": "old",
+      "g": "Downcast; miserable."
+    },
+    {
+      "t": "Wuthering Heights",
+      "c": "name",
+      "first": true,
+      "g": "Heathcliff's farmhouse on the moors, about four miles from the Grange."
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "orient": "Narrator: Nelly Dean, continuing her story to Lockwood. It is the morning after the meeting at the park wall, in the autumn of 1800, and Nelly has given in and is riding with Cathy to Wuthering Heights while Heathcliff is away.",
+  "notes": [
+    {
+      "t": "ushered in",
+      "c": "old",
+      "g": "Led into; been followed by."
+    },
+    {
+      "t": "temporary brooks",
+      "c": "rural",
+      "g": "Little streams that run only after heavy rain."
+    },
+    {
+      "t": "the uplands",
+      "c": "rural",
+      "g": "The higher ground; the moors."
+    },
+    {
+      "t": "cross and low",
+      "c": "old",
+      "g": "Grumpy and depressed."
+    },
+    {
+      "t": "the humour suited for",
+      "c": "old",
+      "g": "The mood that suited.",
+      "n": "'Humour' meant mood."
+    },
+    {
+      "t": "the kitchen way",
+      "c": "old",
+      "g": "The back entrance, through the kitchen."
+    },
+    {
+      "t": "ascertain",
+      "c": "old",
+      "g": "Find out for sure."
+    },
+    {
+      "t": "Mr. Heathcliff",
+      "c": "name",
+      "first": true,
+      "g": "Master of Wuthering Heights and Linton's father."
+    },
+    {
+      "t": "affirmation",
+      "c": "old",
+      "g": "Statement; claim."
+    },
+    {
+      "t": "Joseph",
+      "c": "name",
+      "first": true,
+      "g": "The sour, Bible-quoting old servant at the Heights."
+    },
+    {
+      "t": "Catherine",
+      "c": "name",
+      "first": true,
+      "g": "Young Cathy Linton, Edgar's daughter, now sixteen."
+    },
+    {
+      "t": "elysium",
+      "c": "ref",
+      "g": "Paradise.",
+      "n": "In Greek myth, Elysium was the happy home of the blessed after death."
+    },
+    {
+      "t": "a quart of ale",
+      "c": "rural",
+      "g": "About two pints of beer.",
+      "n": "A quart is a quarter of a gallon."
+    },
+    {
+      "t": "toasted oat-cake",
+      "c": "rural",
+      "g": "Toasted oatcake: thin, flat oatmeal bread, a northern staple.",
+      "n": "Pieces of it are soaking in his ale."
+    },
+    {
+      "t": "hearth",
+      "c": "rural",
+      "g": "The floor in front of the fireplace."
+    },
+    {
+      "s": "Na—ay!",
+      "e": "whear yah coom frough.",
+      "c": "dialect",
+      "who": "Joseph",
+      "tr": "No! No! You must go back where you came from."
+    },
+    {
+      "t": "yah muh goa",
+      "c": "dialect",
+      "g": "You must go."
+    },
+    {
+      "t": "coom frough",
+      "c": "dialect",
+      "g": "Came from."
+    },
+    {
+      "t": "peevish",
+      "c": "old",
+      "g": "Whiny; irritable."
+    },
+    {
+      "t": "grate",
+      "c": "rural",
+      "g": "The iron basket that holds the fire."
+    },
+    {
+      "t": "had no ear for this appeal",
+      "c": "old",
+      "g": "Ignored this call."
+    },
+    {
+      "t": "were invisible",
+      "c": "old",
+      "g": "Were nowhere to be seen."
+    },
+    {
+      "t": "Linton",
+      "c": "name",
+      "first": true,
+      "g": "Linton Heathcliff, Cathy's sickly cousin, Heathcliff's son."
+    },
+    {
+      "t": "the great chair",
+      "c": "old",
+      "g": "The big armchair."
+    },
+    {
+      "t": "contrite",
+      "c": "old",
+      "g": "Sorry; ashamed."
+    },
+    {
+      "t": "die in a garret",
+      "c": "old",
+      "g": "Die in an attic.",
+      "n": "A garret, a cramped room under the roof, was where the poorest people lodged."
+    },
+    {
+      "t": "negligent attendant",
+      "c": "old",
+      "g": "Careless servant.",
+      "n": "Linton thinks Joseph is coming in."
+    },
+    {
+      "t": "Miss Linton",
+      "c": "ref",
+      "g": "Cathy's formal name, as Edgar Linton's daughter."
+    },
+    {
+      "t": "detestable",
+      "c": "old",
+      "g": "Hateful."
+    },
+    {
+      "t": "won’t bring coals",
+      "c": "rural",
+      "g": "Won't bring coal for the fire."
+    },
+    {
+      "t": "cinders",
+      "c": "rural",
+      "g": "Half-burnt bits of coal."
+    },
+    {
+      "t": "scuttleful",
+      "c": "rural",
+      "g": "A coal bucket's worth.",
+      "n": "A scuttle is a metal bucket for carrying coal to the fire."
+    },
+    {
+      "t": "The invalid",
+      "c": "old",
+      "g": "The sick boy."
+    },
+    {
+      "t": "rebuke",
+      "c": "old",
+      "g": "Scold."
+    },
+    {
+      "t": "corrugated brow",
+      "c": "old",
+      "g": "Wrinkled, frowning forehead."
+    },
+    {
+      "t": "Zillah",
+      "c": "name",
+      "first": true,
+      "g": "The housekeeper at Wuthering Heights, whom Lockwood met in Chapter II."
+    },
+    {
+      "t": "at his behest",
+      "c": "old",
+      "g": "At his command."
+    },
+    {
+      "t": "gadding off",
+      "c": "old",
+      "g": "Running off to enjoy herself."
+    },
+    {
+      "t": "Gimmerton",
+      "c": "name",
+      "first": true,
+      "g": "The nearby village."
+    },
+    {
+      "t": "Master Heathcliff",
+      "c": "ref",
+      "g": "Linton.",
+      "n": "'Master' was the polite title for a boy, as 'Mister' was for a man."
+    },
+    {
+      "t": "Hareton",
+      "c": "name",
+      "first": true,
+      "g": "Hareton Earnshaw, Cathy's other cousin, who works on the farm."
+    },
+    {
+      "t": "odious",
+      "c": "old",
+      "g": "Hateful."
+    },
+    {
+      "t": "lighted on",
+      "c": "old",
+      "g": "Found; came upon."
+    },
+    {
+      "t": "pitcher",
+      "c": "old",
+      "g": "A jug."
+    },
+    {
+      "t": "dresser",
+      "c": "rural",
+      "g": "A cupboard with open shelves above for dishes and jugs."
+    },
+    {
+      "t": "tumbler",
+      "c": "old",
+      "g": "A drinking glass."
+    },
+    {
+      "t": "tranquil",
+      "c": "old",
+      "g": "Calm."
+    },
+    {
+      "t": "vexed",
+      "c": "old",
+      "g": "Annoyed; upset."
+    },
+    {
+      "t": "shuffling",
+      "c": "old",
+      "g": "Shifty; evasive."
+    },
+    {
+      "t": "owing to me",
+      "c": "old",
+      "g": "My fault."
+    },
+    {
+      "t": "more the master of the Grange than your father",
+      "c": "ref",
+      "g": "Heathcliff's taunt: a real man would have more say at the Grange than Edgar by now.",
+      "n": "Remember Heathcliff's plan to marry the cousins (Chapter XXI)."
+    },
+    {
+      "t": "the shooting season",
+      "c": "ref",
+      "g": "The autumn season for shooting game birds such as grouse."
+    },
+    {
+      "t": "gravely",
+      "c": "old",
+      "g": "Seriously."
+    },
+    {
+      "t": "the latter",
+      "c": "old",
+      "g": "The second one mentioned: a brother."
+    },
+    {
+      "t": "instanced",
+      "c": "old",
+      "g": "Gave as an example."
+    },
+    {
+      "t": "his own father’s aversion to her aunt",
+      "c": "ref",
+      "g": "Heathcliff's hatred of his wife Isabella.",
+      "n": "Edgar told Cathy about it in Chapter XXI."
+    },
+    {
+      "t": "her relation was false",
+      "c": "shift",
+      "g": "Her story was untrue.",
+      "m": "'Relation' here means a telling or account, not a relative."
+    },
+    {
+      "t": "pertly",
+      "c": "old",
+      "g": "Cheekily."
+    },
+    {
+      "t": "the recess of his chair",
+      "c": "old",
+      "g": "The deep hollow of his chair."
+    },
+    {
+      "t": "Aunt Isabella",
+      "c": "name",
+      "first": true,
+      "g": "Edgar's sister, Linton's mother.",
+      "n": "She ran away from Heathcliff and lived in the south until her death (Chapters XVII and XIX)."
+    },
+    {
+      "t": "Your mother hated your father: now then.",
+      "c": "ref",
+      "g": "Linton repeats what his father has told him.",
+      "n": "Cathy knows nothing about her mother's past with Heathcliff. The reader knows the story from Chapters IX to XVI."
+    },
+    {
+      "t": "disputant",
+      "c": "old",
+      "g": "Person in the argument."
+    },
+    {
+      "t": "beside herself",
+      "c": "old",
+      "g": "Out of her mind with anger."
+    },
+    {
+      "t": "aghast",
+      "c": "old",
+      "g": "Horrified."
+    },
+    {
+      "t": "quelled her lamentations",
+      "c": "old",
+      "g": "Stopped her crying."
+    },
+    {
+      "t": "inflexions of his voice",
+      "c": "old",
+      "g": "The rise and fall of his voice."
+    },
+    {
+      "t": "pain and pathos",
+      "c": "old",
+      "g": "Pain and pitifulness."
+    },
+    {
+      "t": "racked beyond endurance",
+      "c": "old",
+      "g": "Tormented more than she could bear."
+    },
+    {
+      "t": "pettishly",
+      "c": "old",
+      "g": "Sulkily; peevishly."
+    },
+    {
+      "t": "dolefully",
+      "c": "old",
+      "g": "Sadly."
+    },
+    {
+      "t": "spoils your ease",
+      "c": "old",
+      "g": "Ruins your comfort."
+    },
+    {
+      "t": "teasing me into a fever",
+      "c": "old",
+      "g": "Pestering me until I get a fever."
+    },
+    {
+      "t": "a tiresome while",
+      "c": "old",
+      "g": "An annoyingly long time."
+    },
+    {
+      "t": "hearthstone",
+      "c": "rural",
+      "g": "The stone slab in front of the fireplace."
+    },
+    {
+      "t": "writhing",
+      "c": "old",
+      "g": "Twisting and squirming."
+    },
+    {
+      "t": "perverseness",
+      "c": "old",
+      "g": "Stubborn, deliberate naughtiness."
+    },
+    {
+      "t": "an indulged plague of a child",
+      "c": "old",
+      "g": "A spoiled, pestering child."
+    },
+    {
+      "t": "grievous and harassing",
+      "c": "old",
+      "g": "Distressing and wearing."
+    },
+    {
+      "t": "gauged his disposition",
+      "c": "old",
+      "g": "Judged his character."
+    },
+    {
+      "t": "humouring him",
+      "c": "shift",
+      "g": "Going along with his whims.",
+      "m": "To 'humour' someone means to indulge them. Nothing to do with jokes."
+    },
+    {
+      "t": "entreated",
+      "c": "old",
+      "g": "Begged."
+    },
+    {
+      "t": "compunction",
+      "c": "old",
+      "g": "Guilt; regret."
+    },
+    {
+      "t": "settle",
+      "c": "rural",
+      "g": "A long wooden bench with a high back, often set beside the fire."
+    },
+    {
+      "t": "occasioned by attachment to you",
+      "c": "old",
+      "g": "Caused by love for you."
+    },
+    {
+      "t": "the provoking thing",
+      "c": "old",
+      "g": "The irritating creature."
+    },
+    {
+      "t": "twined himself up to her",
+      "c": "old",
+      "g": "Wound himself around her."
+    },
+    {
+      "t": "Miss has wasted",
+      "c": "old",
+      "g": "The young lady has wasted.",
+      "n": "Servants often called a daughter of the house simply 'Miss'."
+    },
+    {
+      "t": "mamma",
+      "c": "old",
+      "g": "Mother; here, Linton's dead mother, Isabella."
+    },
+    {
+      "t": "ballad",
+      "c": "ref",
+      "g": "A traditional song or poem that tells a story.",
+      "n": "Northern England and Scotland had a rich store of old ballads, many of them tragic."
+    },
+    {
+      "t": "mightily",
+      "c": "old",
+      "g": "Greatly."
+    },
+    {
+      "t": "strenuous objections",
+      "c": "old",
+      "g": "Strong, repeated objections."
+    },
+    {
+      "t": "the clock struck twelve",
+      "c": "ref",
+      "g": "Noon: dinner time on the farm."
+    },
+    {
+      "t": "in the court",
+      "c": "rural",
+      "g": "In the farmyard."
+    },
+    {
+      "t": "frock",
+      "c": "old",
+      "g": "Dress."
+    },
+    {
+      "t": "sha’n’t",
+      "c": "old",
+      "g": "Shan't; shall not."
+    },
+    {
+      "t": "gaoler",
+      "c": "old",
+      "g": "Jailer.",
+      "n": "The old British spelling, pronounced the same."
+    },
+    {
+      "t": "I’m almost seventeen",
+      "c": "ref",
+      "g": "Cathy turns seventeen next March."
+    },
+    {
+      "t": "sickly slip",
+      "c": "shift",
+      "g": "Weak, skinny youngster.",
+      "m": "A 'slip' is a slim young person (like a cutting from a plant), nothing to do with slipping."
+    },
+    {
+      "t": "as Mr. Heathcliff conjectured, he’ll not win twenty",
+      "c": "ref",
+      "g": "As Heathcliff guessed, he won't live to twenty.",
+      "n": "Heathcliff actually said 'scarcely... till it is eighteen' (Chapter XXI). Nelly remembers it loosely."
+    },
+    {
+      "t": "drops off",
+      "c": "old",
+      "g": "Dies."
+    },
+    {
+      "t": "tedious",
+      "c": "old",
+      "g": "Tiresome."
+    },
+    {
+      "t": "waxed serious",
+      "c": "old",
+      "g": "Grew serious."
+    },
+    {
+      "t": "regardlessly",
+      "c": "old",
+      "g": "Carelessly; without feeling."
+    },
+    {
+      "t": "protracted",
+      "c": "old",
+      "g": "Long; drawn-out."
+    },
+    {
+      "t": "ails him",
+      "c": "old",
+      "g": "Makes him ill."
+    },
+    {
+      "t": "Mr. Linton",
+      "c": "name",
+      "first": true,
+      "g": "Edgar Linton, Cathy's father."
+    },
+    {
+      "t": "the intimacy",
+      "c": "shift",
+      "g": "The close friendship.",
+      "m": "No romantic or sexual meaning: 'intimacy' meant close acquaintance."
+    },
+    {
+      "t": "toil in the rear",
+      "c": "old",
+      "g": "Trudge along behind."
+    },
+    {
+      "t": "dinner-time",
+      "c": "shift",
+      "g": "The time of the midday meal.",
+      "m": "'Dinner' was eaten in the middle of the day."
+    },
+    {
+      "t": "done the mischief",
+      "c": "old",
+      "g": "Done the damage."
+    },
+    {
+      "t": "succeeding morning",
+      "c": "old",
+      "g": "Next morning."
+    },
+    {
+      "t": "laid up",
+      "c": "old",
+      "g": "Ill in bed."
+    },
+    {
+      "t": "incapacitated",
+      "c": "old",
+      "g": "Unable; too ill."
+    },
+    {
+      "t": "calamity",
+      "c": "old",
+      "g": "Disaster."
+    },
+    {
+      "t": "wait on me",
+      "c": "old",
+      "g": "Look after me."
+    },
+    {
+      "t": "exceedingly low",
+      "c": "old",
+      "g": "Very depressed."
+    },
+    {
+      "t": "the confinement",
+      "c": "shift",
+      "g": "Being shut up in bed.",
+      "m": "Not childbirth, which 'confinement' often meant then."
+    },
+    {
+      "t": "a stirring active body",
+      "c": "shift",
+      "g": "A busy, energetic person.",
+      "m": "'Body' here just means person."
+    },
+    {
+      "t": "usurped a minute",
+      "c": "old",
+      "g": "Stole a minute (from us)."
+    },
+    {
+      "t": "the fondest nurse that ever watched",
+      "c": "old",
+      "g": "The most loving nurse who ever sat up with a sick person.",
+      "n": "To 'watch' meant to stay awake beside a sickbed."
+    },
+    {
+      "t": "a fresh colour",
+      "c": "old",
+      "g": "A healthy glow."
+    },
+    {
+      "t": "the hue",
+      "c": "old",
+      "g": "The colour."
+    },
+    {
+      "t": "a cold ride across the moors",
+      "c": "ref",
+      "g": "Nelly, looking back, sees what the rosy cheeks really meant."
+    },
+    {
+      "t": "laid it to the charge of",
+      "c": "old",
+      "g": "Blamed it on."
+    }
+  ]
+}

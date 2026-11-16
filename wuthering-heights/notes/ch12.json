@@ -1,0 +1,1122 @@
+{
+  "orient": "Narrator: Nelly Dean, carrying straight on from Chapter XI. After the quarrel, Catherine has shut herself in her room and refuses to eat, Edgar keeps to the library, and Isabella mopes. It is the middle of winter; scholars date these days to January 1784.",
+  "notes": [
+    {
+      "t": "Miss Linton",
+      "c": "name",
+      "first": true,
+      "g": "Isabella Linton, Edgar's younger sister."
+    },
+    {
+      "t": "moped",
+      "c": "old",
+      "g": "Wandered about gloomily."
+    },
+    {
+      "t": "the park",
+      "c": "shift",
+      "g": "The private grounds of the Grange.",
+      "m": "Not a public park: the open land and trees around a country house."
+    },
+    {
+      "t": "wearying, I guessed, with a continual vague expectation",
+      "c": "old",
+      "g": "Wearing himself out, I supposed, with constantly half-hoping."
+    },
+    {
+      "t": "fasted pertinaciously",
+      "c": "old",
+      "g": "Refused food stubbornly."
+    },
+    {
+      "t": "cast himself at her feet",
+      "c": "old",
+      "g": "Throw himself down before her, begging forgiveness."
+    },
+    {
+      "t": "one sensible soul",
+      "c": "old",
+      "g": "One person with any common sense."
+    },
+    {
+      "t": "wasted no condolences on Miss",
+      "c": "old",
+      "g": "Didn't waste any sympathy on Isabella."
+    },
+    {
+      "t": "expostulations",
+      "c": "old",
+      "g": "Protests; attempts to reason her out of it."
+    },
+    {
+      "t": "his lady’s name",
+      "c": "old",
+      "g": "His wife's name."
+    },
+    {
+      "t": "come about as they pleased",
+      "c": "old",
+      "g": "Come round in their own time."
+    },
+    {
+      "t": "a faint dawn of its progress",
+      "c": "old",
+      "g": "The first faint signs of things improving."
+    },
+    {
+      "t": "Mrs. Linton",
+      "c": "name",
+      "first": true,
+      "g": "Catherine, Edgar's wife."
+    },
+    {
+      "t": "unbarred her door",
+      "c": "old",
+      "g": "Unbolted her door."
+    },
+    {
+      "t": "pitcher and decanter",
+      "c": "rural",
+      "g": "A water jug and a glass bottle for drinks.",
+      "n": "A bedroom would have a jug and basin for washing and water for drinking."
+    },
+    {
+      "t": "a basin of gruel",
+      "c": "old",
+      "g": "A bowl of thin, runny porridge, given to sick people."
+    },
+    {
+      "t": "I set down as a speech meant for Edgar’s ears",
+      "c": "old",
+      "g": "I took to be words meant to be passed on to Edgar."
+    },
+    {
+      "t": "external composure",
+      "c": "old",
+      "g": "Outward calm."
+    },
+    {
+      "t": "ghastly countenance",
+      "c": "shift",
+      "g": "Deathly pale face.",
+      "m": "'Ghastly' meant ghostlike and deathly-looking, not just 'very bad'."
+    },
+    {
+      "t": "apathetic being",
+      "c": "old",
+      "g": "Unfeeling creature (Edgar)."
+    },
+    {
+      "t": "entangled locks",
+      "c": "old",
+      "g": "Tangled hair."
+    },
+    {
+      "t": "wasted face",
+      "c": "old",
+      "g": "Thin, worn-out face."
+    },
+    {
+      "t": "lethargy",
+      "c": "old",
+      "g": "A heavy, sluggish stupor."
+    },
+    {
+      "t": "tolerably well",
+      "c": "old",
+      "g": "Reasonably well."
+    },
+    {
+      "t": "no other society",
+      "c": "shift",
+      "g": "No other company.",
+      "m": "'Society' here means companionship, not the community at large."
+    },
+    {
+      "t": "she acted a part of her disorder",
+      "c": "old",
+      "g": "She was putting on some of her illness."
+    },
+    {
+      "t": "on the brink of the grave",
+      "c": "old",
+      "g": "On the edge of death."
+    },
+    {
+      "t": "Catherine Linton",
+      "c": "ref",
+      "g": "Her married name.",
+      "n": "Remember the names scratched on the window ledge in Chapter III: Catherine Earnshaw, Catherine Heathcliff, Catherine Linton."
+    },
+    {
+      "t": "in a pet",
+      "c": "old",
+      "g": "In a sulk."
+    },
+    {
+      "t": "frightful earnest",
+      "c": "old",
+      "g": "Terribly serious."
+    },
+    {
+      "t": "leave the country",
+      "c": "shift",
+      "g": "Leave the district.",
+      "m": "'The country' often meant the local area, not the nation."
+    },
+    {
+      "t": "utterly indifferent for my life",
+      "c": "old",
+      "g": "Completely unconcerned whether I live or die."
+    },
+    {
+      "t": "deranged",
+      "c": "old",
+      "g": "Seriously unwell; disordered in mind."
+    },
+    {
+      "t": "with a relish",
+      "c": "old",
+      "g": "With appetite; with enjoyment."
+    },
+    {
+      "t": "closed my lids",
+      "c": "old",
+      "g": "Closed my eyes."
+    },
+    {
+      "t": "What in the name of all that feels",
+      "c": "old",
+      "g": "What in heaven's name: by everything that has feelings."
+    },
+    {
+      "t": "philosophical resignation",
+      "c": "old",
+      "g": "Calm acceptance of what can't be helped."
+    },
+    {
+      "t": "feverish bewilderment",
+      "c": "old",
+      "g": "Confusion caused by fever."
+    },
+    {
+      "t": "raising herself up all burning",
+      "c": "old",
+      "g": "Sitting up, burning with fever."
+    },
+    {
+      "t": "the doctor’s injunction",
+      "c": "old",
+      "g": "The doctor's order.",
+      "n": "After her fever in Chapter IX, Kenneth said she must not be crossed."
+    },
+    {
+      "t": "childish diversion",
+      "c": "old",
+      "g": "Childish amusement."
+    },
+    {
+      "t": "the rents",
+      "c": "shift",
+      "g": "The tears; the rips.",
+      "m": "Nothing to do with paying rent: a 'rent' is a tear in cloth."
+    },
+    {
+      "t": "ranging them",
+      "c": "old",
+      "g": "Arranging them; laying them out in rows."
+    },
+    {
+      "t": "her mind had strayed to other associations",
+      "c": "old",
+      "g": "Her mind had drifted off to other memories."
+    },
+    {
+      "t": "they put pigeons’ feathers in the pillows—no wonder I couldn’t die",
+      "c": "ref",
+      "g": "A folk belief: a person cannot die on a pillow stuffed with pigeon feathers.",
+      "n": "Country people sometimes took such a pillow away from a dying person to let them go peacefully."
+    },
+    {
+      "t": "a moor-cock’s",
+      "c": "rural",
+      "g": "From a moor-cock, a male red grouse."
+    },
+    {
+      "t": "lapwing",
+      "c": "rural",
+      "g": "A crested moorland bird, also called the peewit.",
+      "n": "Lapwings nest on the ground in open country and wheel and cry over intruders."
+    },
+    {
+      "t": "Bonny bird",
+      "c": "dialect",
+      "g": "Pretty bird."
+    },
+    {
+      "t": "the clouds had touched the swells",
+      "c": "rural",
+      "g": "The clouds had come down onto the rounded hilltops."
+    },
+    {
+      "t": "the heath",
+      "c": "rural",
+      "g": "Open moorland covered with heather."
+    },
+    {
+      "t": "the old ones dared not come",
+      "c": "rural",
+      "g": "The parent birds were too frightened to return, so the chicks starved."
+    },
+    {
+      "t": "Are they red",
+      "c": "old",
+      "g": "Is there blood on them (were they shot)?"
+    },
+    {
+      "t": "Give over with that baby-work",
+      "c": "dialect",
+      "g": "Stop that childish nonsense."
+    },
+    {
+      "t": "wandering",
+      "c": "shift",
+      "g": "Delirious; with the mind drifting.",
+      "m": "Not walking about: her mind is wandering."
+    },
+    {
+      "t": "The down",
+      "c": "rural",
+      "g": "The soft, fine feathers stuffed in the pillow."
+    },
+    {
+      "t": "the fairy cave",
+      "c": "ref",
+      "g": "In local legend, a cave in the crags where fairies lived."
+    },
+    {
+      "t": "Penistone Crags",
+      "c": "name",
+      "first": true,
+      "g": "A rocky outcrop on the moors near Wuthering Heights.",
+      "n": "Probably based on Ponden Kirk, a rocky outcrop on the moors near the Brontës' home at Haworth. The name echoes nearby Penistone Hill."
+    },
+    {
+      "t": "elf-bolts",
+      "c": "ref",
+      "g": "Ancient flint arrowheads, believed to be fairy weapons.",
+      "n": "Country people found these prehistoric arrowheads in fields and thought fairies shot them at cattle to make them sicken."
+    },
+    {
+      "t": "heifers",
+      "c": "rural",
+      "g": "Young cows that haven't yet had a calf."
+    },
+    {
+      "t": "locks of wool",
+      "c": "rural",
+      "g": "Tufts of sheep's wool."
+    },
+    {
+      "t": "fifty years hence",
+      "c": "old",
+      "g": "Fifty years from now."
+    },
+    {
+      "t": "withered hag",
+      "c": "old",
+      "g": "Shrivelled old witch."
+    },
+    {
+      "t": "the black press",
+      "c": "rural",
+      "g": "A tall dark wooden cupboard for clothes or linen.",
+      "n": "Lockwood noticed a 'clothes-press' in the little room at Wuthering Heights where he slept (Chapter III)."
+    },
+    {
+      "t": "shine like jet",
+      "c": "old",
+      "g": "Gleam like jet, a glossy black stone.",
+      "n": "Jet was mined at Whitby on the Yorkshire coast and polished for jewellery."
+    },
+    {
+      "t": "looping up the curtain",
+      "c": "ref",
+      "g": "Tying back the bed curtain.",
+      "n": "Beds had curtains around them for warmth and privacy."
+    },
+    {
+      "t": "covered it with a shawl",
+      "c": "old",
+      "g": "Hung a shawl over the mirror."
+    },
+    {
+      "t": "bid her be composed",
+      "c": "old",
+      "g": "Told her to calm down."
+    },
+    {
+      "t": "convulsed her frame",
+      "c": "old",
+      "g": "Shook her body violently."
+    },
+    {
+      "t": "the glass",
+      "c": "old",
+      "g": "The mirror."
+    },
+    {
+      "t": "a while since",
+      "c": "old",
+      "g": "A little while ago."
+    },
+    {
+      "t": "clutched the clothes",
+      "c": "shift",
+      "g": "Gripped the bedclothes.",
+      "m": "'Clothes' here means bedclothes: sheets and blankets."
+    },
+    {
+      "t": "steal to the door",
+      "c": "old",
+      "g": "Creep quietly to the door."
+    },
+    {
+      "t": "my chamber",
+      "c": "old",
+      "g": "My bedroom."
+    },
+    {
+      "t": "my dreams appal me",
+      "c": "old",
+      "g": "My dreams horrify me."
+    },
+    {
+      "t": "the firs by the lattice",
+      "c": "rural",
+      "g": "The fir trees outside the window.",
+      "n": "In Chapter III Lockwood heard a fir branch tapping the window of that very room."
+    },
+    {
+      "t": "To pacify her",
+      "c": "old",
+      "g": "To calm her."
+    },
+    {
+      "t": "the casement ajar",
+      "c": "rural",
+      "g": "The hinged window slightly open."
+    },
+    {
+      "t": "subdued her spirit",
+      "c": "old",
+      "g": "Broke her fighting spirit for now."
+    },
+    {
+      "t": "a weary number of hours",
+      "c": "old",
+      "g": "A tiringly long time."
+    },
+    {
+      "t": "being cruelly provoking",
+      "c": "old",
+      "g": "Being cruelly annoying."
+    },
+    {
+      "t": "no command of tongue, or brain",
+      "c": "old",
+      "g": "No control over what I said or thought."
+    },
+    {
+      "t": "dimly discerning",
+      "c": "old",
+      "g": "Faintly making out."
+    },
+    {
+      "t": "the oak-panelled bed at home",
+      "c": "rural",
+      "g": "The wooden box-bed with sliding panels in her old room at Wuthering Heights.",
+      "n": "The same 'oak case' bed Lockwood slept in in Chapter III."
+    },
+    {
+      "t": "the whole last seven years of my life grew a blank",
+      "c": "old",
+      "g": "She forgot the last seven years entirely.",
+      "n": "Seven years back takes her to age twelve, just after her father died (end of Chapter V)."
+    },
+    {
+      "t": "my father was just buried",
+      "c": "ref",
+      "g": "Old Mr. Earnshaw had just died.",
+      "n": "His death ends Chapter V. Catherine's diary in Chapter III was written in the days after it."
+    },
+    {
+      "t": "the separation that Hindley had ordered between me and Heathcliff",
+      "c": "ref",
+      "g": "Hindley's new rule keeping the two children apart.",
+      "n": "After his father's death Hindley pushed Heathcliff down among the servants (Chapter VI)."
+    },
+    {
+      "t": "I was laid alone, for the first time",
+      "c": "old",
+      "g": "I was put to bed alone for the first time.",
+      "n": "The way she tells it, sleeping alone was part of Hindley's separating her from Heathcliff."
+    },
+    {
+      "t": "a dismal doze",
+      "c": "old",
+      "g": "A gloomy, light sleep."
+    },
+    {
+      "t": "my late anguish",
+      "c": "shift",
+      "g": "My recent agony.",
+      "m": "'Late' here means recent, not dead."
+    },
+    {
+      "t": "a paroxysm of despair",
+      "c": "old",
+      "g": "A sudden violent fit of despair."
+    },
+    {
+      "t": "temporary derangement",
+      "c": "old",
+      "g": "A brief fit of madness."
+    },
+    {
+      "t": "wrenched from the Heights",
+      "c": "old",
+      "g": "Torn away from Wuthering Heights."
+    },
+    {
+      "t": "every early association",
+      "c": "old",
+      "g": "Everything connected with my childhood."
+    },
+    {
+      "t": "my all in all",
+      "c": "old",
+      "g": "My everything."
+    },
+    {
+      "t": "converted at a stroke",
+      "c": "old",
+      "g": "Turned all at once."
+    },
+    {
+      "t": "an exile, and outcast",
+      "c": "old",
+      "g": "Banished and cast out."
+    },
+    {
+      "t": "thenceforth",
+      "c": "old",
+      "g": "From then on."
+    },
+    {
+      "t": "the abyss where I grovelled",
+      "c": "old",
+      "g": "The pit of misery I lay in."
+    },
+    {
+      "t": "leave me quiet",
+      "c": "old",
+      "g": "Leave me in peace."
+    },
+    {
+      "t": "half savage and hardy",
+      "c": "old",
+      "g": "Half wild and tough."
+    },
+    {
+      "t": "laughing at injuries, not maddening under them",
+      "c": "old",
+      "g": "Laughing off hurts instead of being driven mad by them."
+    },
+    {
+      "t": "a hell of tumult",
+      "c": "old",
+      "g": "A hellish turmoil."
+    },
+    {
+      "t": "among the heather",
+      "c": "rural",
+      "g": "Out on the moors.",
+      "n": "Heather is the low, purple-flowered shrub that covers the Yorkshire moors."
+    },
+    {
+      "t": "your death of cold",
+      "c": "old",
+      "g": "A chill that could kill you."
+    },
+    {
+      "t": "careless of the frosty air",
+      "c": "shift",
+      "g": "Not caring about the frosty air.",
+      "m": "'Careless of' means heedless of, not sloppy."
+    },
+    {
+      "t": "I entreated",
+      "c": "old",
+      "g": "I begged."
+    },
+    {
+      "t": "retire",
+      "c": "shift",
+      "g": "Go back from the window; go back to bed.",
+      "m": "'Retire' here means withdraw, not stop working."
+    },
+    {
+      "t": "delirious strength",
+      "c": "old",
+      "g": "The wild strength of someone in a fever."
+    },
+    {
+      "t": "Joseph’s garret",
+      "c": "rural",
+      "g": "Joseph's attic room.",
+      "n": "Joseph is the old servant at Wuthering Heights."
+    },
+    {
+      "t": "Gimmerton Kirk",
+      "c": "dialect",
+      "g": "Gimmerton church.",
+      "n": "'Kirk' is the northern and Scottish word for church. It is the building Nelly also calls the chapel."
+    },
+    {
+      "t": "braved its ghosts",
+      "c": "old",
+      "g": "Faced the ghosts said to haunt it."
+    },
+    {
+      "t": "that kirkyard",
+      "c": "dialect",
+      "g": "That churchyard."
+    },
+    {
+      "t": "Perceiving it vain",
+      "c": "old",
+      "g": "Seeing it was useless."
+    },
+    {
+      "t": "the gaping lattice",
+      "c": "rural",
+      "g": "The wide-open window."
+    },
+    {
+      "t": "consternation",
+      "c": "old",
+      "g": "Alarm and dismay."
+    },
+    {
+      "t": "the lobby",
+      "c": "shift",
+      "g": "The upstairs passage or landing.",
+      "m": "Not an entrance hall in a hotel: just a corridor outside the rooms."
+    },
+    {
+      "t": "signified",
+      "c": "old",
+      "g": "Indicated; let me know."
+    },
+    {
+      "t": "checking the exclamation risen to his lips",
+      "c": "old",
+      "g": "Cutting off the cry he was about to make."
+    },
+    {
+      "t": "she quite masters me",
+      "c": "old",
+      "g": "She is too strong for me."
+    },
+    {
+      "t": "hard to guide any way but her own",
+      "c": "old",
+      "g": "Hard to manage unless she gets her way."
+    },
+    {
+      "t": "haggardness",
+      "c": "old",
+      "g": "Worn, wasted look."
+    },
+    {
+      "t": "smote him speechless",
+      "c": "old",
+      "g": "Struck him dumb."
+    },
+    {
+      "t": "fretting",
+      "c": "old",
+      "g": "Worrying and brooding."
+    },
+    {
+      "t": "abstracted gaze",
+      "c": "old",
+      "g": "Faraway, absent stare."
+    },
+    {
+      "t": "The delirium was not fixed",
+      "c": "old",
+      "g": "Her delirium came and went."
+    },
+    {
+      "t": "weaned her eyes",
+      "c": "old",
+      "g": "Drawn her eyes away."
+    },
+    {
+      "t": "my narrow home out yonder",
+      "c": "ref",
+      "g": "My grave, out there.",
+      "n": "'Narrow house' or 'narrow home' was an old poetic phrase for the grave."
+    },
+    {
+      "t": "not among the Lintons, mind, under the chapel-roof",
+      "c": "ref",
+      "g": "Not in the Linton family vault inside the church.",
+      "n": "Wealthy families were often buried inside the church; ordinary people lay outside in the churchyard."
+    },
+    {
+      "t": "head-stone",
+      "c": "rural",
+      "g": "Gravestone."
+    },
+    {
+      "t": "proper attendance",
+      "c": "old",
+      "g": "Proper nursing and care."
+    },
+    {
+      "t": "she’ll rally",
+      "c": "old",
+      "g": "She'll recover."
+    },
+    {
+      "t": "harass her",
+      "c": "old",
+      "g": "Keep at her; torment her."
+    },
+    {
+      "t": "another’s wicked waywardness",
+      "c": "old",
+      "g": "Someone else's wicked stubbornness."
+    },
+    {
+      "t": "headstrong and domineering",
+      "c": "old",
+      "g": "Wilful and bossy."
+    },
+    {
+      "t": "foster her fierce temper",
+      "c": "old",
+      "g": "Encourage her fierce temper."
+    },
+    {
+      "t": "wink at Mr. Heathcliff",
+      "c": "old",
+      "g": "Pretend not to see what Heathcliff was up to."
+    },
+    {
+      "t": "a faithful servant’s wages",
+      "c": "old",
+      "g": "The usual reward for loyalty (sarcastic: blame)."
+    },
+    {
+      "t": "gather intelligence",
+      "c": "shift",
+      "g": "Gather information.",
+      "m": "'Intelligence' here means news or information, not cleverness."
+    },
+    {
+      "t": "quit my service",
+      "c": "ref",
+      "g": "Leave my employment; be dismissed."
+    },
+    {
+      "t": "a-courting to Miss",
+      "c": "old",
+      "g": "Courting Miss Isabella."
+    },
+    {
+      "t": "her wits were alert at applying our conversation",
+      "c": "old",
+      "g": "Her mind was quick to pick up what we were saying."
+    },
+    {
+      "t": "make her rue",
+      "c": "old",
+      "g": "Make her regret it."
+    },
+    {
+      "t": "howl a recantation",
+      "c": "old",
+      "g": "Scream out that she takes it all back."
+    },
+    {
+      "t": "tarry the event",
+      "c": "old",
+      "g": "Wait to see what happened."
+    },
+    {
+      "t": "on my own responsibility",
+      "c": "old",
+      "g": "Without waiting to be told; on my own decision."
+    },
+    {
+      "t": "a bridle hook",
+      "c": "rural",
+      "g": "A metal hook for tying up a horse by its reins."
+    },
+    {
+      "t": "another agent than the wind",
+      "c": "old",
+      "g": "Something other than the wind."
+    },
+    {
+      "t": "Notwithstanding my hurry",
+      "c": "old",
+      "g": "In spite of my hurry."
+    },
+    {
+      "t": "lest",
+      "c": "old",
+      "g": "For fear that; in case."
+    },
+    {
+      "t": "a creature of the other world",
+      "c": "old",
+      "g": "A ghost or spirit."
+    },
+    {
+      "t": "springer",
+      "c": "rural",
+      "g": "A springer spaniel, a small lively hunting dog.",
+      "n": "Her name is Fanny."
+    },
+    {
+      "t": "at its last gasp",
+      "c": "old",
+      "g": "Almost dead."
+    },
+    {
+      "t": "Mr. Kenneth",
+      "c": "name",
+      "first": true,
+      "g": "The doctor from Gimmerton.",
+      "n": "He treated Catherine's fever three years earlier (Chapter IX)."
+    },
+    {
+      "t": "issuing from his house",
+      "c": "old",
+      "g": "Coming out of his house."
+    },
+    {
+      "t": "malady",
+      "c": "old",
+      "g": "Illness."
+    },
+    {
+      "t": "a plain rough man",
+      "c": "old",
+      "g": "A blunt, unpolished man."
+    },
+    {
+      "t": "made no scruple to speak his doubts",
+      "c": "old",
+      "g": "Didn't hesitate to say he doubted."
+    },
+    {
+      "t": "this second attack",
+      "c": "ref",
+      "g": "Her second serious illness.",
+      "n": "The first was the fever after Heathcliff vanished (Chapter IX)."
+    },
+    {
+      "t": "We’ve odd reports up here",
+      "c": "old",
+      "g": "Strange rumours are going round here."
+    },
+    {
+      "t": "A stout, hearty lass",
+      "c": "shift",
+      "g": "A strong, healthy girl.",
+      "m": "'Stout' meant sturdy and robust, not fat."
+    },
+    {
+      "t": "that sort of people should not either",
+      "c": "old",
+      "g": "People of her class shouldn't either.",
+      "n": "Kenneth seems to mean that the Lintons' kind of gentlefolk are less hardy."
+    },
+    {
+      "t": "violent dispositions",
+      "c": "old",
+      "g": "Violent temperaments."
+    },
+    {
+      "t": "caps them all",
+      "c": "old",
+      "g": "Outdoes them all."
+    },
+    {
+      "t": "a tempest of passion",
+      "c": "old",
+      "g": "A storm of rage."
+    },
+    {
+      "t": "flew off in the height of it",
+      "c": "old",
+      "g": "Rushed away at the peak of it."
+    },
+    {
+      "t": "illusions",
+      "c": "old",
+      "g": "Things she imagines that aren't real."
+    },
+    {
+      "t": "bide the consequences",
+      "c": "dialect",
+      "g": "Put up with the consequences."
+    },
+    {
+      "t": "intimate with Mr. Heathcliff",
+      "c": "shift",
+      "g": "Friendly and close with Mr. Heathcliff.",
+      "m": "'Intimate' meant close and familiar, with no sexual sense."
+    },
+    {
+      "t": "discharged from the trouble of calling",
+      "c": "old",
+      "g": "Spared the bother of visiting (a polite way of saying banned)."
+    },
+    {
+      "t": "presumptuous aspirations after Miss Linton",
+      "c": "old",
+      "g": "Bold hopes of winning Miss Linton, above his station."
+    },
+    {
+      "t": "taken in again",
+      "c": "old",
+      "g": "Let into the house again."
+    },
+    {
+      "t": "turn a cold shoulder on him",
+      "c": "old",
+      "g": "Ignore or reject him."
+    },
+    {
+      "t": "I’m not in her confidence",
+      "c": "old",
+      "g": "She doesn't confide in me."
+    },
+    {
+      "t": "keeps her own counsel",
+      "c": "old",
+      "g": "Keeps her thoughts and plans to herself."
+    },
+    {
+      "t": "a pretty night it was",
+      "c": "shift",
+      "g": "It was a nasty night.",
+      "m": "'Pretty' here is sarcastic."
+    },
+    {
+      "t": "the plantation",
+      "c": "shift",
+      "g": "A wood of planted trees.",
+      "m": "Not a large farm growing crops: in England a 'plantation' was a stand of planted trees."
+    },
+    {
+      "t": "mount his horse and away with him",
+      "c": "old",
+      "g": "Get on his horse and ride off with him."
+    },
+    {
+      "t": "pledging her word of honour",
+      "c": "old",
+      "g": "Solemnly promising."
+    },
+    {
+      "t": "look sharp",
+      "c": "old",
+      "g": "Be alert; act quickly."
+    },
+    {
+      "t": "outstripped Kenneth",
+      "c": "old",
+      "g": "Ran ahead of Kenneth."
+    },
+    {
+      "t": "coursed up and down snuffing the grass",
+      "c": "old",
+      "g": "Ran up and down sniffing the grass, like a hound on a scent."
+    },
+    {
+      "t": "arrested her rash step",
+      "c": "shift",
+      "g": "Stopped her reckless act.",
+      "m": "'Arrest' just meant to stop or check, not a police arrest."
+    },
+    {
+      "t": "a bare possibility",
+      "c": "old",
+      "g": "A slim chance."
+    },
+    {
+      "t": "unfold the business",
+      "c": "old",
+      "g": "Explain the matter."
+    },
+    {
+      "t": "his present calamity",
+      "c": "old",
+      "g": "His current disaster (Catherine's illness)."
+    },
+    {
+      "t": "suffer matters to take their course",
+      "c": "shift",
+      "g": "Let things take their course.",
+      "m": "'Suffer' here means allow, not feel pain."
+    },
+    {
+      "t": "a badly composed countenance",
+      "c": "old",
+      "g": "A face that hid my alarm badly."
+    },
+    {
+      "t": "a favourable termination",
+      "c": "old",
+      "g": "A good outcome."
+    },
+    {
+      "t": "permanent alienation of intellect",
+      "c": "old",
+      "g": "Losing her mind for good.",
+      "n": "Doctors called madness 'alienation', which is why mental doctors were once called 'alienists'."
+    },
+    {
+      "t": "stealthy tread",
+      "c": "old",
+      "g": "Quiet, careful footsteps."
+    },
+    {
+      "t": "vocations",
+      "c": "old",
+      "g": "Jobs; duties."
+    },
+    {
+      "t": "the first proclaimant of her flight",
+      "c": "old",
+      "g": "The first to announce that she had run away."
+    },
+    {
+      "t": "What mun we have next?",
+      "c": "dialect",
+      "g": "What must we have next? (What else can go wrong?)"
+    },
+    {
+      "t": "Hold your noise!",
+      "c": "old",
+      "g": "Be quiet!"
+    },
+    {
+      "t": "Mary",
+      "c": "name",
+      "first": true,
+      "g": "One of the maids at the Grange."
+    },
+    {
+      "t": "What ails your young lady?",
+      "c": "old",
+      "g": "What's wrong with your young lady?"
+    },
+    {
+      "t": "Yon’ Heathcliff’s run off wi’ her!",
+      "c": "dialect",
+      "g": "That Heathcliff has run off with her!"
+    },
+    {
+      "t": "It is incredible",
+      "c": "shift",
+      "g": "It is unbelievable.",
+      "m": "Literally 'not believable', not 'amazing'."
+    },
+    {
+      "t": "a lad that fetches milk here",
+      "c": "rural",
+      "g": "A boy who brings milk to the house from a farm."
+    },
+    {
+      "t": "missis’s sickness",
+      "c": "dialect",
+      "g": "The mistress's illness."
+    },
+    {
+      "t": "a horse’s shoe fastened at a blacksmith’s shop",
+      "c": "rural",
+      "g": "A loose horseshoe nailed back on at the forge."
+    },
+    {
+      "t": "the blacksmith’s lass",
+      "c": "dialect",
+      "g": "The blacksmith's daughter."
+    },
+    {
+      "t": "she knew them both directly",
+      "c": "shift",
+      "g": "She recognised them both at once.",
+      "m": "'Directly' meant immediately."
+    },
+    {
+      "t": "nob’dy",
+      "c": "dialect",
+      "g": "Nobody."
+    },
+    {
+      "t": "a sovereign",
+      "c": "ref",
+      "g": "A gold coin worth one pound: a very generous payment.",
+      "n": "Strictly, the modern sovereign was first minted in 1817; in 1784 the gold coin would have been a guinea. Brontë uses the coin of her own day."
+    },
+    {
+      "t": "a sup of water",
+      "c": "dialect",
+      "g": "A sip of water."
+    },
+    {
+      "t": "held both bridles",
+      "c": "rural",
+      "g": "Held the reins of both horses."
+    },
+    {
+      "t": "set their faces from the village",
+      "c": "old",
+      "g": "Headed away from the village."
+    },
+    {
+      "t": "for form’s sake",
+      "c": "old",
+      "g": "Just to go through the motions."
+    },
+    {
+      "t": "my blank aspect",
+      "c": "old",
+      "g": "My stunned, empty expression."
+    },
+    {
+      "t": "only my sister in name",
+      "c": "old",
+      "g": "My sister only in name, no longer in feeling."
+    },
+    {
+      "t": "what property she had in the house",
+      "c": "old",
+      "g": "Whatever belongings she had in the house."
+    },
+    {
+      "t": "her fresh home",
+      "c": "old",
+      "g": "Her new home."
+    }
+  ]
+}

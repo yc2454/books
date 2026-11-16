@@ -1,0 +1,1045 @@
+{
+ "orient": "Narrator: Nelly Dean, carrying straight on from Isabella's letter in Chapter XIII, in the early spring of 1784. At the very end, after the row of asterisks, Lockwood takes over again with a few lines of his own as Nelly goes down to meet the doctor.",
+ "notes": [
+  {
+   "t": "perused this epistle",
+   "c": "shift",
+   "g": "Read this letter carefully.",
+   "m": "'Peruse' means to read thoroughly, not to skim. An 'epistle' is a letter."
+  },
+  {
+   "t": "the master",
+   "c": "old",
+   "g": "Edgar Linton, Nelly's employer."
+  },
+  {
+   "t": "Mrs. Linton’s situation",
+   "c": "old",
+   "g": "Catherine's condition: her illness."
+  },
+  {
+   "t": "ardent",
+   "c": "old",
+   "g": "Passionate; eager."
+  },
+  {
+   "t": "transmit",
+   "c": "old",
+   "g": "Send."
+  },
+  {
+   "t": "token of forgiveness by me",
+   "c": "old",
+   "g": "A sign of forgiveness, sent through me: a note or keepsake."
+  },
+  {
+   "t": "said Linton",
+   "c": "name",
+   "g": "Linton here means Edgar."
+  },
+  {
+   "t": "It is out of the question",
+   "c": "old",
+   "g": "It is impossible."
+  },
+  {
+   "t": "eternally divided",
+   "c": "old",
+   "g": "Separated forever."
+  },
+  {
+   "t": "should she really wish to oblige me",
+   "c": "old",
+   "g": "If she really wants to do me a favour."
+  },
+  {
+   "t": "leave the country",
+   "c": "shift",
+   "g": "Leave the area.",
+   "m": "'Country' here means the district or neighbourhood, not the nation."
+  },
+  {
+   "t": "imploringly",
+   "c": "old",
+   "g": "Pleadingly."
+  },
+  {
+   "t": "needless",
+   "c": "old",
+   "g": "Unnecessary."
+  },
+  {
+   "t": "sparing",
+   "c": "old",
+   "g": "Scant; as little as possible."
+  },
+  {
+   "t": "Mr. Edgar’s coldness depressed me exceedingly",
+   "c": "old",
+   "g": "Edgar's coldness made me very sad."
+  },
+  {
+   "t": "puzzled my brains",
+   "c": "old",
+   "g": "Racked my brains; thought hard."
+  },
+  {
+   "t": "console",
+   "c": "old",
+   "g": "Comfort."
+  },
+  {
+   "t": "the lattice",
+   "c": "rural",
+   "g": "The window, made of small panes held in a criss-cross frame."
+  },
+  {
+   "t": "garden causeway",
+   "c": "rural",
+   "g": "The paved path up through the garden."
+  },
+  {
+   "t": "dismal",
+   "c": "old",
+   "g": "Gloomy; depressing."
+  },
+  {
+   "t": "the formerly cheerful house",
+   "c": "ref",
+   "g": "Wuthering Heights, which was a happier place when Nelly lived there."
+  },
+  {
+   "t": "a duster",
+   "c": "old",
+   "g": "A dust cloth."
+  },
+  {
+   "t": "partook of the pervading spirit of neglect which encompassed her",
+   "c": "old",
+   "g": "Had caught the general air of neglect around her."
+  },
+  {
+   "t": "wan and listless",
+   "c": "old",
+   "g": "Pale and lifeless."
+  },
+  {
+   "t": "lankly",
+   "c": "old",
+   "g": "Limply and straight."
+  },
+  {
+   "t": "yester evening",
+   "c": "old",
+   "g": "Yesterday evening."
+  },
+  {
+   "t": "Hindley",
+   "c": "name",
+   "first": true,
+   "g": "Hindley Earnshaw, Catherine's brother and master of Wuthering Heights."
+  },
+  {
+   "t": "pocket-book",
+   "c": "shift",
+   "g": "A small leather wallet or folder for papers and notes.",
+   "m": "Not a pocket-sized book to read, and not a woman's purse."
+  },
+  {
+   "t": "asked me how I did",
+   "c": "old",
+   "g": "Asked how I was."
+  },
+  {
+   "t": "decent",
+   "c": "shift",
+   "g": "Respectable-looking; properly dressed and tidy.",
+   "m": "About appearance here, not moral goodness."
+  },
+  {
+   "t": "a born and bred gentleman",
+   "c": "ref",
+   "g": "A gentleman from birth and by upbringing.",
+   "n": "Strong praise: Heathcliff was a foundling with no family name (Chapter IV)."
+  },
+  {
+   "t": "a thorough little slattern",
+   "c": "old",
+   "g": "A real little slob; a messy, untidy woman."
+  },
+  {
+   "t": "sideboard",
+   "c": "old",
+   "g": "A long low cabinet for dishes, against a dining-room wall."
+  },
+  {
+   "t": "bonnet",
+   "c": "old",
+   "g": "A woman's hat tied under the chin."
+  },
+  {
+   "t": "importuned me",
+   "c": "old",
+   "g": "Pestered me; begged me insistently."
+  },
+  {
+   "t": "directly",
+   "c": "shift",
+   "g": "Immediately.",
+   "m": "A time word, not 'in a straight line'."
+  },
+  {
+   "t": "manœuvres",
+   "c": "old",
+   "g": "Manoeuvres: sly moves, tactics."
+  },
+  {
+   "t": "Nelly",
+   "c": "name",
+   "first": true,
+   "g": "Nelly Dean, the narrator.",
+   "n": "Heathcliff uses her familiar name; Isabella calls her Ellen."
+  },
+  {
+   "t": "bid me tell",
+   "c": "old",
+   "g": "Told me to tell."
+  },
+  {
+   "t": "occasioned",
+   "c": "old",
+   "g": "Caused."
+  },
+  {
+   "t": "drop intercommunication",
+   "c": "old",
+   "g": "Stop all contact."
+  },
+  {
+   "t": "Mrs. Heathcliff",
+   "c": "name",
+   "first": true,
+   "g": "Isabella, now Heathcliff's wife.",
+   "n": "Careful: in Chapters I to IV, 'Mrs. Heathcliff' was the young woman Lockwood met at the Heights in 1801. Here, in 1784, it means Isabella."
+  },
+  {
+   "t": "hearthstone",
+   "c": "rural",
+   "g": "The flat stone floor in front of a fireplace."
+  },
+  {
+   "t": "as I thought proper",
+   "c": "old",
+   "g": "As I thought appropriate."
+  },
+  {
+   "t": "extorted",
+   "c": "old",
+   "g": "Forced out of me."
+  },
+  {
+   "t": "cross-examination",
+   "c": "ref",
+   "g": "Sharp questioning, like a lawyer questioning a witness in court."
+  },
+  {
+   "t": "its origin",
+   "c": "old",
+   "g": "How it started.",
+   "n": "Catherine's illness began after the quarrel between Heathcliff and Edgar in Chapter XI."
+  },
+  {
+   "t": "for good or evil",
+   "c": "old",
+   "g": "Whether for better or worse."
+  },
+  {
+   "t": "if you really have a regard for her",
+   "c": "shift",
+   "g": "If you really care for her.",
+   "m": "'Regard' here means affection, not just respect or attention."
+  },
+  {
+   "t": "shun",
+   "c": "old",
+   "g": "Avoid."
+  },
+  {
+   "t": "this country",
+   "c": "shift",
+   "g": "This part of the country.",
+   "m": "Not the nation: the district."
+  },
+  {
+   "t": "compelled, of necessity",
+   "c": "old",
+   "g": "Forced, with no choice."
+  },
+  {
+   "t": "sustain his affection hereafter",
+   "c": "old",
+   "g": "Keep up his love from now on."
+  },
+  {
+   "t": "common humanity",
+   "c": "old",
+   "g": "Ordinary human kindness."
+  },
+  {
+   "t": "exact a promise",
+   "c": "old",
+   "g": "Force a promise out of you."
+  },
+  {
+   "t": "an interview with her",
+   "c": "shift",
+   "g": "A meeting with her.",
+   "m": "Not a formal question session: any face-to-face meeting."
+  },
+  {
+   "t": "through my means",
+   "c": "old",
+   "g": "With my help."
+  },
+  {
+   "t": "going to extremes",
+   "c": "old",
+   "g": "Doing something drastic or violent."
+  },
+  {
+   "t": "sincerity",
+   "c": "old",
+   "g": "Honesty."
+  },
+  {
+   "t": "from his loss",
+   "c": "old",
+   "g": "From losing him (if Edgar died)."
+  },
+  {
+   "t": "turned my life to gall",
+   "c": "old",
+   "g": "Made my whole life bitter.",
+   "n": "'Gall' is bile, a byword for bitterness. In the Bible, Jesus is offered vinegar mixed with gall on the cross."
+  },
+  {
+   "t": "incredulous",
+   "c": "old",
+   "g": "Disbelieving."
+  },
+  {
+   "t": "The moment her regard ceased",
+   "c": "old",
+   "g": "The moment she stopped caring for him."
+  },
+  {
+   "t": "died by inches",
+   "c": "old",
+   "g": "Died slowly, bit by bit."
+  },
+  {
+   "t": "scruples",
+   "c": "old",
+   "g": "Moral doubts that stop you doing something."
+  },
+  {
+   "t": "perfect restoration",
+   "c": "old",
+   "g": "Full recovery."
+  },
+  {
+   "t": "tumult",
+   "c": "old",
+   "g": "Turmoil; violent upset."
+  },
+  {
+   "t": "discord",
+   "c": "old",
+   "g": "Conflict; strife."
+  },
+  {
+   "t": "At a most miserable period of my life",
+   "c": "ref",
+   "g": "During the worst time of my life.",
+   "n": "Probably the three years he was away, after overhearing Catherine say it would degrade her to marry him (Chapter IX)."
+  },
+  {
+   "t": "last summer",
+   "c": "ref",
+   "g": "When Heathcliff came back, in Chapter X."
+  },
+  {
+   "t": "Two words would comprehend my future",
+   "c": "shift",
+   "g": "Two words would sum up my future.",
+   "m": "'Comprehend' means 'contain' or 'include' here, not 'understand'."
+  },
+  {
+   "t": "death and hell",
+   "c": "ref",
+   "g": "Death and hell.",
+   "n": "'Death and hell' are paired several times in the Bible's Book of Revelation. Heathcliff means life without Catherine would be hell."
+  },
+  {
+   "t": "his puny being",
+   "c": "old",
+   "g": "His feeble self.",
+   "n": "'Puny' means weak and small."
+  },
+  {
+   "t": "horse-trough",
+   "c": "rural",
+   "g": "A long open box of water for horses to drink from."
+  },
+  {
+   "t": "monopolised",
+   "c": "old",
+   "g": "Taken up entirely."
+  },
+  {
+   "t": "Tush!",
+   "c": "old",
+   "g": "Pah! Nonsense!"
+  },
+  {
+   "t": "scarcely a degree dearer",
+   "c": "old",
+   "g": "Hardly any more beloved."
+  },
+  {
+   "t": "vivacity",
+   "c": "old",
+   "g": "Liveliness; spirit."
+  },
+  {
+   "t": "depreciated",
+   "c": "old",
+   "g": "Belittled; run down."
+  },
+  {
+   "t": "wondrous fond",
+   "c": "old",
+   "g": "Wonderfully fond (sarcastic)."
+  },
+  {
+   "t": "turns you adrift on the world",
+   "c": "old",
+   "g": "Casts you out on your own."
+  },
+  {
+   "t": "alacrity",
+   "c": "old",
+   "g": "Speed and eagerness."
+  },
+  {
+   "t": "My young lady",
+   "c": "old",
+   "g": "Isabella, whom Nelly served at the Grange."
+  },
+  {
+   "t": "her change of condition",
+   "c": "old",
+   "g": "Her marriage.",
+   "n": "'Condition' meant your position in life, such as single or married."
+  },
+  {
+   "t": "comes short",
+   "c": "old",
+   "g": "Falls short; is lacking."
+  },
+  {
+   "t": "a mere slut",
+   "c": "shift",
+   "g": "A complete slob; a dirty, untidy woman.",
+   "m": "No sexual meaning here: a 'slut' was a woman careless about cleanliness. Still harsh and insulting."
+  },
+  {
+   "t": "uncommonly early",
+   "c": "old",
+   "g": "Unusually early."
+  },
+  {
+   "t": "You’d hardly credit it",
+   "c": "old",
+   "g": "You'd hardly believe it."
+  },
+  {
+   "t": "the very morrow of our wedding",
+   "c": "old",
+   "g": "The very day after our wedding."
+  },
+  {
+   "t": "over nice",
+   "c": "shift",
+   "g": "Too fussy or refined.",
+   "m": "'Nice' meant particular, dainty, fastidious, not pleasant."
+  },
+  {
+   "t": "rambling abroad",
+   "c": "shift",
+   "g": "Wandering about outside.",
+   "m": "'Abroad' meant out of the house, not in a foreign country."
+  },
+  {
+   "t": "accustomed to be looked after",
+   "c": "old",
+   "g": "Used to being cared for."
+  },
+  {
+   "t": "an only daughter",
+   "c": "old",
+   "g": "The only girl in the family."
+  },
+  {
+   "t": "elegancies",
+   "c": "old",
+   "g": "Refinements; fine things."
+  },
+  {
+   "t": "fix contentedly",
+   "c": "old",
+   "g": "Settle down happily."
+  },
+  {
+   "t": "a wilderness",
+   "c": "old",
+   "g": "A wild, uncivilised place."
+  },
+  {
+   "t": "under a delusion",
+   "c": "old",
+   "g": "Believing something false."
+  },
+  {
+   "t": "a hero of romance",
+   "c": "ref",
+   "g": "A hero from a romantic novel.",
+   "n": "'Romance' meant a story of love and adventure. Heathcliff says Isabella fell for an imaginary dashing hero."
+  },
+  {
+   "t": "unlimited indulgences",
+   "c": "old",
+   "g": "Endless favours and pampering."
+  },
+  {
+   "t": "chivalrous devotion",
+   "c": "old",
+   "g": "Gallant, knightly love."
+  },
+  {
+   "t": "a rational creature",
+   "c": "old",
+   "g": "A thinking being; someone capable of reason."
+  },
+  {
+   "t": "obstinately",
+   "c": "old",
+   "g": "Stubbornly."
+  },
+  {
+   "t": "a fabulous notion of my character",
+   "c": "shift",
+   "g": "An imaginary, fairy-tale idea of what I'm like.",
+   "m": "'Fabulous' means 'like a fable', made-up, not 'wonderful'."
+  },
+  {
+   "t": "grimaces",
+   "c": "old",
+   "g": "Faces; exaggerated expressions."
+  },
+  {
+   "t": "discerning",
+   "c": "old",
+   "g": "Seeing; recognising."
+  },
+  {
+   "t": "in earnest",
+   "c": "old",
+   "g": "Serious; not joking."
+  },
+  {
+   "t": "infatuation",
+   "c": "old",
+   "g": "Foolish, blind passion."
+  },
+  {
+   "t": "perspicacity",
+   "c": "old",
+   "g": "Sharp insight (sarcastic)."
+  },
+  {
+   "t": "a piece of appalling intelligence",
+   "c": "shift",
+   "g": "A shocking piece of news.",
+   "m": "'Intelligence' here means news or information."
+  },
+  {
+   "t": "A positive labour of Hercules",
+   "c": "ref",
+   "g": "A truly huge task.",
+   "n": "In Greek myth, the hero Hercules had to perform twelve near-impossible 'labours'. Heathcliff mocks how hard it was to make her hate him."
+  },
+  {
+   "t": "If it be achieved",
+   "c": "old",
+   "g": "If it really has been done."
+  },
+  {
+   "t": "wheedling",
+   "c": "old",
+   "g": "Coaxing; sweet-talking."
+  },
+  {
+   "t": "it wounds her vanity",
+   "c": "old",
+   "g": "It hurts her pride."
+  },
+  {
+   "t": "deceitful softness",
+   "c": "old",
+   "g": "False tenderness."
+  },
+  {
+   "t": "to hang up her little dog",
+   "c": "ref",
+   "g": "Heathcliff hanged Isabella's dog as they left the Grange.",
+   "n": "In Chapter XII Nelly found Isabella's springer spaniel, Fanny, hanging by a handkerchief and nearly dead."
+  },
+  {
+   "t": "pleaded for it",
+   "c": "old",
+   "g": "Begged for its life."
+  },
+  {
+   "t": "except one",
+   "c": "ref",
+   "g": "Except one person.",
+   "n": "He means Catherine, though Isabella may have thought he meant her."
+  },
+  {
+   "t": "innate",
+   "c": "old",
+   "g": "Inborn; natural."
+  },
+  {
+   "t": "brach",
+   "c": "old",
+   "g": "A female hunting hound.",
+   "n": "An old word, used here as a savage insult."
+  },
+  {
+   "t": "abject",
+   "c": "old",
+   "g": "Wretched and spineless."
+  },
+  {
+   "t": "relented",
+   "c": "old",
+   "g": "Eased off; let up."
+  },
+  {
+   "t": "from pure lack of invention",
+   "c": "old",
+   "g": "Just because I ran out of ideas."
+  },
+  {
+   "t": "fraternal and magisterial heart",
+   "c": "ref",
+   "g": "Edgar's brotherly heart, and his heart as a magistrate.",
+   "n": "Edgar is a local magistrate, or justice of the peace, as his father was (Chapter VI). Heathcliff sneers that he is staying just inside the law."
+  },
+  {
+   "t": "I keep strictly within the limits of the law",
+   "c": "ref",
+   "g": "I'm doing nothing illegal.",
+   "n": "A husband then had wide legal power over his wife. Only proven serious cruelty or adultery could get a wife a legal separation."
+  },
+  {
+   "t": "claim a separation",
+   "c": "ref",
+   "g": "Apply for a legal separation from her husband.",
+   "n": "Divorce was almost impossible, and very costly. A church court could grant a separation, but the couple stayed married and neither could remarry."
+  },
+  {
+   "t": "the gratification to be derived from tormenting her",
+   "c": "old",
+   "g": "The pleasure I get from tormenting her."
+  },
+  {
+   "t": "hitherto",
+   "c": "old",
+   "g": "Until now."
+  },
+  {
+   "t": "avail herself of the permission",
+   "c": "old",
+   "g": "Take advantage of being allowed to go."
+  },
+  {
+   "t": "bewitched",
+   "c": "old",
+   "g": "Under a spell; enchanted."
+  },
+  {
+   "t": "of your own accord",
+   "c": "old",
+   "g": "By your own choice."
+  },
+  {
+   "t": "irefully",
+   "c": "old",
+   "g": "Angrily.",
+   "n": "'Ire' means anger."
+  },
+  {
+   "t": "misdoubting",
+   "c": "old",
+   "g": "Doubting."
+  },
+  {
+   "t": "her partner’s endeavours",
+   "c": "old",
+   "g": "Her husband's efforts."
+  },
+  {
+   "t": "a lying fiend",
+   "c": "old",
+   "g": "A lying devil."
+  },
+  {
+   "t": "mention a syllable",
+   "c": "old",
+   "g": "Mention a single word."
+  },
+  {
+   "t": "infamous",
+   "c": "old",
+   "g": "Shameful; disgraceful."
+  },
+  {
+   "t": "to obtain power over him",
+   "c": "ref",
+   "g": "To gain power over Edgar.",
+   "n": "Through Isabella, Heathcliff may have a claim on the Linton property (see Chapters X and XIII)."
+  },
+  {
+   "t": "his diabolical prudence",
+   "c": "old",
+   "g": "His devilish caution."
+  },
+  {
+   "t": "If you are called upon in a court of law",
+   "c": "ref",
+   "g": "If you're ever made a witness in court.",
+   "n": "Heathcliff hints that Isabella's wild words could be used to show she is unstable, and so needs her husband's control."
+  },
+  {
+   "t": "she’s near the point which would suit me",
+   "c": "ref",
+   "g": "She's close to the state I want.",
+   "n": "He may mean close to madness, which would let him treat her as unfit to manage herself."
+  },
+  {
+   "t": "not fit to be your own guardian",
+   "c": "old",
+   "g": "Not able to look after yourself."
+  },
+  {
+   "t": "your legal protector",
+   "c": "ref",
+   "g": "Your husband, who has legal control of you.",
+   "n": "Under English law ('coverture') a wife had no separate legal identity: her husband was responsible for her and controlled her property and person."
+  },
+  {
+   "t": "retain you in my custody",
+   "c": "old",
+   "g": "Keep you under my control."
+  },
+  {
+   "t": "distasteful",
+   "c": "old",
+   "g": "Unpleasant."
+  },
+  {
+   "t": "I have something to say to Ellen Dean in private",
+   "c": "name",
+   "g": "Ellen Dean is Nelly's full name."
+  },
+  {
+   "t": "Why, this is the road upstairs, child!",
+   "c": "old",
+   "g": "This is the way upstairs!",
+   "n": "Heathcliff mocks her as he shoves her out."
+  },
+  {
+   "t": "entrails",
+   "c": "old",
+   "g": "Guts; insides."
+  },
+  {
+   "t": "It is a moral teething",
+   "c": "ref",
+   "g": "It is like a baby teething, but in the mind.",
+   "n": "A teething baby bites harder as the pain grows. Heathcliff says the more others suffer, the harder he wants to grind."
+  },
+  {
+   "t": "hastening to resume my bonnet",
+   "c": "shift",
+   "g": "Quickly putting my hat back on.",
+   "m": "'Resume' means take up again, here pick up and wear the hat she took off."
+  },
+  {
+   "t": "compel",
+   "c": "old",
+   "g": "Force."
+  },
+  {
+   "t": "I meditate no harm",
+   "c": "old",
+   "g": "I'm not planning any harm."
+  },
+  {
+   "t": "exasperate",
+   "c": "old",
+   "g": "Infuriate; provoke."
+  },
+  {
+   "t": "haunt the place",
+   "c": "old",
+   "g": "Keep coming back to the place."
+  },
+  {
+   "t": "insure his quiescence",
+   "c": "old",
+   "g": "Make sure he stays quiet.",
+   "n": "'Insure' was an old spelling of 'ensure'."
+  },
+  {
+   "t": "unobserved",
+   "c": "old",
+   "g": "Without being seen."
+  },
+  {
+   "t": "your conscience quite calm",
+   "c": "old",
+   "g": "With a clear conscience."
+  },
+  {
+   "t": "hindering mischief",
+   "c": "old",
+   "g": "Preventing trouble."
+  },
+  {
+   "t": "treacherous part",
+   "c": "old",
+   "g": "The role of a traitor."
+  },
+  {
+   "t": "my employer’s house",
+   "c": "old",
+   "g": "The house of the man I work for (Edgar)."
+  },
+  {
+   "t": "I urged",
+   "c": "old",
+   "g": "I argued; I pressed the point."
+  },
+  {
+   "t": "tranquillity",
+   "c": "old",
+   "g": "Calm; peace of mind."
+  },
+  {
+   "t": "She’s all nerves",
+   "c": "old",
+   "g": "She's extremely jumpy and fragile."
+  },
+  {
+   "t": "your designs",
+   "c": "old",
+   "g": "Your plans."
+  },
+  {
+   "t": "inmates",
+   "c": "shift",
+   "g": "The people living there.",
+   "m": "'Inmates' meant residents of any house, not prisoners."
+  },
+  {
+   "t": "unwarrantable intrusions",
+   "c": "old",
+   "g": "Unjustified break-ins."
+  },
+  {
+   "t": "a foolish story",
+   "c": "old",
+   "g": "Nonsense."
+  },
+  {
+   "t": "spies for her husband",
+   "c": "old",
+   "g": "People watching her on Edgar's behalf."
+  },
+  {
+   "t": "her frightful isolation",
+   "c": "old",
+   "g": "Her terrible loneliness."
+  },
+  {
+   "t": "insipid, paltry creature",
+   "c": "old",
+   "g": "Dull, worthless person (Edgar)."
+  },
+  {
+   "t": "plant an oak in a flower-pot",
+   "c": "old",
+   "g": "Try to grow a huge tree in a tiny pot.",
+   "n": "Heathcliff's image: Catherine's nature is too big for Edgar's 'shallow' care to nourish."
+  },
+  {
+   "t": "vigour",
+   "c": "old",
+   "g": "Strength and energy."
+  },
+  {
+   "t": "his footman",
+   "c": "ref",
+   "g": "His male servant.",
+   "n": "A footman waited at table, opened doors and attended the family. Keeping one was a sign of a well-off household."
+  },
+  {
+   "t": "stubborn ill-nature",
+   "c": "old",
+   "g": "Stubborn bad temper."
+  },
+  {
+   "t": "in the long run",
+   "c": "old",
+   "g": "In the end."
+  },
+  {
+   "t": "I engaged to carry a letter",
+   "c": "old",
+   "g": "I promised to deliver a letter."
+  },
+  {
+   "t": "intelligence of Linton’s next absence",
+   "c": "shift",
+   "g": "Word of the next time Edgar would be away.",
+   "m": "'Intelligence' means news, information."
+  },
+  {
+   "t": "expedient",
+   "c": "old",
+   "g": "Useful or convenient, though not strictly right."
+  },
+  {
+   "t": "compliance",
+   "c": "old",
+   "g": "Going along with it."
+  },
+  {
+   "t": "a favourable crisis",
+   "c": "ref",
+   "g": "A turning point for the better.",
+   "n": "Doctors then spoke of an illness reaching a 'crisis', after which the patient either recovered or got worse."
+  },
+  {
+   "t": "carrying tales",
+   "c": "old",
+   "g": "Telling tales; reporting what other people say and do."
+  },
+  {
+   "t": "disquietude",
+   "c": "old",
+   "g": "Uneasiness; worry."
+  },
+  {
+   "t": "with frequent iteration",
+   "c": "old",
+   "g": "By repeating it to myself again and again."
+  },
+  {
+   "t": "merited so harsh an appellation",
+   "c": "old",
+   "g": "Deserved such a harsh name."
+  },
+  {
+   "t": "Notwithstanding",
+   "c": "old",
+   "g": "All the same; even so."
+  },
+  {
+   "t": "thither",
+   "c": "old",
+   "g": "There; to that place."
+  },
+  {
+   "t": "ere I could prevail on myself",
+   "c": "old",
+   "g": "Before I could bring myself."
+  },
+  {
+   "t": "the missive",
+   "c": "old",
+   "g": "The letter."
+  },
+  {
+   "t": "Kenneth",
+   "c": "name",
+   "first": true,
+   "g": "Mr. Kenneth, the local doctor, who is treating Lockwood."
+  },
+  {
+   "t": "My history is dree, as we say",
+   "c": "dialect",
+   "g": "My story is long and gloomy, as we say around here.",
+   "n": "'Dree' is a northern dialect word meaning tedious, dreary. Nelly marks it as a local word for Lockwood."
+  },
+  {
+   "t": "while away another morning",
+   "c": "old",
+   "g": "Pass the time on another morning."
+  },
+  {
+   "t": "Dree, and dreary!",
+   "c": "dialect",
+   "g": "Lockwood picks up Nelly's dialect word 'dree' and adds the standard 'dreary'."
+  },
+  {
+   "t": "the good woman",
+   "c": "old",
+   "g": "Nelly."
+  },
+  {
+   "t": "extract wholesome medicines from Mrs. Dean’s bitter herbs",
+   "c": "ref",
+   "g": "Get a healthy lesson out of Nelly's grim story.",
+   "n": "Lockwood, a patient full of medicines, treats her tale like a bitter herbal remedy that does you good."
+  },
+  {
+   "t": "fascination",
+   "c": "shift",
+   "g": "A dangerous charm or spell.",
+   "m": "Stronger than mere interest: to 'fascinate' once meant to bewitch, as a snake was said to freeze its prey."
+  },
+  {
+   "t": "Catherine Heathcliff’s brilliant eyes",
+   "c": "name",
+   "g": "The eyes of young Mrs. Heathcliff, whom Lockwood met at the Heights.",
+   "n": "This is the younger Catherine of 1801, the daughter Nelly mentioned in Chapter IV. Lockwood finds her very attractive."
+  },
+  {
+   "t": "in a curious taking",
+   "c": "old",
+   "g": "In a strange fix; in a fine state.",
+   "n": "'A taking' meant a state of agitation."
+  },
+  {
+   "t": "a second edition of the mother",
+   "c": "ref",
+   "g": "A copy of her mother, the first Catherine.",
+   "n": "Lockwood worries the daughter might be as wild as the mother in Nelly's story."
+  }
+ ]
+}

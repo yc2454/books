@@ -1,0 +1,1567 @@
+{
+ "orient": "Narrator: Lockwood's diary at first. He has been ill at Thrushcross Grange for about four weeks since his snowy visits to Wuthering Heights in late 1801. After the row of asterisks Nelly Dean picks up her story again, about six months after Catherine's wedding to Edgar; scholars date the September evening she describes to 1783.",
+ "notes": [
+  {
+   "t": "A charming introduction to a hermit’s life",
+   "c": "old",
+   "g": "Said sarcastically: a miserable start to his solitary life.",
+   "n": "In Chapter I Lockwood boasted that he had come north to get away from society. Now he has solitude, in a sickbed."
+  },
+  {
+   "t": "dilatory country surgeons",
+   "c": "old",
+   "g": "Slow, time-wasting country doctors.",
+   "n": "A 'surgeon' was a general country doctor, like Kenneth, not only someone who operated."
+  },
+  {
+   "t": "impassable roads",
+   "c": "old",
+   "g": "Roads blocked by snow and mud."
+  },
+  {
+   "t": "dearth of the human physiognomy",
+   "c": "old",
+   "g": "Lack of human faces to look at.",
+   "n": "'Dearth' means shortage; 'physiognomy' means face. Typical Lockwood: fancy words for 'I'm lonely'."
+  },
+  {
+   "t": "terrible intimation",
+   "c": "old",
+   "g": "Dreadful announcement or hint."
+  },
+  {
+   "t": "Kenneth",
+   "c": "name",
+   "first": true,
+   "g": "Mr. Kenneth, the doctor from Gimmerton.",
+   "n": "He also appears in Nelly's story, attending the Earnshaws."
+  },
+  {
+   "t": "honoured me with a call",
+   "c": "old",
+   "g": "Did me the honour of visiting me."
+  },
+  {
+   "t": "a brace of grouse",
+   "c": "rural",
+   "g": "A pair of grouse, wild game birds of the moors.",
+   "n": "Grouse are shot from late summer into the winter, so these were among the last of the year."
+  },
+  {
+   "t": "Scoundrel!",
+   "c": "old",
+   "g": "Rogue! (Lockwood is half joking.)"
+  },
+  {
+   "t": "not altogether guiltless",
+   "c": "old",
+   "g": "Partly to blame.",
+   "n": "Lockwood blames his illness on the freezing night and snowy walk of Chapters II and III, and on Heathcliff's poor hospitality."
+  },
+  {
+   "t": "I had a great mind to tell him",
+   "c": "old",
+   "g": "I very much wanted to tell him."
+  },
+  {
+   "t": "alas",
+   "c": "old",
+   "g": "Sadly; unfortunately."
+  },
+  {
+   "t": "a good hour",
+   "c": "old",
+   "g": "A full hour."
+  },
+  {
+   "t": "pills and draughts, blisters and leeches",
+   "c": "ref",
+   "g": "The usual medical treatments of the day.",
+   "n": "A 'draught' was a dose of liquid medicine. 'Blisters' were plasters that raised blisters on the skin, thought to draw out illness. Leeches sucked blood, since bleeding was a standard cure."
+  },
+  {
+   "t": "an easy interval",
+   "c": "old",
+   "g": "A spell of feeling better."
+  },
+  {
+   "t": "recollect",
+   "c": "old",
+   "g": "Remember."
+  },
+  {
+   "t": "chief incidents",
+   "c": "old",
+   "g": "Main events."
+  },
+  {
+   "t": "her hero had run off",
+   "c": "ref",
+   "g": "Heathcliff had disappeared.",
+   "n": "Lockwood treats Nelly's story like a novel, with Heathcliff as hero and Catherine as heroine. Heathcliff vanished the night of the storm in Chapter IX."
+  },
+  {
+   "t": "I’ll ring",
+   "c": "ref",
+   "g": "I'll ring the bell to call a servant.",
+   "n": "Rooms in a big house had bell-pulls connected to bells in the servants' quarters."
+  },
+  {
+   "t": "Mrs. Dean",
+   "c": "name",
+   "first": true,
+   "g": "Nelly (Ellen) Dean, Lockwood's housekeeper, who is telling the story."
+  },
+  {
+   "t": "It wants twenty minutes",
+   "c": "shift",
+   "g": "It is twenty minutes until.",
+   "m": "'Wants' here means 'lacks', as in 'it wants ten minutes to six'. Nothing to do with wishing."
+  },
+  {
+   "t": "commenced",
+   "c": "old",
+   "g": "Began."
+  },
+  {
+   "t": "the powders",
+   "c": "ref",
+   "g": "Medicines sold as powders, stirred into water to drink."
+  },
+  {
+   "t": "With all my heart",
+   "c": "old",
+   "g": "Gladly; very willingly."
+  },
+  {
+   "t": "bitter phalanx of vials",
+   "c": "old",
+   "g": "Army of bitter-tasting medicine bottles.",
+   "n": "A phalanx is a tight battle formation of soldiers. Lockwood's mock-heroic joke about the bottles lined up by his bed."
+  },
+  {
+   "t": "on the Continent",
+   "c": "ref",
+   "g": "In mainland Europe.",
+   "n": "Wealthy young Englishmen often finished their education by touring Europe (the 'Grand Tour')."
+  },
+  {
+   "t": "a sizar’s place at college",
+   "c": "ref",
+   "g": "A poor student's place at university, paid for by doing servants' work.",
+   "n": "At Cambridge a sizar paid lower fees and got free food in return for menial duties."
+  },
+  {
+   "t": "escape to America, and earn honours by drawing blood from his foster-country",
+   "c": "ref",
+   "g": "Go to America and win glory fighting against Britain, the country that raised him.",
+   "n": "The American War of Independence (1775–83) was being fought during the years Heathcliff was away."
+  },
+  {
+   "t": "make a fortune more promptly on the English highways",
+   "c": "ref",
+   "g": "Get rich quicker as a highwayman, robbing travellers on the roads.",
+   "n": "Mounted highway robbers were still a real danger in the 1780s."
+  },
+  {
+   "t": "vocations",
+   "c": "old",
+   "g": "Careers; ways of earning a living."
+  },
+  {
+   "t": "I couldn’t give my word for any",
+   "c": "old",
+   "g": "I couldn't swear to any of them."
+  },
+  {
+   "t": "savage ignorance into which it was sunk",
+   "c": "old",
+   "g": "The wild, uneducated state he had been pushed down into.",
+   "n": "Hindley had stopped Heathcliff's schooling and made him a farm labourer."
+  },
+  {
+   "t": "with your leave",
+   "c": "old",
+   "g": "With your permission."
+  },
+  {
+   "t": "in my own fashion",
+   "c": "old",
+   "g": "In my own way."
+  },
+  {
+   "t": "amuse and not weary you",
+   "c": "shift",
+   "g": "Entertain you without tiring you.",
+   "m": "'Amuse' meant to pass the time pleasantly, not necessarily to make someone laugh."
+  },
+  {
+   "t": "Miss Catherine",
+   "c": "name",
+   "first": true,
+   "g": "Catherine Earnshaw, now Mrs. Linton.",
+   "n": "Nelly slips back into the name she used for her as a girl."
+  },
+  {
+   "t": "to my agreeable disappointment",
+   "c": "old",
+   "g": "To my pleasant surprise (I had expected worse)."
+  },
+  {
+   "t": "Thrushcross Grange",
+   "c": "name",
+   "first": true,
+   "g": "The Lintons' house in the valley, where Lockwood is now a tenant."
+  },
+  {
+   "t": "Mr. Linton",
+   "c": "name",
+   "first": true,
+   "g": "Edgar Linton, Catherine's husband, now master of Thrushcross Grange.",
+   "n": "His parents died of the fever in Chapter IX, so 'Mr. Linton' now means Edgar."
+  },
+  {
+   "t": "the thorn bending to the honeysuckles",
+   "c": "ref",
+   "g": "Catherine (the prickly thorn) did not give way to the gentle Lintons; they wrapped themselves round her.",
+   "n": "Honeysuckle is a climbing plant that twines around hedges such as hawthorn."
+  },
+  {
+   "t": "mutual concessions",
+   "c": "old",
+   "g": "Give and take on both sides."
+  },
+  {
+   "t": "ruffling her humour",
+   "c": "shift",
+   "g": "Upsetting her mood.",
+   "m": "'Humour' here means temper or mood, not comedy."
+  },
+  {
+   "t": "grow cloudy",
+   "c": "old",
+   "g": "Look sulky or put out."
+  },
+  {
+   "t": "imperious order",
+   "c": "old",
+   "g": "Bossy, commanding order."
+  },
+  {
+   "t": "never darkened on his own account",
+   "c": "old",
+   "g": "He never frowned like that for his own sake."
+  },
+  {
+   "t": "pertness",
+   "c": "old",
+   "g": "Cheekiness; answering back."
+  },
+  {
+   "t": "averred",
+   "c": "old",
+   "g": "Declared firmly."
+  },
+  {
+   "t": "seeing his lady vexed",
+   "c": "old",
+   "g": "Seeing his wife annoyed."
+  },
+  {
+   "t": "for the space of half a year",
+   "c": "old",
+   "g": "For six months."
+  },
+  {
+   "t": "the gunpowder lay as harmless as sand",
+   "c": "old",
+   "g": "Catherine's explosive temper stayed quiet, because nothing set it off."
+  },
+  {
+   "t": "seasons of gloom",
+   "c": "old",
+   "g": "Periods of gloom."
+  },
+  {
+   "t": "ascribed them to an alteration in her constitution",
+   "c": "old",
+   "g": "Put them down to a change in her health.",
+   "n": "Your 'constitution' is your physical makeup and general health."
+  },
+  {
+   "t": "perilous illness",
+   "c": "old",
+   "g": "Dangerous illness.",
+   "n": "The fever she caught after Heathcliff disappeared (Chapter IX)."
+  },
+  {
+   "t": "subject to depression of spirits",
+   "c": "old",
+   "g": "Prone to low moods."
+  },
+  {
+   "t": "we must be for ourselves in the long run",
+   "c": "old",
+   "g": "In the end everyone looks after their own interests."
+  },
+  {
+   "t": "the mild and generous are only more justly selfish than the domineering",
+   "c": "old",
+   "g": "Gentle people are selfish too; they just have more right on their side than bullies.",
+   "n": "Nelly's view: Edgar's patience lasted only while Catherine put him first."
+  },
+  {
+   "t": "mellow evening",
+   "c": "old",
+   "g": "Soft, warm, ripe evening."
+  },
+  {
+   "t": "court",
+   "c": "rural",
+   "g": "The courtyard, enclosed by the house and its outbuildings."
+  },
+  {
+   "t": "my burden",
+   "c": "old",
+   "g": "My load (the basket of apples)."
+  },
+  {
+   "t": "foreign in tone",
+   "c": "old",
+   "g": "With an unfamiliar accent."
+  },
+  {
+   "t": "latch",
+   "c": "rural",
+   "g": "A simple door fastening: a bar lifted by a small lever."
+  },
+  {
+   "t": "distinguished",
+   "c": "old",
+   "g": "Made out; managed to see."
+  },
+  {
+   "t": "Mr. Earnshaw",
+   "c": "name",
+   "first": true,
+   "g": "Hindley Earnshaw, Catherine's brother, master of Wuthering Heights.",
+   "n": "His father, old Mr. Earnshaw, is dead, so the title now belongs to Hindley."
+  },
+  {
+   "t": "sallow",
+   "c": "old",
+   "g": "Of an unhealthy yellowish colour."
+  },
+  {
+   "t": "black whiskers",
+   "c": "shift",
+   "g": "Black hair growing on his cheeks.",
+   "m": "Not a moustache: 'whiskers' meant hair on the cheeks, like long sideburns."
+  },
+  {
+   "t": "the brows lowering",
+   "c": "old",
+   "g": "The eyebrows frowning; scowling."
+  },
+  {
+   "t": "deep-set and singular",
+   "c": "shift",
+   "g": "Deep in their sockets and unusual.",
+   "m": "'Singular' meant remarkable or strange, not 'single'."
+  },
+  {
+   "t": "a worldly visitor",
+   "c": "old",
+   "g": "A living person, from this world.",
+   "n": "For a moment Nelly half wonders if he is a ghost."
+  },
+  {
+   "t": "a score of glittering moons",
+   "c": "old",
+   "g": "Twenty reflections of the moon (in the window panes).",
+   "n": "A 'score' is twenty."
+  },
+  {
+   "t": "Gimmerton",
+   "c": "name",
+   "first": true,
+   "g": "The nearest village, with the church and the doctor."
+  },
+  {
+   "t": "put her out of her head",
+   "c": "old",
+   "g": "Drive her out of her mind."
+  },
+  {
+   "t": "Nay",
+   "c": "dialect",
+   "g": "No; indeed."
+  },
+  {
+   "t": "there’s no comprehending it",
+   "c": "old",
+   "g": "There's no understanding it."
+  },
+  {
+   "t": "Have you been for a soldier?",
+   "c": "old",
+   "g": "Have you been in the army?",
+   "n": "Joining up as a common soldier was a usual way for a penniless young man to disappear."
+  },
+  {
+   "t": "parlour",
+   "c": "old",
+   "g": "The family's private sitting room."
+  },
+  {
+   "t": "lattice",
+   "c": "rural",
+   "g": "A hinged window of small panes in a criss-cross frame.",
+   "n": "Here it has been swung right open, back against the wall."
+  },
+  {
+   "t": "the wild green park",
+   "c": "shift",
+   "g": "The large private grounds of the Grange.",
+   "m": "A 'park' was the open land, grass and trees around a country house, not a public park."
+  },
+  {
+   "t": "the chapel",
+   "c": "ref",
+   "g": "Gimmerton Chapel, the local church.",
+   "n": "Where Catherine and Edgar were married (Chapter IX)."
+  },
+  {
+   "t": "the sough",
+   "c": "dialect",
+   "g": "A ditch or channel that drains water.",
+   "n": "Compare 'Gimmerden Sough' in Chapter III."
+  },
+  {
+   "t": "a beck",
+   "c": "rural",
+   "g": "A stream."
+  },
+  {
+   "t": "glen",
+   "c": "old",
+   "g": "A narrow valley."
+  },
+  {
+   "t": "Wuthering Heights rose above this silvery vapour",
+   "c": "rural",
+   "g": "The hilltop of Wuthering Heights showed above the mist.",
+   "n": "Here Nelly means the hill. The house itself sits just over the brow, out of sight from the Grange."
+  },
+  {
+   "t": "a sense of my folly",
+   "c": "old",
+   "g": "Realising how foolish I was being."
+  },
+  {
+   "t": "Mrs. Linton",
+   "c": "name",
+   "first": true,
+   "g": "Catherine, now Edgar's wife.",
+   "n": "Not Edgar's mother, who died in Chapter IX."
+  },
+  {
+   "t": "back again directly",
+   "c": "shift",
+   "g": "Back right away.",
+   "m": "'Directly' meant immediately, not 'in a straight line' or 'in a while'."
+  },
+  {
+   "t": "quitted",
+   "c": "old",
+   "g": "Left."
+  },
+  {
+   "t": "apartment",
+   "c": "shift",
+   "g": "The room.",
+   "m": "An 'apartment' meant a single room, not a flat."
+  },
+  {
+   "t": "inquired, carelessly",
+   "c": "shift",
+   "g": "Asked casually, without much interest.",
+   "m": "'Carelessly' here means without concern, not clumsily."
+  },
+  {
+   "t": "the gipsy—the ploughboy",
+   "c": "ref",
+   "g": "Edgar's sneering names for Heathcliff.",
+   "n": "Heathcliff's dark looks had people calling him a gipsy since childhood (Chapter IV). Under Hindley he worked as a farm labourer."
+  },
+  {
+   "t": "sadly grieved",
+   "c": "shift",
+   "g": "Very upset.",
+   "m": "'Sadly' here works like 'badly, very much'."
+  },
+  {
+   "t": "a jubilee to her",
+   "c": "ref",
+   "g": "A great celebration for her.",
+   "n": "In the Bible a 'jubilee' was a year of joy and freedom held every fiftieth year."
+  },
+  {
+   "t": "Ere long",
+   "c": "old",
+   "g": "Before long; soon."
+  },
+  {
+   "t": "surmised an awful calamity",
+   "c": "old",
+   "g": "Guessed that some terrible disaster had happened."
+  },
+  {
+   "t": "suggested the kitchen as a more suitable place for him",
+   "c": "ref",
+   "g": "Edgar wants Heathcliff received in the kitchen, like a servant.",
+   "n": "Tradesmen and servants were seen in the kitchen; gentlefolk in the parlour."
+  },
+  {
+   "t": "a droll expression",
+   "c": "old",
+   "g": "An amused, comical look."
+  },
+  {
+   "t": "fastidiousness",
+   "c": "old",
+   "g": "Fussiness about what is proper."
+  },
+  {
+   "t": "Ellen",
+   "c": "name",
+   "first": true,
+   "g": "Nelly's proper first name (Nelly is a pet form of Ellen)."
+  },
+  {
+   "t": "Miss Isabella",
+   "c": "name",
+   "first": true,
+   "g": "Isabella Linton, Edgar's younger sister.",
+   "n": "She lives at the Grange with her brother. Nelly says below that she is eighteen."
+  },
+  {
+   "t": "being gentry",
+   "c": "ref",
+   "g": "Since they are people of good family and rank."
+  },
+  {
+   "t": "the lower orders",
+   "c": "ref",
+   "g": "The lower classes; working people.",
+   "n": "Catherine is mocking Edgar's snobbery."
+  },
+  {
+   "t": "Edgar arrested her",
+   "c": "shift",
+   "g": "Edgar stopped her.",
+   "m": "'Arrest' just meant to stop or hold back, not to take into custody."
+  },
+  {
+   "t": "bid him step up",
+   "c": "old",
+   "g": "Tell him to come upstairs."
+  },
+  {
+   "t": "a runaway servant",
+   "c": "ref",
+   "g": "Edgar's put-down: Heathcliff was a farmhand who walked out.",
+   "n": "Heathcliff left without warning the night of the storm (Chapter IX)."
+  },
+  {
+   "t": "upright carriage",
+   "c": "shift",
+   "g": "Straight-backed posture.",
+   "m": "'Carriage' here means the way you hold your body, not a vehicle."
+  },
+  {
+   "t": "countenance",
+   "c": "old",
+   "g": "Face; expression."
+  },
+  {
+   "t": "decision of feature",
+   "c": "old",
+   "g": "Firm, strong features."
+  },
+  {
+   "t": "retained no marks of former degradation",
+   "c": "old",
+   "g": "Showed no trace of the humiliation and roughness of his past."
+  },
+  {
+   "t": "the depressed brows",
+   "c": "shift",
+   "g": "The low, heavy eyebrows.",
+   "m": "'Depressed' here means pressed down, low-set, not sad."
+  },
+  {
+   "t": "divested of roughness",
+   "c": "old",
+   "g": "Stripped of all coarseness."
+  },
+  {
+   "t": "at a loss how to address",
+   "c": "old",
+   "g": "Unsure how to speak to."
+  },
+  {
+   "t": "cordial reception",
+   "c": "old",
+   "g": "Warm, friendly welcome."
+  },
+  {
+   "t": "gratified",
+   "c": "old",
+   "g": "Pleased."
+  },
+  {
+   "t": "like one beside herself",
+   "c": "old",
+   "g": "Like someone out of her mind with feeling."
+  },
+  {
+   "t": "not long since",
+   "c": "old",
+   "g": "Not long ago."
+  },
+  {
+   "t": "I meditated this plan",
+   "c": "old",
+   "g": "I thought out this plan."
+  },
+  {
+   "t": "settle my score with Hindley",
+   "c": "old",
+   "g": "Get my revenge on Hindley."
+  },
+  {
+   "t": "Hindley",
+   "c": "name",
+   "first": true,
+   "g": "Catherine's older brother, who treated Heathcliff cruelly after their father died."
+  },
+  {
+   "t": "prevent the law by doing execution on myself",
+   "c": "ref",
+   "g": "Kill myself before the law could hang me (for killing Hindley).",
+   "n": "Murder was punished by hanging."
+  },
+  {
+   "t": "another aspect",
+   "c": "old",
+   "g": "A different look or manner."
+  },
+  {
+   "t": "a due measure of politeness",
+   "c": "old",
+   "g": "A proper amount of politeness."
+  },
+  {
+   "t": "wherever he may lodge",
+   "c": "old",
+   "g": "Wherever he is staying."
+  },
+  {
+   "t": "She took her post before the urn",
+   "c": "ref",
+   "g": "She sat in her place to make and pour the tea.",
+   "n": "A tea urn was a large metal vessel of hot water with a tap, set on the tea table."
+  },
+  {
+   "t": "summoned by the bell",
+   "c": "ref",
+   "g": "Called by ringing the bell."
+  },
+  {
+   "t": "The meal hardly endured ten minutes",
+   "c": "old",
+   "g": "The meal barely lasted ten minutes."
+  },
+  {
+   "t": "made a slop in his saucer",
+   "c": "old",
+   "g": "Spilled tea into his saucer.",
+   "n": "A small sign of how rattled he is."
+  },
+  {
+   "t": "protract his stay",
+   "c": "old",
+   "g": "Make his visit last longer."
+  },
+  {
+   "t": "work mischief under a cloak",
+   "c": "old",
+   "g": "Do harm in secret, behind a disguise."
+  },
+  {
+   "t": "I mused",
+   "c": "old",
+   "g": "I thought to myself."
+  },
+  {
+   "t": "presentiment",
+   "c": "old",
+   "g": "A feeling that something bad is coming."
+  },
+  {
+   "t": "my chamber",
+   "c": "old",
+   "g": "My bedroom."
+  },
+  {
+   "t": "rouse me",
+   "c": "old",
+   "g": "Wake me up."
+  },
+  {
+   "t": "pettish",
+   "c": "old",
+   "g": "Sulky; childishly cross."
+  },
+  {
+   "t": "contrives",
+   "c": "old",
+   "g": "Manages (as if on purpose)."
+  },
+  {
+   "t": "at the least cross",
+   "c": "old",
+   "g": "At the smallest upset or disappointment."
+  },
+  {
+   "t": "commendation",
+   "c": "old",
+   "g": "Praise."
+  },
+  {
+   "t": "an aversion to each other",
+   "c": "old",
+   "g": "A strong dislike of each other."
+  },
+  {
+   "t": "see us cordial",
+   "c": "old",
+   "g": "See us on friendly terms."
+  },
+  {
+   "t": "fancy the world was made for their accommodation",
+   "c": "old",
+   "g": "Imagine the world exists to suit them."
+  },
+  {
+   "t": "though I humour both",
+   "c": "shift",
+   "g": "Though I go along with both of them.",
+   "m": "To 'humour' someone is to give in to their wishes, nothing to do with being funny."
+  },
+  {
+   "t": "a smart chastisement",
+   "c": "shift",
+   "g": "A sharp punishment.",
+   "m": "'Smart' here means sharp and stinging, not clever."
+  },
+  {
+   "t": "They humour you",
+   "c": "shift",
+   "g": "They give in to you.",
+   "m": "Again 'humour' means indulge, not amuse."
+  },
+  {
+   "t": "indulge their passing whims",
+   "c": "old",
+   "g": "Give in to their little passing wishes."
+  },
+  {
+   "t": "anticipate all your desires",
+   "c": "old",
+   "g": "Foresee and supply everything you want."
+  },
+  {
+   "t": "of equal consequence",
+   "c": "old",
+   "g": "Equally important."
+  },
+  {
+   "t": "whining for trifles",
+   "c": "old",
+   "g": "Whining over small things."
+  },
+  {
+   "t": "worthy of anyone’s regard",
+   "c": "old",
+   "g": "Deserving of anyone's respect."
+  },
+  {
+   "t": "it would honour the first gentleman in the country",
+   "c": "old",
+   "g": "Even the highest-ranking gentleman around would be honoured.",
+   "n": "'The country' here means the district."
+  },
+  {
+   "t": "quite a Christian: offering the right hand of fellowship to his enemies",
+   "c": "ref",
+   "g": "Nelly is being ironic: Heathcliff is making friends with his old enemy, as a good Christian should.",
+   "n": "The 'right hand of fellowship' is a Bible phrase (Galatians 2:9) for welcoming a partner. Jesus told his followers to love their enemies."
+  },
+  {
+   "t": "Joseph",
+   "c": "name",
+   "first": true,
+   "g": "The old, harshly religious servant at Wuthering Heights."
+  },
+  {
+   "t": "fell to questioning him",
+   "c": "old",
+   "g": "Started questioning him."
+  },
+  {
+   "t": "sitting at cards",
+   "c": "ref",
+   "g": "Playing cards, here for money."
+  },
+  {
+   "t": "plentifully supplied",
+   "c": "old",
+   "g": "Well supplied with money."
+  },
+  {
+   "t": "select his acquaintance prudently",
+   "c": "old",
+   "g": "Choose his friends wisely."
+  },
+  {
+   "t": "basely injured",
+   "c": "old",
+   "g": "Wronged shamefully."
+  },
+  {
+   "t": "his ancient persecutor",
+   "c": "shift",
+   "g": "The man who used to torment him.",
+   "m": "'Ancient' here just means former, from long ago, not very old."
+  },
+  {
+   "t": "install himself in quarters",
+   "c": "old",
+   "g": "Settle himself in lodgings."
+  },
+  {
+   "t": "liberal payment",
+   "c": "shift",
+   "g": "Generous payment.",
+   "m": "'Liberal' meant generous, not anything political."
+  },
+  {
+   "t": "to lodge at the Heights",
+   "c": "ref",
+   "g": "To live at Wuthering Heights as a paying lodger."
+  },
+  {
+   "t": "covetousness",
+   "c": "old",
+   "g": "Greed for money and what others have."
+  },
+  {
+   "t": "what he grasps with one hand he flings away with the other",
+   "c": "old",
+   "g": "He is greedy but also wasteful."
+  },
+  {
+   "t": "a nice place for a young man to fix his dwelling in",
+   "c": "old",
+   "g": "Said sarcastically: a terrible place for a young man to settle.",
+   "n": "Nelly means Hindley's drinking, gambling household."
+  },
+  {
+   "t": "his strong head",
+   "c": "old",
+   "g": "His cool, hard mind (also: he can hold his drink)."
+  },
+  {
+   "t": "reconciled me to God and humanity",
+   "c": "old",
+   "g": "Made me feel at peace with God and the world again."
+  },
+  {
+   "t": "angry rebellion against Providence",
+   "c": "ref",
+   "g": "Anger against God's will.",
+   "n": "'Providence' means God's care and plan for the world."
+  },
+  {
+   "t": "If that creature knew",
+   "c": "old",
+   "g": "If Edgar knew.",
+   "n": "'That creature' is Catherine's scornful name for her husband."
+  },
+  {
+   "t": "cloud its removal with idle petulance",
+   "c": "old",
+   "g": "Spoil the end of her misery with silly sulking."
+  },
+  {
+   "t": "its alleviation",
+   "c": "old",
+   "g": "Its relief; easing it."
+  },
+  {
+   "t": "hereafter",
+   "c": "old",
+   "g": "From now on."
+  },
+  {
+   "t": "slap me on the cheek, I’d not only turn the other",
+   "c": "ref",
+   "g": "From Jesus's teaching to 'turn the other cheek' when struck.",
+   "n": "Matthew 5:39: 'whosoever shall smite thee on thy right cheek, turn to him the other also.'"
+  },
+  {
+   "t": "self-complacent conviction",
+   "c": "old",
+   "g": "Smug certainty."
+  },
+  {
+   "t": "on the morrow",
+   "c": "old",
+   "g": "The next day."
+  },
+  {
+   "t": "abjured his peevishness",
+   "c": "old",
+   "g": "Given up his bad temper."
+  },
+  {
+   "t": "exuberance of vivacity",
+   "c": "old",
+   "g": "Overflowing liveliness."
+  },
+  {
+   "t": "Mr. Heathcliff I should say in future",
+   "c": "ref",
+   "g": "From now on Nelly gives him the title 'Mr.'",
+   "n": "A sign of his new standing as a gentleman with money."
+  },
+  {
+   "t": "estimating how far its owner would bear his intrusion",
+   "c": "old",
+   "g": "Judging how much of his visiting Edgar would put up with."
+  },
+  {
+   "t": "deemed it judicious",
+   "c": "old",
+   "g": "Thought it wise."
+  },
+  {
+   "t": "established his right to be expected",
+   "c": "old",
+   "g": "Became an accepted, regular visitor."
+  },
+  {
+   "t": "reserve for which his boyhood was remarkable",
+   "c": "old",
+   "g": "The silent, closed-off manner he was known for as a boy."
+  },
+  {
+   "t": "diverted it into another channel for a space",
+   "c": "old",
+   "g": "Turned his worry in a different direction for a while."
+  },
+  {
+   "t": "evincing",
+   "c": "old",
+   "g": "Showing."
+  },
+  {
+   "t": "infantile in manners",
+   "c": "old",
+   "g": "Childish in behaviour."
+  },
+  {
+   "t": "fantastic preference",
+   "c": "shift",
+   "g": "Wild, fanciful liking.",
+   "m": "'Fantastic' meant based on fantasy, unreal, not 'excellent'."
+  },
+  {
+   "t": "the degradation of an alliance with a nameless man",
+   "c": "ref",
+   "g": "The disgrace of a marriage to a man with no family name or background.",
+   "n": "Heathcliff was a foundling with only one name (Chapter IV). Family and rank mattered enormously in choosing a gentleman's sister's husband."
+  },
+  {
+   "t": "in default of heirs male",
+   "c": "ref",
+   "g": "If Edgar had no son.",
+   "n": "Estates usually passed to sons. If Edgar had none, the property could go to Isabella, and a married woman's property came under her husband's control."
+  },
+  {
+   "t": "shrank forebodingly",
+   "c": "old",
+   "g": "Drew back, dreading what might happen."
+  },
+  {
+   "t": "committing Isabella to its keeping",
+   "c": "old",
+   "g": "Handing Isabella over into its care."
+  },
+  {
+   "t": "her attachment rose unsolicited",
+   "c": "old",
+   "g": "Her love grew without his encouraging it."
+  },
+  {
+   "t": "awakened no reciprocation of sentiment",
+   "c": "old",
+   "g": "Was not returned; he felt nothing for her."
+  },
+  {
+   "t": "deliberate designing",
+   "c": "old",
+   "g": "Scheming on purpose."
+  },
+  {
+   "t": "fretted and pined",
+   "c": "old",
+   "g": "Worried and wasted away with longing."
+  },
+  {
+   "t": "on the plea of ill-health",
+   "c": "old",
+   "g": "On the excuse that she was unwell."
+  },
+  {
+   "t": "peculiarly wayward",
+   "c": "shift",
+   "g": "Especially difficult and contrary.",
+   "m": "'Peculiarly' means particularly, not oddly."
+  },
+  {
+   "t": "peremptorily",
+   "c": "old",
+   "g": "In a commanding way that allowed no argument."
+  },
+  {
+   "t": "you naughty fondling",
+   "c": "old",
+   "g": "You spoiled little pet.",
+   "n": "A 'fondling' was someone petted and fussed over, a darling."
+  },
+  {
+   "t": "sauntered on",
+   "c": "old",
+   "g": "Strolled on slowly."
+  },
+  {
+   "t": "superfluous",
+   "c": "old",
+   "g": "Not needed; unwanted."
+  },
+  {
+   "t": "kindling up",
+   "c": "old",
+   "g": "Flaring up angrily."
+  },
+  {
+   "t": "a dog in the manger",
+   "c": "ref",
+   "g": "Someone who won't let others have what they don't need themselves.",
+   "n": "From Aesop's fable: a dog lies in a manger of hay it cannot eat, and snarls to stop the ox from eating it."
+  },
+  {
+   "t": "impertinent",
+   "c": "old",
+   "g": "Rude; cheeky."
+  },
+  {
+   "t": "covet the admiration of Heathcliff",
+   "c": "old",
+   "g": "Long for Heathcliff to admire you."
+  },
+  {
+   "t": "an unreclaimed creature",
+   "c": "old",
+   "g": "A wild creature that has never been tamed.",
+   "n": "'Unreclaimed' was used of wasteland never turned into farmland, and of wild hawks never trained."
+  },
+  {
+   "t": "without cultivation",
+   "c": "old",
+   "g": "Without education or polish (and, like wild land, never farmed)."
+  },
+  {
+   "t": "arid wilderness of furze and whinstone",
+   "c": "rural",
+   "g": "A dry wasteland of gorse bushes and hard rock.",
+   "n": "Furze (gorse) is a spiny moorland shrub. Whinstone is a very hard dark rock."
+  },
+  {
+   "t": "Pray, don’t imagine",
+   "c": "old",
+   "g": "Please don't imagine."
+  },
+  {
+   "t": "a rough diamond",
+   "c": "old",
+   "g": "A person with a good heart under rough manners."
+  },
+  {
+   "t": "a pearl-containing oyster of a rustic",
+   "c": "old",
+   "g": "A country fellow with a treasure hidden inside."
+  },
+  {
+   "t": "a troublesome charge",
+   "c": "old",
+   "g": "A burden in his care."
+  },
+  {
+   "t": "marrying your fortune and expectations",
+   "c": "ref",
+   "g": "Marrying you for your money and what you stand to inherit.",
+   "n": "'Expectations' meant an inheritance you expect to receive."
+  },
+  {
+   "t": "avarice is growing with him a besetting sin",
+   "c": "ref",
+   "g": "Greed is becoming the sin he keeps falling into.",
+   "n": "A 'besetting sin' comes from Hebrews 12:1, 'the sin which doth so easily beset us'."
+  },
+  {
+   "t": "saucy insolence",
+   "c": "old",
+   "g": "Cheeky rudeness."
+  },
+  {
+   "t": "egotism",
+   "c": "old",
+   "g": "Selfishness; thinking only of yourself."
+  },
+  {
+   "t": "blighted my single consolation",
+   "c": "old",
+   "g": "Ruined my only comfort."
+  },
+  {
+   "t": "a fiend",
+   "c": "old",
+   "g": "A devil."
+  },
+  {
+   "t": "a bird of bad omen",
+   "c": "ref",
+   "g": "A sign of bad luck; someone who brings trouble.",
+   "n": "Birds such as ravens were thought to foretell disaster."
+  },
+  {
+   "t": "abhors",
+   "c": "old",
+   "g": "Hates."
+  },
+  {
+   "t": "borrowing money on his land",
+   "c": "ref",
+   "g": "Mortgaging his property: borrowing with his land as security."
+  },
+  {
+   "t": "does nothing but play and drink",
+   "c": "shift",
+   "g": "Does nothing but gamble and drink.",
+   "m": "'Play' here means gambling at cards and dice."
+  },
+  {
+   "s": "we’s hae a crowner’s",
+   "e": "flees afore to oppen t’ pikes!",
+   "c": "dialect",
+   "who": "Joseph (quoted by Nelly)",
+   "tr": "We'll be having a coroner's inquest soon at our house. One of them nearly had his finger cut off holding the other back from sticking himself like a calf. That's the master, you know, who is so keen to go up before the great court of judgment. He's not afraid of the bench of judges, neither Paul, nor Peter, nor John, nor Matthew, nor any of them, not he! He positively likes, he longs, to set his brazen face against them! And that fine lad Heathcliff, you remember, he's a rare one. He can grin and laugh as well as anybody at a real devil's joke. Doesn't he ever say anything about his fine living among us when he goes to the Grange? This is how it goes: up at sunset; dice, brandy, closed shutters and candlelight till noon the next day. Then the fool goes cursing and raving to his room, making decent folk stick their fingers in their ears for very shame; and the rogue, why, he can count his money, and eat, and sleep, and go off to his neighbour's to gossip with the wife. Of course, he tells Dame Catherine how her father's gold runs into his pocket, and her father's son gallops down the broad road to ruin, while he runs ahead to open the toll gates!",
+   "n": "Joseph means that Hindley nearly stabbed himself, and that Heathcliff is taking Hindley's money while speeding him on to destruction."
+  },
+  {
+   "t": "crowner’s ’quest",
+   "c": "dialect",
+   "g": "Coroner's inquest: an official inquiry into a sudden or violent death."
+  },
+  {
+   "t": "enow",
+   "c": "dialect",
+   "g": "Soon; before long."
+  },
+  {
+   "t": "ahr folks’",
+   "c": "dialect",
+   "g": "Our house; our people's place."
+  },
+  {
+   "t": "hauding",
+   "c": "dialect",
+   "g": "Holding."
+  },
+  {
+   "t": "stickin’ hisseln loike a cawlf",
+   "c": "dialect",
+   "g": "Stabbing himself like a calf being slaughtered."
+  },
+  {
+   "t": "t’ grand ’sizes",
+   "c": "ref",
+   "g": "The great assizes: Joseph's name for God's Last Judgment.",
+   "n": "The assizes were the courts where judges tried serious crimes. Joseph means Hindley is eager to die and face God's judgment."
+  },
+  {
+   "t": "norther Paul, nur Peter, nur John, nur Matthew",
+   "c": "ref",
+   "g": "Neither Paul, nor Peter, nor John, nor Matthew.",
+   "n": "Joseph pictures the apostles as the judges on the bench at the Last Judgment. In Matthew 19:28 Jesus says the apostles will sit on thrones judging Israel."
+  },
+  {
+   "t": "brazened face",
+   "c": "dialect",
+   "g": "Brazen, shameless face."
+  },
+  {
+   "t": "a rare ’un",
+   "c": "dialect",
+   "g": "A remarkable one (sarcastic)."
+  },
+  {
+   "t": "girn",
+   "c": "dialect",
+   "g": "Grin or snarl, showing the teeth."
+  },
+  {
+   "t": "raight divil’s jest",
+   "c": "dialect",
+   "g": "A real devil's joke."
+  },
+  {
+   "t": "nowt",
+   "c": "dialect",
+   "g": "Nothing."
+  },
+  {
+   "t": "banning",
+   "c": "dialect",
+   "g": "Cursing."
+  },
+  {
+   "t": "lugs",
+   "c": "dialect",
+   "g": "Ears."
+  },
+  {
+   "t": "caint his brass",
+   "c": "dialect",
+   "g": "Count his money.",
+   "n": "'Brass' is still northern English slang for money."
+  },
+  {
+   "t": "Dame Catherine",
+   "c": "dialect",
+   "g": "Joseph's mock-grand title for Mrs. Linton (Catherine)."
+  },
+  {
+   "t": "t’ broad road",
+   "c": "ref",
+   "g": "The road to hell.",
+   "n": "From Matthew 7:13: 'broad is the way, that leadeth to destruction'."
+  },
+  {
+   "t": "oppen t’ pikes",
+   "c": "rural",
+   "g": "Open the turnpike gates.",
+   "n": "Turnpikes were toll gates on main roads. Heathcliff, Joseph says, runs ahead to clear Hindley's road to ruin."
+  },
+  {
+   "t": "leagued with the rest",
+   "c": "old",
+   "g": "In league with the others; on their side."
+  },
+  {
+   "t": "slanders",
+   "c": "old",
+   "g": "Lies told to damage someone's reputation."
+  },
+  {
+   "t": "malevolence",
+   "c": "old",
+   "g": "Ill will; a wish to do harm."
+  },
+  {
+   "t": "persevered in nursing it perpetually",
+   "c": "old",
+   "g": "Kept feeding the feeling forever."
+  },
+  {
+   "t": "a justice-meeting at the next town",
+   "c": "ref",
+   "g": "A meeting of local magistrates in the nearest town.",
+   "n": "Gentleman landowners served as unpaid magistrates, or justices of the peace, as Edgar's father did (Chapter VI)."
+  },
+  {
+   "t": "the latter",
+   "c": "old",
+   "g": "The second one mentioned: Isabella."
+  },
+  {
+   "t": "recent indiscretion",
+   "c": "old",
+   "g": "Recent careless slip (revealing her feelings)."
+  },
+  {
+   "t": "transient fit of passion",
+   "c": "old",
+   "g": "A brief burst of strong feeling."
+  },
+  {
+   "t": "the former",
+   "c": "old",
+   "g": "The first one mentioned: Catherine."
+  },
+  {
+   "t": "on mature consideration",
+   "c": "old",
+   "g": "After thinking it over."
+  },
+  {
+   "t": "sweeping the hearth",
+   "c": "rural",
+   "g": "Sweeping the stone floor in front of the fireplace."
+  },
+  {
+   "t": "practicable",
+   "c": "old",
+   "g": "Possible."
+  },
+  {
+   "t": "sadly in need",
+   "c": "shift",
+   "g": "Badly in need.",
+   "m": "'Sadly' here means 'badly, very much'."
+  },
+  {
+   "t": "dotes on you",
+   "c": "old",
+   "g": "Adores you, foolishly."
+  },
+  {
+   "t": "It lies in your own power to be Edgar’s brother",
+   "c": "ref",
+   "g": "You could become Edgar's brother-in-law by marrying Isabella."
+  },
+  {
+   "t": "arresting, with feigned playfulness",
+   "c": "shift",
+   "g": "Holding her back, pretending to be playful.",
+   "m": "'Arresting' here means stopping someone, not a police arrest."
+  },
+  {
+   "t": "the confounded girl",
+   "c": "shift",
+   "g": "The flustered, mortified girl.",
+   "m": "'Confounded' here means confused and abashed, not the mild curse word."
+  },
+  {
+   "t": "protestations of devotion",
+   "c": "old",
+   "g": "Declarations of love and loyalty."
+  },
+  {
+   "t": "shoot a shaft into your soul",
+   "c": "ref",
+   "g": "Shoot an arrow into your heart, like Cupid."
+  },
+  {
+   "t": "adhere to the truth",
+   "c": "old",
+   "g": "Stick to the truth."
+  },
+  {
+   "t": "intimate acquaintances",
+   "c": "shift",
+   "g": "Close friends.",
+   "m": "'Intimate' just meant close and familiar, with no sexual sense."
+  },
+  {
+   "t": "what sentiments she cherished",
+   "c": "old",
+   "g": "What feelings she had."
+  },
+  {
+   "t": "evince",
+   "c": "old",
+   "g": "Show."
+  },
+  {
+   "t": "that she entertains for you",
+   "c": "shift",
+   "g": "That she feels for you.",
+   "m": "To 'entertain' a feeling is to hold it in your mind, not to amuse."
+  },
+  {
+   "t": "despatched her",
+   "c": "old",
+   "g": "Sent her away."
+  },
+  {
+   "t": "you belie her",
+   "c": "old",
+   "g": "You misrepresent her; you tell lies about her."
+  },
+  {
+   "t": "the object of discourse",
+   "c": "old",
+   "g": "The person being talked about."
+  },
+  {
+   "t": "a centipede from the Indies",
+   "c": "ref",
+   "g": "A giant tropical centipede.",
+   "n": "'The Indies' meant the East or West Indies: faraway hot countries full of strange creatures."
+  },
+  {
+   "t": "ornamented the detainer’s with crescents of red",
+   "c": "old",
+   "g": "Decorated Catherine's hand with red half-moon marks from her nails."
+  },
+  {
+   "t": "Begone",
+   "c": "old",
+   "g": "Go away."
+  },
+  {
+   "t": "vixen face",
+   "c": "old",
+   "g": "Spiteful face.",
+   "n": "A vixen is a female fox, and also a word for a bad-tempered woman."
+  },
+  {
+   "t": "talons",
+   "c": "old",
+   "g": "Claws, as of a bird of prey."
+  },
+  {
+   "t": "instruments that will do execution",
+   "c": "old",
+   "g": "Weapons that can do real damage."
+  },
+  {
+   "t": "mitigating her adoration",
+   "c": "old",
+   "g": "Lessening her worship of you."
+  },
+  {
+   "t": "sauciness",
+   "c": "old",
+   "g": "Cheek; impertinence."
+  },
+  {
+   "t": "I like her too ill",
+   "c": "old",
+   "g": "I dislike her too much."
+  },
+  {
+   "t": "ghoulish",
+   "c": "old",
+   "g": "Gruesome, like a ghoul (a grave-robbing demon)."
+  },
+  {
+   "t": "mawkish, waxen face",
+   "c": "old",
+   "g": "Sickly-sweet, pale face."
+  },
+  {
+   "t": "painting on its white the colours of the rainbow",
+   "c": "old",
+   "g": "Covering her pale face with bruises.",
+   "n": "A brutal joke: he means he would beat her, 'turning the blue eyes black'."
+  },
+  {
+   "t": "Delectably",
+   "c": "old",
+   "g": "Delightfully."
+  },
+  {
+   "t": "dove’s eyes",
+   "c": "ref",
+   "g": "Gentle, loving eyes.",
+   "n": "From the Song of Solomon 1:15: 'thou hast doves' eyes'."
+  },
+  {
+   "t": "She’s her brother’s heir",
+   "c": "ref",
+   "g": "Will she inherit her brother's property?",
+   "n": "Edgar has no children yet, so for now Isabella stands next in line."
+  },
+  {
+   "t": "Half a dozen nephews shall erase her title",
+   "c": "ref",
+   "g": "I'll have sons who will come before her in the inheritance.",
+   "n": "Catherine means children of her own with Edgar, who would be Isabella's nephews. 'Title' means her legal claim."
+  },
+  {
+   "t": "please heaven",
+   "c": "old",
+   "g": "God willing."
+  },
+  {
+   "t": "Abstract your mind from the subject",
+   "c": "old",
+   "g": "Take your mind off the subject."
+  },
+  {
+   "t": "covet your neighbour’s goods",
+   "c": "ref",
+   "g": "Want what belongs to someone else.",
+   "n": "From the Ten Commandments (Exodus 20:17): 'Thou shalt not covet thy neighbour's house... nor any thing that is thy neighbour's'."
+  },
+  {
+   "t": "they would be none the less that",
+   "c": "old",
+   "g": "They would still be just as much yours."
+  },
+  {
+   "t": "ominous musing",
+   "c": "old",
+   "g": "Brooding that looked threatening."
+  },
+  {
+   "t": "My heart invariably cleaved to the master’s",
+   "c": "old",
+   "g": "My sympathy always stuck to the master's side.",
+   "n": "'Cleave' here means cling."
+  },
+  {
+   "t": "wide latitude",
+   "c": "old",
+   "g": "A lot of freedom in how she behaved."
+  },
+  {
+   "t": "prior to his advent",
+   "c": "old",
+   "g": "Before his arrival."
+  },
+  {
+   "t": "His abode at the Heights",
+   "c": "old",
+   "g": "His living at the Heights."
+  },
+  {
+   "t": "the stray sheep",
+   "c": "ref",
+   "g": "Hindley, pictured as a lost sheep.",
+   "n": "Bible imagery: Jesus as the good shepherd who goes looking for the lost sheep (Luke 15)."
+  },
+  {
+   "t": "an evil beast prowled between it and the fold",
+   "c": "ref",
+   "g": "Heathcliff is the wolf lurking between the sheep and safety.",
+   "n": "A 'fold' is a pen for sheep. Here it stands for God's protection."
+  }
+ ]
+}

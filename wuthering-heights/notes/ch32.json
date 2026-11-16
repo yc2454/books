@@ -1,0 +1,1278 @@
+{
+  "orient": "Narrator: Lockwood, but the story jumps ahead to September 1802, about eight months after Chapter XXXI. He left for London in January and has not been back since. After the row of asterisks Nelly takes over once more and catches him up on what has happened at the Heights since he left, starting in the late winter of 1802.",
+  "notes": [
+    {
+      "t": "1802.",
+      "c": "ref",
+      "g": "The year jumps to 1802: it is now September, eight months after Lockwood's last visit."
+    },
+    {
+      "t": "devastate the moors of a friend",
+      "c": "old",
+      "g": "Go shooting game birds on a friend's moorland estate.",
+      "n": "Lockwood's joke: a shooting party 'devastates' the grouse. The grouse season opens in August."
+    },
+    {
+      "t": "abode",
+      "c": "old",
+      "g": "Home."
+    },
+    {
+      "t": "The ostler",
+      "c": "rural",
+      "g": "The man who looks after travellers' horses at an inn."
+    },
+    {
+      "t": "roadside public-house",
+      "c": "old",
+      "g": "A pub or inn beside the road."
+    },
+    {
+      "t": "very green oats, newly reaped",
+      "c": "rural",
+      "g": "Oats just cut, still green and unripe.",
+      "n": "A sign of a late harvest up in the cold hills."
+    },
+    {
+      "s": "Yon’s frough Gimmerton, nah!",
+      "e": "wi’ ther harvest.",
+      "c": "dialect",
+      "who": "the ostler",
+      "tr": "That's from Gimmerton, look! They're always three weeks behind everyone else with their harvest."
+    },
+    {
+      "t": "Yon’s",
+      "c": "dialect",
+      "g": "That's (pointing at something over there)."
+    },
+    {
+      "t": "frough",
+      "c": "dialect",
+      "g": "From."
+    },
+    {
+      "t": "nah",
+      "c": "dialect",
+      "g": "Now; here a word of emphasis, like 'look!'."
+    },
+    {
+      "t": "allas",
+      "c": "dialect",
+      "g": "Always."
+    },
+    {
+      "t": "three wick’",
+      "c": "dialect",
+      "g": "Three weeks."
+    },
+    {
+      "t": "ther harvest",
+      "c": "dialect",
+      "g": "Their harvest."
+    },
+    {
+      "t": "grown dim and dreamy",
+      "c": "old",
+      "g": "Become a faint, dreamlike memory."
+    },
+    {
+      "t": "Happen fourteen mile o’er th’ hills",
+      "c": "dialect",
+      "g": "Maybe fourteen miles over the hills.",
+      "n": "'Happen' means perhaps."
+    },
+    {
+      "t": "conceived",
+      "c": "old",
+      "g": "Thought; decided."
+    },
+    {
+      "t": "under my own roof",
+      "c": "ref",
+      "g": "At the Grange, which Lockwood is still renting.",
+      "n": "His one-year lease runs until October."
+    },
+    {
+      "t": "an inn",
+      "c": "old",
+      "g": "A pub that also has rooms for travellers."
+    },
+    {
+      "t": "my landlord",
+      "c": "ref",
+      "g": "Heathcliff, who owns the Grange."
+    },
+    {
+      "t": "invading the neighbourhood again",
+      "c": "old",
+      "g": "Coming back to the area (a joke)."
+    },
+    {
+      "t": "my servant",
+      "c": "ref",
+      "g": "Lockwood's manservant, who travels with him.",
+      "n": "A gentleman rarely travelled alone."
+    },
+    {
+      "t": "our beasts",
+      "c": "rural",
+      "g": "Our horses."
+    },
+    {
+      "t": "moor-sheep cropping the short turf on the graves",
+      "c": "rural",
+      "g": "A hill sheep nibbling the grass on the graves.",
+      "n": "'Turf' is grass with its matted roots. The churchyard lies right by the open moor."
+    },
+    {
+      "t": "solitudes",
+      "c": "old",
+      "g": "Lonely, empty places."
+    },
+    {
+      "t": "glens",
+      "c": "rural",
+      "g": "Narrow valleys."
+    },
+    {
+      "t": "bluff, bold swells of heath",
+      "c": "rural",
+      "g": "Steep, broad, rounded hills covered with heather."
+    },
+    {
+      "t": "admittance",
+      "c": "old",
+      "g": "Being let in."
+    },
+    {
+      "t": "back premises",
+      "c": "old",
+      "g": "The back part of the house, where the kitchen and servants are."
+    },
+    {
+      "t": "wreath",
+      "c": "old",
+      "g": "A curl of smoke."
+    },
+    {
+      "t": "the court",
+      "c": "rural",
+      "g": "The courtyard."
+    },
+    {
+      "t": "a meditative pipe",
+      "c": "old",
+      "g": "A pipe smoked slowly and thoughtfully.",
+      "n": "Old countrywomen often smoked clay pipes."
+    },
+    {
+      "t": "the dame",
+      "c": "old",
+      "g": "The old woman."
+    },
+    {
+      "s": "Mistress Dean? Nay!",
+      "e": "up at th’ Heights.",
+      "c": "dialect",
+      "who": "the old woman",
+      "tr": "Mrs. Dean? No! She doesn't live here: she's up at the Heights."
+    },
+    {
+      "t": "doesn’t bide here",
+      "c": "dialect",
+      "g": "Doesn't live here."
+    },
+    {
+      "t": "shoo’s",
+      "c": "dialect",
+      "g": "She's."
+    },
+    {
+      "t": "Eea, Aw keep th’ hause",
+      "c": "dialect",
+      "g": "Yes, I keep the house: I'm the housekeeper."
+    },
+    {
+      "t": "lodge me in",
+      "c": "old",
+      "g": "Put me up in for the night."
+    },
+    {
+      "s": "T’ maister!",
+      "e": "nowt there isn’t!",
+      "c": "dialect",
+      "who": "the old woman",
+      "tr": "The master! Why, who ever knew you were coming? You should have sent word. There's nothing either dry or fit to use about the place: nothing at all!",
+      "n": "'Dry' matters: a bed left unused in a damp house could make a guest ill."
+    },
+    {
+      "t": "maister",
+      "c": "dialect",
+      "g": "Master."
+    },
+    {
+      "t": "Whet, whoiver",
+      "c": "dialect",
+      "g": "Why, whoever."
+    },
+    {
+      "t": "wur",
+      "c": "dialect",
+      "g": "Were."
+    },
+    {
+      "t": "Yah sud ha’ send word",
+      "c": "dialect",
+      "g": "You should have sent word."
+    },
+    {
+      "t": "nowt",
+      "c": "dialect",
+      "g": "Nothing."
+    },
+    {
+      "t": "norther",
+      "c": "dialect",
+      "g": "Neither."
+    },
+    {
+      "t": "mensful",
+      "c": "dialect",
+      "g": "Decent; tidy; respectable.",
+      "n": "From an old word 'mense', meaning decency or good manners."
+    },
+    {
+      "t": "abaht",
+      "c": "dialect",
+      "g": "About."
+    },
+    {
+      "t": "unwelcome apparition",
+      "c": "old",
+      "g": "Sudden, unwanted appearance.",
+      "n": "'Apparition' usually means a ghost, so Lockwood is joking about himself."
+    },
+    {
+      "t": "composed",
+      "c": "old",
+      "g": "Calm."
+    },
+    {
+      "t": "sup",
+      "c": "old",
+      "g": "Eat supper."
+    },
+    {
+      "t": "hearth-brush",
+      "c": "rural",
+      "g": "A small brush for sweeping ashes from the fireplace."
+    },
+    {
+      "t": "the poker",
+      "c": "rural",
+      "g": "An iron rod for stirring a fire."
+    },
+    {
+      "t": "malappropriated",
+      "c": "old",
+      "g": "Misused; used for the wrong purpose.",
+      "n": "A comic, made-up-sounding word, like Lockwood himself."
+    },
+    {
+      "t": "her craft",
+      "c": "old",
+      "g": "Her trade; the tools of housekeeping."
+    },
+    {
+      "t": "confiding in her energy",
+      "c": "old",
+      "g": "Trusting her efforts."
+    },
+    {
+      "t": "excursion",
+      "c": "old",
+      "g": "Outing; trip."
+    },
+    {
+      "t": "quitted",
+      "c": "old",
+      "g": "Left."
+    },
+    {
+      "t": "Eea, f’r owt ee knaw",
+      "c": "dialect",
+      "g": "Yes, for anything I know.",
+      "n": "In other words, 'As far as I know.' 'Owt' means anything."
+    },
+    {
+      "t": "at such a crisis",
+      "c": "old",
+      "g": "At such a critical moment (Lockwood's joke about her flustered housework)."
+    },
+    {
+      "t": "rambling",
+      "c": "old",
+      "g": "Walking at an easy pace."
+    },
+    {
+      "t": "the park",
+      "c": "rural",
+      "g": "The private grounds around Thrushcross Grange."
+    },
+    {
+      "t": "stony by-road",
+      "c": "rural",
+      "g": "A rough side road."
+    },
+    {
+      "t": "beamless amber light",
+      "c": "old",
+      "g": "A soft golden glow with no rays of sunlight."
+    },
+    {
+      "t": "it yielded to my hand",
+      "c": "old",
+      "g": "It opened when I pushed it.",
+      "n": "On his first visits the gate was chained shut (Chapter I)."
+    },
+    {
+      "t": "stocks and wallflowers",
+      "c": "rural",
+      "g": "Sweet-smelling cottage-garden flowers."
+    },
+    {
+      "t": "homely fruit-trees",
+      "c": "shift",
+      "g": "Plain, homey fruit trees.",
+      "m": "'Homely' meant simple and domestic, not ugly."
+    },
+    {
+      "t": "lattices",
+      "c": "rural",
+      "g": "Windows made of small panes held in a crisscross frame of lead."
+    },
+    {
+      "t": "a coal-district",
+      "c": "ref",
+      "g": "An area where coal is mined, so fuel is cheap.",
+      "n": "That's why a fire burns even on a warm evening."
+    },
+    {
+      "t": "illumined",
+      "c": "old",
+      "g": "Lit up."
+    },
+    {
+      "t": "inmates",
+      "c": "shift",
+      "g": "The people living in the house.",
+      "m": "Residents of any house, not prisoners."
+    },
+    {
+      "t": "withdrawing out of its influence",
+      "c": "old",
+      "g": "Getting away from its heat."
+    },
+    {
+      "t": "stationed themselves",
+      "c": "old",
+      "g": "Placed themselves."
+    },
+    {
+      "t": "Con-trary",
+      "c": "ref",
+      "g": "Cathy sounding out a word for her pupil, stressing the part he got wrong."
+    },
+    {
+      "t": "you dunce",
+      "c": "old",
+      "g": "You dimwit; slow learner."
+    },
+    {
+      "t": "respectably dressed",
+      "c": "ref",
+      "g": "Dressed like a gentleman.",
+      "n": "A change from the rough farmhand Lockwood met before."
+    },
+    {
+      "t": "a smart slap",
+      "c": "old",
+      "g": "A sharp slap."
+    },
+    {
+      "t": "ringlets",
+      "c": "old",
+      "g": "Long hanging curls."
+    },
+    {
+      "t": "locks",
+      "c": "old",
+      "g": "Hair."
+    },
+    {
+      "t": "superintend his studies",
+      "c": "old",
+      "g": "Supervise his lessons."
+    },
+    {
+      "t": "bit my lip in spite",
+      "c": "old",
+      "g": "Bit my lip in annoyance.",
+      "n": "'Spite' here means vexation at himself."
+    },
+    {
+      "t": "smiting beauty",
+      "c": "old",
+      "g": "Striking, overwhelming beauty."
+    },
+    {
+      "t": "thrown away the chance",
+      "c": "ref",
+      "g": "Lockwood regrets not trying to win Cathy himself.",
+      "n": "Remember his daydream at the end of Chapter XXXI."
+    },
+    {
+      "t": "issue out",
+      "c": "old",
+      "g": "Go out."
+    },
+    {
+      "t": "the lowest pit in the infernal regions",
+      "c": "ref",
+      "g": "The deepest part of hell."
+    },
+    {
+      "t": "mean and malignant",
+      "c": "old",
+      "g": "Petty and spiteful."
+    },
+    {
+      "t": "skulked",
+      "c": "old",
+      "g": "Sneaked; crept away."
+    },
+    {
+      "t": "unobstructed admittance",
+      "c": "old",
+      "g": "A clear way in."
+    },
+    {
+      "t": "Nelly Dean",
+      "c": "name",
+      "first": true,
+      "g": "Mrs. Dean, Lockwood's housekeeper and the teller of the story."
+    },
+    {
+      "t": "far from musical accents",
+      "c": "old",
+      "g": "A harsh, unmusical voice (Joseph's)."
+    },
+    {
+      "s": "I’d rayther, by th’ haulf",
+      "e": "justice among wer rullers!",
+      "c": "dialect",
+      "who": "Joseph",
+      "tr": "I'd far rather have them swearing in my ears from morning till night than listen to you at all! It's a blazing shame that I can't open the blessed Bible without you striking up those songs in praise of Satan, and all the frightful wickedness that was ever born into the world! Oh, you're a real good-for-nothing, and she's another, and that poor lad will be lost between the two of you. Poor lad! He's bewitched, I'm certain of it. Oh Lord, judge them, for there's neither law nor justice among our rulers!",
+      "n": "'She' is Cathy and 'the poor lad' is Hareton."
+    },
+    {
+      "t": "rayther",
+      "c": "dialect",
+      "g": "Rather."
+    },
+    {
+      "t": "by th’ haulf",
+      "c": "dialect",
+      "g": "By half: far, much."
+    },
+    {
+      "t": "lugs",
+      "c": "dialect",
+      "g": "Ears."
+    },
+    {
+      "t": "fro’h morn to neeght",
+      "c": "dialect",
+      "g": "From morning to night."
+    },
+    {
+      "t": "hearken",
+      "c": "old",
+      "g": "Listen to."
+    },
+    {
+      "t": "hahsiver",
+      "c": "dialect",
+      "g": "Howsoever: in any way; at all."
+    },
+    {
+      "t": "oppen t’ blessed Book",
+      "c": "dialect",
+      "g": "Open the Bible."
+    },
+    {
+      "t": "glories to sattan",
+      "c": "ref",
+      "g": "Songs in praise of Satan.",
+      "n": "To strict Joseph, any secular song or ballad is the devil's music."
+    },
+    {
+      "t": "flaysome",
+      "c": "dialect",
+      "g": "Frightful; dreadful."
+    },
+    {
+      "t": "iver",
+      "c": "dialect",
+      "g": "Ever."
+    },
+    {
+      "t": "warld",
+      "c": "dialect",
+      "g": "World."
+    },
+    {
+      "t": "raight nowt",
+      "c": "dialect",
+      "g": "A real good-for-nothing.",
+      "n": "'Nowt' (nothing) can also mean a worthless person."
+    },
+    {
+      "t": "atween",
+      "c": "dialect",
+      "g": "Between."
+    },
+    {
+      "t": "he’s witched",
+      "c": "dialect",
+      "g": "He's bewitched; under a spell."
+    },
+    {
+      "t": "sartin on’t",
+      "c": "dialect",
+      "g": "Certain of it."
+    },
+    {
+      "t": "norther law nor justice among wer rullers",
+      "c": "ref",
+      "g": "Neither law nor justice among our rulers.",
+      "n": "Joseph grumbles that the authorities no longer punish witchcraft. England's last witchcraft laws were repealed in 1736."
+    },
+    {
+      "t": "flaming fagots",
+      "c": "ref",
+      "g": "Burning bundles of sticks.",
+      "n": "Witches and heretics were once burned at the stake on piles of fagots. Nelly is teasing Joseph."
+    },
+    {
+      "t": "wisht",
+      "c": "dialect",
+      "g": "Hush; be quiet."
+    },
+    {
+      "t": "Fairy Annie’s Wedding",
+      "c": "ref",
+      "g": "A traditional ballad that Nelly is singing."
+    },
+    {
+      "t": "a bonny tune",
+      "c": "dialect",
+      "g": "A lovely tune."
+    },
+    {
+      "t": "it goes to a dance",
+      "c": "old",
+      "g": "It's a dance tune.",
+      "n": "Dancing would shock Joseph even more."
+    },
+    {
+      "t": "recommence",
+      "c": "old",
+      "g": "Start again."
+    },
+    {
+      "t": "directly",
+      "c": "shift",
+      "g": "At once.",
+      "m": "A time word, not 'in a straight line'."
+    },
+    {
+      "t": "accommodated",
+      "c": "old",
+      "g": "Given a room and bed."
+    },
+    {
+      "t": "transplanted here",
+      "c": "old",
+      "g": "Moved here (like a plant dug up and replanted)."
+    },
+    {
+      "t": "Zillah",
+      "c": "name",
+      "first": true,
+      "g": "The former housekeeper at the Heights, whose account Nelly retold in Chapter XXX."
+    },
+    {
+      "t": "lodging room",
+      "c": "old",
+      "g": "A room to stay in."
+    },
+    {
+      "t": "your master",
+      "c": "ref",
+      "g": "Heathcliff, who employs Nelly now."
+    },
+    {
+      "t": "conducting me into the house",
+      "c": "shift",
+      "g": "Leading me into the main living room.",
+      "m": "At the Heights 'the house' is the big family room (see Chapter I), not the whole building."
+    },
+    {
+      "t": "Mrs. Heathcliff",
+      "c": "name",
+      "first": true,
+      "g": "Cathy, widow of Linton Heathcliff."
+    },
+    {
+      "t": "I act for her",
+      "c": "ref",
+      "g": "I handle her business for her, as her agent."
+    },
+    {
+      "t": "Three months since",
+      "c": "old",
+      "g": "Three months ago."
+    },
+    {
+      "t": "supper",
+      "c": "shift",
+      "g": "The evening meal.",
+      "m": "Since 'dinner' was at midday, the evening meal was 'supper'."
+    },
+    {
+      "t": "came to pass",
+      "c": "old",
+      "g": "Happened.",
+      "n": "A phrase from the King James Bible."
+    },
+    {
+      "t": "rambles",
+      "c": "old",
+      "g": "Walks in the countryside."
+    },
+    {
+      "t": "old ale",
+      "c": "rural",
+      "g": "Strong beer aged for a long time.",
+      "n": "Farmhouses brewed their own ale."
+    },
+    {
+      "s": "it warn’t a crying scandal",
+      "e": "’bide still and see it.",
+      "c": "dialect",
+      "who": "Joseph",
+      "tr": "Wasn't it a crying scandal that she should have men calling on her at her age? And then to fetch them jugs of ale out of the master's cellar! He was truly ashamed to sit still and watch it.",
+      "n": "Lockwood reports Joseph's words, so Joseph's 'I' becomes 'he'."
+    },
+    {
+      "t": "warn’t",
+      "c": "dialect",
+      "g": "Wasn't."
+    },
+    {
+      "t": "followers",
+      "c": "shift",
+      "g": "Male admirers; suitors.",
+      "m": "A 'follower' was a man courting a servant. Many employers banned them.",
+      "n": "Joseph pretends Lockwood is courting middle-aged Nelly."
+    },
+    {
+      "t": "at her time of life",
+      "c": "old",
+      "g": "At her age."
+    },
+    {
+      "t": "jocks",
+      "c": "dialect",
+      "g": "Probably jugs (of ale)."
+    },
+    {
+      "t": "fair shaamed",
+      "c": "dialect",
+      "g": "Truly ashamed."
+    },
+    {
+      "t": "’bide still",
+      "c": "dialect",
+      "g": "Stay still; bear to sit quietly."
+    },
+    {
+      "t": "retaliate",
+      "c": "old",
+      "g": "Hit back (here, with words)."
+    },
+    {
+      "t": "a reaming silver pint",
+      "c": "dialect",
+      "g": "A silver pint tankard brimming with foam.",
+      "n": "'Ream' is a northern word for cream or froth."
+    },
+    {
+      "t": "lauded with becoming earnestness",
+      "c": "old",
+      "g": "Praised with suitable seriousness."
+    },
+    {
+      "t": "furnished me with the sequel",
+      "c": "old",
+      "g": "Told me what happened next."
+    },
+    {
+      "t": "queer",
+      "c": "shift",
+      "g": "Strange; odd.",
+      "m": "'Queer' simply meant strange or peculiar."
+    },
+    {
+      "t": "I was summoned to Wuthering Heights",
+      "c": "ref",
+      "g": "Nelly takes over the story again.",
+      "n": "She goes back to late January 1802, just after Lockwood left."
+    },
+    {
+      "t": "a fortnight",
+      "c": "old",
+      "g": "Two weeks."
+    },
+    {
+      "t": "taking a new mind",
+      "c": "old",
+      "g": "Changing his mind."
+    },
+    {
+      "t": "the little parlour",
+      "c": "old",
+      "g": "A small private sitting room."
+    },
+    {
+      "t": "tolerable comfort",
+      "c": "old",
+      "g": "Reasonable comfort."
+    },
+    {
+      "t": "delusion",
+      "c": "old",
+      "g": "False belief."
+    },
+    {
+      "t": "in a brief space",
+      "c": "old",
+      "g": "In a short time."
+    },
+    {
+      "t": "fretted her sadly",
+      "c": "old",
+      "g": "Upset and annoyed her badly."
+    },
+    {
+      "t": "following the house",
+      "c": "old",
+      "g": "Doing the housework."
+    },
+    {
+      "t": "skirmishes",
+      "c": "old",
+      "g": "Small fights; squabbles."
+    },
+    {
+      "t": "have the house to himself",
+      "c": "shift",
+      "g": "Have the main living room to himself.",
+      "m": "'The house' here is the family room, not the whole building."
+    },
+    {
+      "t": "shunned",
+      "c": "old",
+      "g": "Avoided."
+    },
+    {
+      "t": "talking at him",
+      "c": "old",
+      "g": "Making remarks meant for him to overhear."
+    },
+    {
+      "t": "a cart-horse",
+      "c": "rural",
+      "g": "A big, heavy horse for pulling farm carts."
+    },
+    {
+      "t": "Juno",
+      "c": "name",
+      "first": true,
+      "g": "One of the dogs at the Heights, the pointer from Chapter I."
+    },
+    {
+      "t": "perusing",
+      "c": "old",
+      "g": "Reading."
+    },
+    {
+      "t": "give over",
+      "c": "old",
+      "g": "Stop."
+    },
+    {
+      "t": "persevering sulkiness and indolence",
+      "c": "old",
+      "g": "Stubborn sulking and laziness."
+    },
+    {
+      "t": "effectually",
+      "c": "old",
+      "g": "Effectively; thoroughly."
+    },
+    {
+      "t": "ingenuity",
+      "c": "old",
+      "g": "Cleverness at finding a way."
+    },
+    {
+      "t": "stationary employments",
+      "c": "old",
+      "g": "Jobs done standing in one place."
+    },
+    {
+      "t": "as obstinate as a mule",
+      "c": "old",
+      "g": "Very stubborn."
+    },
+    {
+      "t": "automatons",
+      "c": "old",
+      "g": "Clockwork figures; machines that look like people."
+    },
+    {
+      "t": "her wicked nonsense, as he would have called it",
+      "c": "ref",
+      "g": "Joseph would call any book but a religious one wicked."
+    },
+    {
+      "t": "a last resource",
+      "c": "old",
+      "g": "A last resort."
+    },
+    {
+      "t": "disinclined to society",
+      "c": "old",
+      "g": "Unwilling to be with people."
+    },
+    {
+      "t": "his apartment",
+      "c": "shift",
+      "g": "His room: here, the main living room.",
+      "m": "'Apartment' meant a room, not a flat."
+    },
+    {
+      "t": "the commencement of March",
+      "c": "old",
+      "g": "The beginning of March."
+    },
+    {
+      "t": "a fixture in the kitchen",
+      "c": "old",
+      "g": "Stuck in the kitchen like a piece of furniture."
+    },
+    {
+      "t": "His gun burst",
+      "c": "rural",
+      "g": "His gun exploded when fired.",
+      "n": "Old guns sometimes split open when a barrel was damaged or overloaded."
+    },
+    {
+      "t": "perforce",
+      "c": "old",
+      "g": "Of necessity; he had no choice."
+    },
+    {
+      "t": "till he made it up again",
+      "c": "old",
+      "g": "Until he recovered."
+    },
+    {
+      "t": "Easter Monday",
+      "c": "ref",
+      "g": "The day after Easter Sunday, a public holiday.",
+      "n": "In 1802 it fell in April. Fairs were often held on it."
+    },
+    {
+      "t": "Gimmerton fair",
+      "c": "rural",
+      "g": "The village market, where cattle and goods were bought and sold."
+    },
+    {
+      "t": "getting up linen",
+      "c": "old",
+      "g": "Washing, starching and ironing the sheets and clothes."
+    },
+    {
+      "t": "morose",
+      "c": "old",
+      "g": "Gloomy and sullen."
+    },
+    {
+      "t": "my little mistress",
+      "c": "old",
+      "g": "Nelly's affectionate name for Cathy."
+    },
+    {
+      "t": "beguiling an idle hour",
+      "c": "old",
+      "g": "Passing the time pleasantly."
+    },
+    {
+      "t": "ejaculations",
+      "c": "shift",
+      "g": "Short sudden exclamations.",
+      "m": "No sexual meaning: any short burst of speech."
+    },
+    {
+      "t": "intercepting my light",
+      "c": "old",
+      "g": "Blocking my light."
+    },
+    {
+      "t": "the hearthstone",
+      "c": "rural",
+      "g": "The stone slab in front of the fireplace."
+    },
+    {
+      "t": "Get off wi’ ye!",
+      "c": "dialect",
+      "g": "Go away with you!"
+    },
+    {
+      "t": "uncompromising gruffness",
+      "c": "old",
+      "g": "Flat, rough rudeness."
+    },
+    {
+      "t": "abstracting it",
+      "c": "old",
+      "g": "Taking it away."
+    },
+    {
+      "t": "you shall own me",
+      "c": "old",
+      "g": "You must acknowledge me (as your cousin)."
+    },
+    {
+      "s": "I shall have naught to do",
+      "e": "now, this minute!",
+      "c": "dialect",
+      "who": "Hareton",
+      "tr": "I'll have nothing to do with you and your filthy pride and your damned mocking tricks! I'll go to hell, body and soul, before I look your way again. Get out of my way, now, this minute!"
+    },
+    {
+      "t": "naught",
+      "c": "old",
+      "g": "Nothing."
+    },
+    {
+      "t": "mucky",
+      "c": "dialect",
+      "g": "Dirty; filthy.",
+      "n": "Still common in northern England."
+    },
+    {
+      "t": "side out",
+      "c": "dialect",
+      "g": "Get out; clear off.",
+      "n": "Nelly teases Joseph by borrowing his phrase later in the chapter."
+    },
+    {
+      "t": "o’ t’ gate",
+      "c": "dialect",
+      "g": "Out of the way.",
+      "n": "In Yorkshire 'gate' can mean way or road, from Old Norse."
+    },
+    {
+      "t": "an eccentric tune",
+      "c": "old",
+      "g": "An odd, wandering tune."
+    },
+    {
+      "t": "sauciness",
+      "c": "old",
+      "g": "Cheekiness."
+    },
+    {
+      "t": "wipe her shoon",
+      "c": "dialect",
+      "g": "Wipe her shoes.",
+      "n": "'Shoon' is an old plural of 'shoe'. He means: good enough even to clean her shoes."
+    },
+    {
+      "t": "by taking your part",
+      "c": "old",
+      "g": "By standing up for you."
+    },
+    {
+      "t": "step in yonder",
+      "c": "old",
+      "g": "Go in there (to Heathcliff)."
+    },
+    {
+      "t": "worried me",
+      "c": "old",
+      "g": "Harassed me; pestered me."
+    },
+    {
+      "t": "frankly",
+      "c": "old",
+      "g": "Openly and sincerely."
+    },
+    {
+      "t": "divined",
+      "c": "old",
+      "g": "Guessed; sensed."
+    },
+    {
+      "t": "obdurate perversity",
+      "c": "old",
+      "g": "Stubborn contrariness."
+    },
+    {
+      "t": "dogged",
+      "c": "old",
+      "g": "Stubborn."
+    },
+    {
+      "t": "The little rogue",
+      "c": "old",
+      "g": "The little rascal (said fondly)."
+    },
+    {
+      "t": "demurely",
+      "c": "old",
+      "g": "Modestly, as if innocent."
+    },
+    {
+      "t": "reprovingly",
+      "c": "old",
+      "g": "Disapprovingly."
+    },
+    {
+      "t": "ambassadress",
+      "c": "old",
+      "g": "Female messenger or go-between (a playful word)."
+    },
+    {
+      "t": "its destined recipient",
+      "c": "old",
+      "g": "The person it was meant for."
+    },
+    {
+      "t": "my employer",
+      "c": "ref",
+      "g": "Cathy, jokingly: she has hired Nelly as her messenger."
+    },
+    {
+      "t": "murmured petition",
+      "c": "old",
+      "g": "Quietly spoken request."
+    },
+    {
+      "t": "interrogatively",
+      "c": "old",
+      "g": "As a question."
+    },
+    {
+      "t": "cannot bide it",
+      "c": "dialect",
+      "g": "Can't bear it."
+    },
+    {
+      "t": "radiant countenances",
+      "c": "old",
+      "g": "Glowing, happy faces."
+    },
+    {
+      "t": "the treaty had been ratified on both sides",
+      "c": "old",
+      "g": "Peace had been formally agreed.",
+      "n": "Nelly jokes as if two warring nations had signed a treaty."
+    },
+    {
+      "t": "thenceforth, sworn allies",
+      "c": "old",
+      "g": "From then on, firm friends."
+    },
+    {
+      "t": "costly pictures",
+      "c": "old",
+      "g": "Expensive illustrations.",
+      "n": "Illustrated books were luxuries."
+    },
+    {
+      "t": "aghast",
+      "c": "old",
+      "g": "Horrified."
+    },
+    {
+      "t": "confounded",
+      "c": "old",
+      "g": "Astonished and baffled."
+    },
+    {
+      "t": "his favourite’s endurance of her proximity",
+      "c": "old",
+      "g": "Hareton putting up with her being so close.",
+      "n": "Joseph has always favoured Hareton."
+    },
+    {
+      "t": "dirty bank-notes",
+      "c": "ref",
+      "g": "Paper money from the cattle he sold at the fair."
+    },
+    {
+      "t": "pocket-book",
+      "c": "old",
+      "g": "Wallet."
+    },
+    {
+      "t": "the produce of the day’s transactions",
+      "c": "old",
+      "g": "The money from the day's sales."
+    },
+    {
+      "s": "Tak’ these in to t’ maister",
+      "e": "seearch another.",
+      "c": "dialect",
+      "who": "Joseph",
+      "tr": "Take these in to the master, lad, and stay there. I'll go up to my own room. This hole isn't decent or proper for the likes of us: we must get out and look for another."
+    },
+    {
+      "t": "bide there",
+      "c": "dialect",
+      "g": "Stay there."
+    },
+    {
+      "t": "I’s gang",
+      "c": "dialect",
+      "g": "I'll go."
+    },
+    {
+      "t": "rahm",
+      "c": "dialect",
+      "g": "Room."
+    },
+    {
+      "t": "hoile",
+      "c": "dialect",
+      "g": "Hole; hovel.",
+      "n": "Joseph means the kitchen, spoiled for him by Cathy."
+    },
+    {
+      "t": "seemly",
+      "c": "old",
+      "g": "Proper; fitting."
+    },
+    {
+      "t": "mun",
+      "c": "dialect",
+      "g": "Must."
+    },
+    {
+      "t": "seearch",
+      "c": "dialect",
+      "g": "Search."
+    },
+    {
+      "t": "chimney-piece",
+      "c": "old",
+      "g": "Mantelpiece: the shelf above the fireplace."
+    },
+    {
+      "s": "Ony books that yah leave",
+      "e": "yah may plase yerseln!",
+      "c": "dialect",
+      "who": "Joseph",
+      "tr": "Any books you leave, I'll take into the house, and it'll be a wonder if you ever find them again; so you can please yourself!",
+      "n": "'The house' is the main living room, Heathcliff's territory."
+    },
+    {
+      "t": "Ony",
+      "c": "dialect",
+      "g": "Any."
+    },
+    {
+      "t": "th’ hahse",
+      "c": "dialect",
+      "g": "The house: the main living room."
+    },
+    {
+      "t": "it’ll be mitch",
+      "c": "dialect",
+      "g": "It'll be a wonder; it'll be a lot."
+    },
+    {
+      "t": "agean",
+      "c": "dialect",
+      "g": "Again."
+    },
+    {
+      "t": "plase yerseln",
+      "c": "dialect",
+      "g": "Please yourself."
+    },
+    {
+      "t": "his library should pay for hers",
+      "c": "ref",
+      "g": "She would take his religious books in revenge."
+    },
+    {
+      "t": "her earliest visits to Linton",
+      "c": "ref",
+      "g": "Her secret visits to Linton at the Heights (Chapters XXIII–XXIV)."
+    },
+    {
+      "t": "The intimacy",
+      "c": "shift",
+      "g": "The close friendship.",
+      "m": "No sexual meaning."
+    },
+    {
+      "t": "civilized with a wish",
+      "c": "old",
+      "g": "Turned into a gentleman just by wishing it."
+    },
+    {
+      "t": "no philosopher",
+      "c": "old",
+      "g": "Not calm and patient.",
+      "n": "A 'philosopher' could mean someone who bears troubles calmly."
+    },
+    {
+      "t": "paragon",
+      "c": "old",
+      "g": "Perfect model."
+    },
+    {
+      "t": "esteem",
+      "c": "old",
+      "g": "Respect and admire."
+    },
+    {
+      "t": "The crown of all my wishes",
+      "c": "old",
+      "g": "What I would like most of all."
+    },
+    {
+      "t": "the union of those two",
+      "c": "ref",
+      "g": "Their marriage.",
+      "n": "Nelly's own hope. Cathy is a widow and free to remarry."
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+ "orient": "Narrator: Nelly Dean, continuing her story to Lockwood. It is the evening after Edgar Linton's funeral, in early autumn 1801. Nelly and the newly married Cathy sit in the library at Thrushcross Grange, wondering what will become of them.",
+ "notes": [
+  {
+   "t": "musing mournfully",
+   "c": "old",
+   "g": "Thinking sadly."
+  },
+  {
+   "t": "venturing conjectures",
+   "c": "old",
+   "g": "Daring to make guesses."
+  },
+  {
+   "t": "continue resident at the Grange",
+   "c": "ref",
+   "g": "Go on living at the Grange.",
+   "n": "The Grange has passed to Linton, Edgar's heir, so it is now in Heathcliff's power."
+  },
+  {
+   "t": "retaining my home and my employment",
+   "c": "old",
+   "g": "Keeping my home and my job."
+  },
+  {
+   "t": "one of the discarded ones",
+   "c": "old",
+   "g": "One of the servants who had been dismissed."
+  },
+  {
+   "t": "not yet departed",
+   "c": "old",
+   "g": "Who had not left yet."
+  },
+  {
+   "t": "fasten the door in his face",
+   "c": "old",
+   "g": "Lock the door against him."
+  },
+  {
+   "t": "made no ceremony of knocking",
+   "c": "old",
+   "g": "Didn't bother with the politeness of knocking."
+  },
+  {
+   "t": "he was master",
+   "c": "ref",
+   "g": "He was now in charge at the Grange.",
+   "n": "Linton has inherited the Grange, and Linton is under age and completely in his father's power. So in practice Heathcliff is master here now."
+  },
+  {
+   "t": "availed himself of the master’s privilege",
+   "c": "old",
+   "g": "Used the master's right."
+  },
+  {
+   "t": "our informant",
+   "c": "old",
+   "g": "The servant who had warned us."
+  },
+  {
+   "t": "ushered, as a guest, eighteen years before",
+   "c": "ref",
+   "g": "Shown in as a visitor eighteen years ago.",
+   "n": "When Heathcliff came back and called on Catherine at the Grange (Chapter X)."
+  },
+  {
+   "t": "the portraits on the wall",
+   "c": "ref",
+   "g": "Paintings of Cathy's parents.",
+   "n": "Lockwood was shown Edgar's portrait in Chapter VIII."
+  },
+  {
+   "t": "the splendid head of Mrs. Linton",
+   "c": "name",
+   "g": "The portrait of Catherine, Edgar's wife and Cathy's mother."
+  },
+  {
+   "t": "the graceful one of her husband",
+   "c": "name",
+   "g": "The portrait of Edgar."
+  },
+  {
+   "t": "sallower",
+   "c": "old",
+   "g": "More yellowish and unhealthy-looking."
+  },
+  {
+   "t": "a stone or two heavier",
+   "c": "ref",
+   "g": "About 14 to 28 pounds heavier.",
+   "n": "A 'stone' is a British unit of weight equal to 14 pounds, still used for body weight."
+  },
+  {
+   "t": "No more runnings away!",
+   "c": "old",
+   "g": "No more running away!"
+  },
+  {
+   "t": "a dutiful daughter",
+   "c": "ref",
+   "g": "An obedient daughter.",
+   "n": "Heathcliff is now her father-in-law, and he means her to obey him."
+  },
+  {
+   "t": "I was embarrassed how to punish him",
+   "c": "shift",
+   "g": "I was at a loss how to punish him.",
+   "m": "'Embarrassed' meant puzzled or hampered, not ashamed."
+  },
+  {
+   "t": "such a cobweb",
+   "c": "old",
+   "g": "So flimsy and frail."
+  },
+  {
+   "t": "received his due",
+   "c": "old",
+   "g": "Got what he deserved."
+  },
+  {
+   "t": "potent on his nerves",
+   "c": "old",
+   "g": "Powerful in its effect on his nerves."
+  },
+  {
+   "t": "by the hour together",
+   "c": "old",
+   "g": "For hours at a time."
+  },
+  {
+   "t": "your precious mate",
+   "c": "old",
+   "g": "Your darling husband (said sarcastically)."
+  },
+  {
+   "t": "I yield all my interest in him to you",
+   "c": "old",
+   "g": "I hand over all responsibility for him to you."
+  },
+  {
+   "t": "a daily plague to your unnatural heart",
+   "c": "old",
+   "g": "A daily nuisance to your cold, unfatherly heart."
+  },
+  {
+   "t": "I’m seeking a tenant for the Grange",
+   "c": "ref",
+   "g": "I'm looking for someone to rent the Grange.",
+   "n": "Keep in mind who is renting Thrushcross Grange when the novel opens (Chapter I)."
+  },
+  {
+   "t": "owes me her services for her bread",
+   "c": "old",
+   "g": "Must work for her keep."
+  },
+  {
+   "t": "nurture her in luxury and idleness",
+   "c": "old",
+   "g": "Keep her in comfort, doing nothing."
+  },
+  {
+   "t": "don’t oblige me to compel you",
+   "c": "old",
+   "g": "Don't force me to make you."
+  },
+  {
+   "t": "I defy you",
+   "c": "old",
+   "g": "I dare you; I stand up to you."
+  },
+  {
+   "t": "a boastful champion",
+   "c": "old",
+   "g": "A bragging defender."
+  },
+  {
+   "t": "as bitter as gall",
+   "c": "ref",
+   "g": "Extremely bitter.",
+   "n": "Gall is bile, famously bitter. 'Gall' for bitterness appears often in the Bible."
+  },
+  {
+   "t": "draw a pleasant picture to Zillah",
+   "c": "old",
+   "g": "Describe to Zillah (said ironically: the picture was cruel)."
+  },
+  {
+   "t": "the inclination is there",
+   "c": "old",
+   "g": "He has the wish (to be cruel)."
+  },
+  {
+   "t": "Lonely, like the devil, and envious like him",
+   "c": "ref",
+   "g": "Cut off from love and envious of others' happiness, like Satan.",
+   "n": "In Christian tradition, Satan, thrown out of heaven, envies human happiness. Milton's 'Paradise Lost' famously shows him this way."
+  },
+  {
+   "t": "a kind of dreary triumph",
+   "c": "old",
+   "g": "A bleak, joyless sort of victory."
+  },
+  {
+   "t": "enter into the spirit of her future family",
+   "c": "old",
+   "g": "Take on the cruel ways of her new family."
+  },
+  {
+   "t": "her father-in-law",
+   "c": "ref",
+   "g": "Heathcliff, father of her husband Linton."
+  },
+  {
+   "t": "presently",
+   "c": "shift",
+   "g": "Very soon.",
+   "m": "Not 'now' or 'at present'."
+  },
+  {
+   "t": "Begone, witch",
+   "c": "old",
+   "g": "Go away, you witch."
+  },
+  {
+   "t": "scornfully withdrew",
+   "c": "old",
+   "g": "Left the room with contempt."
+  },
+  {
+   "t": "beg for Zillah’s place",
+   "c": "ref",
+   "g": "Ask to take Zillah's job as housekeeper at the Heights."
+  },
+  {
+   "t": "he would suffer it on no account",
+   "c": "shift",
+   "g": "He would not allow it at all.",
+   "m": "'Suffer' here means allow, not feel pain."
+  },
+  {
+   "t": "I shall have that home",
+   "c": "old",
+   "g": "I'll take that portrait home with me."
+  },
+  {
+   "t": "for lack of a better word",
+   "c": "old",
+   "g": "Because there's no better word for it."
+  },
+  {
+   "t": "the sexton",
+   "c": "ref",
+   "g": "The church officer who looked after the churchyard and dug graves."
+  },
+  {
+   "t": "Linton’s grave",
+   "c": "name",
+   "g": "Edgar Linton's grave.",
+   "n": "In this speech 'Linton' means Edgar, not his son."
+  },
+  {
+   "t": "her coffin lid",
+   "c": "name",
+   "g": "The coffin of Catherine, Cathy's mother.",
+   "n": "Edgar's grave was dug beside hers (Chapter XVI)."
+  },
+  {
+   "t": "it is hers yet!",
+   "c": "old",
+   "g": "It still looks like her!"
+  },
+  {
+   "t": "not Linton’s side, damn him!",
+   "c": "ref",
+   "g": "Not the side facing Edgar's grave.",
+   "n": "Catherine lies between Edgar and the spot Heathcliff means to have for himself. He has loosened the side of her coffin that faces his own future grave."
+  },
+  {
+   "t": "soldered in lead",
+   "c": "ref",
+   "g": "Sealed inside a lead coffin.",
+   "n": "Wealthy people were sometimes buried in lead-lined coffins sealed with solder, which kept the body apart and slowed decay."
+  },
+  {
+   "t": "slide mine out too",
+   "c": "ref",
+   "g": "Remove the matching side of my coffin too.",
+   "n": "So that, when both have decayed, their remains will mingle."
+  },
+  {
+   "t": "he’ll not know which is which",
+   "c": "ref",
+   "g": "Edgar won't be able to tell Heathcliff's dust from Catherine's."
+  },
+  {
+   "t": "disturb the dead",
+   "c": "ref",
+   "g": "Interfere with a grave.",
+   "n": "Opening a grave was thought deeply wrong, and digging up a body was a crime."
+  },
+  {
+   "t": "yesternight",
+   "c": "old",
+   "g": "Last night."
+  },
+  {
+   "t": "sleeping the last sleep by that sleeper",
+   "c": "old",
+   "g": "Lying dead beside her."
+  },
+  {
+   "t": "dissolved into earth",
+   "c": "old",
+   "g": "Decayed into dust."
+  },
+  {
+   "t": "such a transformation on raising the lid",
+   "c": "old",
+   "g": "To find her body decayed when I lifted the lid."
+  },
+  {
+   "t": "a distinct impression of her passionless features",
+   "c": "old",
+   "g": "A clear sight of her calm, still face."
+  },
+  {
+   "t": "I was wild after she died",
+   "c": "old",
+   "g": "I was frantic after her death."
+  },
+  {
+   "t": "praying her to return to me her spirit",
+   "c": "ref",
+   "g": "Begging her ghost to come back to me.",
+   "n": "Remember his wild prayer for her to haunt him, at the end of Chapter XVI."
+  },
+  {
+   "t": "I have a strong faith in ghosts",
+   "c": "ref",
+   "g": "I firmly believe in ghosts.",
+   "n": "Think back to Lockwood's nightmare and Heathcliff's cry at the window in Chapter III."
+  },
+  {
+   "t": "The day she was buried, there came a fall of snow",
+   "c": "ref",
+   "g": "The weather turned to snow after the funeral.",
+   "n": "This is the night Isabella described in Chapter XVII."
+  },
+  {
+   "t": "It blew bleak as winter",
+   "c": "old",
+   "g": "The wind was as cold as winter."
+  },
+  {
+   "t": "two yards of loose earth",
+   "c": "ref",
+   "g": "About six feet of freshly dug soil."
+  },
+  {
+   "t": "the tool-house",
+   "c": "rural",
+   "g": "The shed where tools are kept."
+  },
+  {
+   "t": "delve",
+   "c": "old",
+   "g": "Dig."
+  },
+  {
+   "t": "attaining my object",
+   "c": "old",
+   "g": "Reaching my goal."
+  },
+  {
+   "t": "the sleet-laden wind",
+   "c": "old",
+   "g": "The wind full of sleet."
+  },
+  {
+   "t": "some substantial body",
+   "c": "old",
+   "g": "Something solid and real."
+  },
+  {
+   "t": "Cathy was there",
+   "c": "name",
+   "g": "Here 'Cathy' means Catherine, young Cathy's mother.",
+   "n": "Heathcliff often called her Cathy."
+  },
+  {
+   "t": "I relinquished my labour of agony",
+   "c": "old",
+   "g": "I gave up my desperate digging."
+  },
+  {
+   "t": "unspeakably consoled",
+   "c": "old",
+   "g": "Comforted beyond words."
+  },
+  {
+   "t": "that accursed Earnshaw and my wife opposed my entrance",
+   "c": "ref",
+   "g": "Hindley and Isabella barred me from coming in.",
+   "n": "See Isabella's account of that night in Chapter XVII."
+  },
+  {
+   "t": "I ought to have sweat blood",
+   "c": "ref",
+   "g": "I suffered such agony I should have sweated blood.",
+   "n": "An echo of Jesus praying in Gethsemane, whose 'sweat was as it were great drops of blood' (Luke 22:44)."
+  },
+  {
+   "t": "the fervour of my supplications",
+   "c": "old",
+   "g": "The passion of my pleading prayers."
+  },
+  {
+   "t": "the sport of that intolerable torture",
+   "c": "old",
+   "g": "The plaything of that unbearable torment."
+  },
+  {
+   "t": "Infernal!",
+   "c": "old",
+   "g": "Hellish!"
+  },
+  {
+   "t": "if they had not resembled catgut",
+   "c": "rural",
+   "g": "If they hadn't been as tough as catgut.",
+   "n": "Catgut is strong cord made from animal intestines, used for violin strings."
+  },
+  {
+   "t": "when I slept in her chamber",
+   "c": "ref",
+   "g": "When I slept in her old bedroom.",
+   "n": "The room with the oak box-bed where Lockwood spent his night in Chapter III."
+  },
+  {
+   "t": "I was beaten out of that",
+   "c": "old",
+   "g": "I was driven out of there."
+  },
+  {
+   "t": "sliding back the panels",
+   "c": "ref",
+   "g": "Opening the sliding panels of the box-bed.",
+   "n": "Lockwood's ghost dream happened in this same bed (Chapter III)."
+  },
+  {
+   "t": "It racked me",
+   "c": "old",
+   "g": "It tortured me.",
+   "n": "The rack was an instrument of torture that stretched the body."
+  },
+  {
+   "t": "that old rascal Joseph",
+   "c": "name",
+   "g": "Joseph, the old servant at the Heights."
+  },
+  {
+   "t": "playing the fiend inside of me",
+   "c": "old",
+   "g": "Tormenting me like a devil inside."
+  },
+  {
+   "t": "I’m pacified",
+   "c": "old",
+   "g": "I'm calmed."
+  },
+  {
+   "t": "not by inches, but by fractions of hairbreadths",
+   "c": "old",
+   "g": "Not just slowly, but unbearably slowly.",
+   "n": "'Killing by inches' meant a slow death. Heathcliff makes it even slower."
+  },
+  {
+   "t": "beguile me with the spectre of a hope",
+   "c": "old",
+   "g": "Tease me with the ghost of a hope."
+  },
+  {
+   "t": "wet with perspiration",
+   "c": "old",
+   "g": "Wet with sweat."
+  },
+  {
+   "t": "the red embers",
+   "c": "old",
+   "g": "The glowing coals."
+  },
+  {
+   "t": "the grim aspect of his countenance",
+   "c": "old",
+   "g": "The grim look on his face."
+  },
+  {
+   "t": "mental tension towards one absorbing subject",
+   "c": "old",
+   "g": "A mind straining towards one thing that fills it."
+  },
+  {
+   "t": "I maintained silence",
+   "c": "old",
+   "g": "I kept quiet."
+  },
+  {
+   "t": "resumed his meditation on the picture",
+   "c": "old",
+   "g": "Went back to gazing thoughtfully at the portrait."
+  },
+  {
+   "t": "contemplate it at better advantage",
+   "c": "old",
+   "g": "Look at it more easily."
+  },
+  {
+   "t": "Send that over to-morrow",
+   "c": "old",
+   "g": "Send that portrait to the Heights tomorrow."
+  },
+  {
+   "t": "her new father",
+   "c": "ref",
+   "g": "Her new father-in-law."
+  },
+  {
+   "t": "your prying",
+   "c": "old",
+   "g": "Your nosiness; your snooping."
+  },
+  {
+   "t": "He signed her to precede him",
+   "c": "old",
+   "g": "He signalled for her to walk ahead of him."
+  },
+  {
+   "t": "disputed the act",
+   "c": "old",
+   "g": "Resisted it."
+  },
+  {
+   "t": "the alley",
+   "c": "shift",
+   "g": "A garden walk lined with trees.",
+   "m": "Not a narrow back street. An 'alley' was a path between trees or hedges in a garden."
+  }
+ ]
+}

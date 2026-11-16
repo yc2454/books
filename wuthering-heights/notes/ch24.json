@@ -1,0 +1,832 @@
+{
+  "orient": "Narrator: Nelly Dean, continuing her story to Lockwood. Three weeks have passed since her illness began, so it is early winter, late in 1800. For much of the chapter Cathy tells her own story to Nelly, so we hear the events through Cathy's voice inside Nelly's.",
+  "notes": [
+    {
+      "t": "chamber",
+      "c": "old",
+      "g": "Bedroom."
+    },
+    {
+      "t": "Catherine",
+      "c": "name",
+      "first": true,
+      "g": "Young Cathy Linton, Edgar's daughter, now sixteen."
+    },
+    {
+      "t": "the master",
+      "c": "old",
+      "g": "Edgar Linton, Cathy's father."
+    },
+    {
+      "t": "perused",
+      "c": "shift",
+      "g": "Read.",
+      "m": "Today 'peruse' is often used to mean skim. It meant to read through carefully."
+    },
+    {
+      "t": "Ellen",
+      "c": "name",
+      "first": true,
+      "g": "Nelly Dean, the narrator. Cathy uses her proper first name."
+    },
+    {
+      "t": "got forward steadily",
+      "c": "old",
+      "g": "Read on steadily."
+    },
+    {
+      "t": "essayed",
+      "c": "old",
+      "g": "Tried."
+    },
+    {
+      "t": "disrelish",
+      "c": "old",
+      "g": "Distaste; dislike."
+    },
+    {
+      "t": "Perceiving me immovable",
+      "c": "old",
+      "g": "Seeing that I wouldn't budge."
+    },
+    {
+      "t": "Give over",
+      "c": "old",
+      "g": "Stop."
+    },
+    {
+      "t": "fretted",
+      "c": "old",
+      "g": "Fidgeted and complained."
+    },
+    {
+      "t": "overdone with sleep",
+      "c": "old",
+      "g": "Worn out with sleepiness."
+    },
+    {
+      "t": "Mr. Edgar",
+      "c": "name",
+      "first": true,
+      "g": "Edgar Linton, Cathy's father."
+    },
+    {
+      "t": "apartment",
+      "c": "shift",
+      "g": "Room.",
+      "m": "'Apartment' meant a single room, not a flat."
+    },
+    {
+      "t": "the park",
+      "c": "rural",
+      "g": "The Grange's large enclosed grounds."
+    },
+    {
+      "t": "for refreshment",
+      "c": "old",
+      "g": "For fresh air."
+    },
+    {
+      "t": "grooms",
+      "c": "rural",
+      "g": "Servants who look after the horses."
+    },
+    {
+      "t": "a considerable period",
+      "c": "old",
+      "g": "Quite a long time."
+    },
+    {
+      "t": "carriage-road",
+      "c": "rural",
+      "g": "The drive through the grounds, wide enough for carriages."
+    },
+    {
+      "t": "stealthily",
+      "c": "old",
+      "g": "Quietly and secretly."
+    },
+    {
+      "t": "casement-window",
+      "c": "rural",
+      "g": "A window hinged at the side, which opens like a door."
+    },
+    {
+      "t": "drawing-room",
+      "c": "old",
+      "g": "The formal sitting room for receiving guests."
+    },
+    {
+      "t": "mantle",
+      "c": "old",
+      "g": "A loose cloak."
+    },
+    {
+      "t": "put the door gently to",
+      "c": "old",
+      "g": "Closed the door gently."
+    },
+    {
+      "t": "espionage",
+      "c": "old",
+      "g": "Spying."
+    },
+    {
+      "t": "petrified her",
+      "c": "old",
+      "g": "Froze her with fright.",
+      "n": "Literally, 'turned her to stone'."
+    },
+    {
+      "t": "inarticulate exclamation",
+      "c": "old",
+      "g": "A cry without words."
+    },
+    {
+      "t": "telling a tale",
+      "c": "old",
+      "g": "Telling a lie."
+    },
+    {
+      "t": "tell a tale",
+      "c": "old",
+      "g": "Tell a lie."
+    },
+    {
+      "t": "frame a deliberate lie",
+      "c": "old",
+      "g": "Make up a deliberate lie."
+    },
+    {
+      "t": "window-seat",
+      "c": "old",
+      "g": "A seat built into the recess of a window."
+    },
+    {
+      "t": "Wuthering Heights",
+      "c": "name",
+      "first": true,
+      "g": "Heathcliff's farmhouse on the moors, about four miles from the Grange."
+    },
+    {
+      "t": "thrice",
+      "c": "old",
+      "g": "Three times."
+    },
+    {
+      "t": "Michael",
+      "c": "name",
+      "first": true,
+      "g": "One of the grooms at the Grange."
+    },
+    {
+      "t": "Minny",
+      "c": "name",
+      "first": true,
+      "g": "Cathy's pony."
+    },
+    {
+      "t": "sad work",
+      "c": "old",
+      "g": "Hard work; a difficult job."
+    },
+    {
+      "t": "Linton",
+      "c": "name",
+      "first": true,
+      "g": "Linton Heathcliff, Cathy's sickly cousin, Heathcliff's son."
+    },
+    {
+      "t": "engaged to call again",
+      "c": "old",
+      "g": "Promised to visit again."
+    },
+    {
+      "t": "morrow",
+      "c": "old",
+      "g": "The next day."
+    },
+    {
+      "t": "Zillah",
+      "c": "name",
+      "first": true,
+      "g": "The housekeeper at the Heights, whom Lockwood met in Chapter II."
+    },
+    {
+      "t": "Joseph",
+      "c": "name",
+      "first": true,
+      "g": "The sour, Bible-quoting old servant at the Heights."
+    },
+    {
+      "t": "prayer-meeting",
+      "c": "ref",
+      "g": "A gathering for prayer and Bible reading outside the regular church service.",
+      "n": "Popular with strict, earnest Protestants like Joseph."
+    },
+    {
+      "t": "Hareton Earnshaw",
+      "c": "name",
+      "first": true,
+      "g": "Cathy's rough, unschooled cousin at the Heights, Hindley's son."
+    },
+    {
+      "t": "robbing our woods of pheasants",
+      "c": "ref",
+      "g": "Poaching game birds from the Grange's woods.",
+      "n": "A neat reversal of Chapter XXI, where Heathcliff caught Cathy after grouse nests on his land."
+    },
+    {
+      "t": "warm wine and gingerbread",
+      "c": "rural",
+      "g": "Heated wine and spiced ginger cake: treats for a cold evening."
+    },
+    {
+      "t": "hearth-stone",
+      "c": "rural",
+      "g": "The stone slab in front of the fireplace."
+    },
+    {
+      "t": "bank of heath",
+      "c": "rural",
+      "g": "A slope covered in heather."
+    },
+    {
+      "t": "among the bloom",
+      "c": "rural",
+      "g": "Among the heather flowers."
+    },
+    {
+      "t": "larks",
+      "c": "rural",
+      "g": "Skylarks: small birds that sing as they fly high up."
+    },
+    {
+      "t": "throstles",
+      "c": "rural",
+      "g": "Song thrushes."
+    },
+    {
+      "t": "linnets",
+      "c": "rural",
+      "g": "Small brown songbirds of heaths and hedges."
+    },
+    {
+      "t": "cuckoos",
+      "c": "rural",
+      "g": "Birds famous for their two-note spring call."
+    },
+    {
+      "t": "dusky dells",
+      "c": "old",
+      "g": "Shady little valleys."
+    },
+    {
+      "t": "undulating",
+      "c": "old",
+      "g": "Rippling; moving in waves."
+    },
+    {
+      "t": "an ecstasy of peace",
+      "c": "ref",
+      "g": "A perfect, dreamy stillness.",
+      "n": "The two ideas of heaven match the two cousins: Linton's still and drowsy, Cathy's wild and full of life."
+    },
+    {
+      "t": "jubilee",
+      "c": "old",
+      "g": "Joyful celebration."
+    },
+    {
+      "t": "snappish",
+      "c": "old",
+      "g": "Irritable; quick to snap."
+    },
+    {
+      "t": "smooth uncarpeted floor",
+      "c": "ref",
+      "g": "The bare stone floor of the big main room.",
+      "n": "Lockwood described its 'smooth, white stone' in Chapter I."
+    },
+    {
+      "t": "blindman’s-buff",
+      "c": "ref",
+      "g": "A party game: a blindfolded player tries to catch the others."
+    },
+    {
+      "t": "tops, and hoops",
+      "c": "ref",
+      "g": "Spinning tops, and hoops that children rolled along with a stick."
+    },
+    {
+      "t": "battledores and shuttlecocks",
+      "c": "ref",
+      "g": "An early form of badminton.",
+      "n": "Players hit a feathered cork (the shuttlecock) back and forth with small rackets (battledores)."
+    },
+    {
+      "t": "One was marked C., and the other H.",
+      "c": "ref",
+      "g": "Old toys found at the Heights.",
+      "n": "Cathy guesses 'H.' stands for Heathcliff, Linton's surname. The reader may think of two other children who once played in this house."
+    },
+    {
+      "t": "bran",
+      "c": "rural",
+      "g": "The husks of grain, used here as stuffing for the ball."
+    },
+    {
+      "t": "your songs, Ellen",
+      "c": "ref",
+      "g": "The songs Nelly taught Cathy as a child.",
+      "n": "Nelly called them her 'nursery lore' in Chapter XXII."
+    },
+    {
+      "t": "you were poorly",
+      "c": "old",
+      "g": "You were unwell."
+    },
+    {
+      "t": "that fellow Earnshaw",
+      "c": "name",
+      "g": "Hareton.",
+      "n": "Cathy coldly calls him by his surname, as if he were a servant."
+    },
+    {
+      "t": "took my bridle",
+      "c": "rural",
+      "g": "Took hold of my pony's harness near its head."
+    },
+    {
+      "t": "bid me go in",
+      "c": "old",
+      "g": "Told me to go in."
+    },
+    {
+      "t": "a bonny beast",
+      "c": "dialect",
+      "g": "A fine-looking animal."
+    },
+    {
+      "t": "vulgar accent",
+      "c": "shift",
+      "g": "Common, uneducated accent.",
+      "m": "'Vulgar' meant 'of the common people', not crude or obscene."
+    },
+    {
+      "t": "mitch",
+      "c": "dialect",
+      "g": "Much."
+    },
+    {
+      "t": "the inscription above",
+      "c": "ref",
+      "g": "The carved name 'Hareton Earnshaw' and the date '1500' over the door.",
+      "n": "Lockwood saw it in Chapter I. In Chapter XXI Hareton could not read it and Cathy laughed at him."
+    },
+    {
+      "t": "raised the latch",
+      "c": "rural",
+      "g": "Lifted the bar that fastens the door."
+    },
+    {
+      "t": "elation",
+      "c": "old",
+      "g": "Joyful pride."
+    },
+    {
+      "t": "I can read yon",
+      "c": "dialect",
+      "g": "I can read that, over there.",
+      "n": "'Yon' means that one, over there."
+    },
+    {
+      "t": "Pray let us hear you",
+      "c": "old",
+      "g": "Please let us hear you."
+    },
+    {
+      "t": "drawled over by syllables",
+      "c": "old",
+      "g": "Spoke slowly, one syllable at a time."
+    },
+    {
+      "t": "He spelt",
+      "c": "old",
+      "g": "He spelled out."
+    },
+    {
+      "t": "the figures",
+      "c": "old",
+      "g": "The numbers: the date 1500."
+    },
+    {
+      "t": "dunce",
+      "c": "old",
+      "g": "Dimwit."
+    },
+    {
+      "t": "retrieving my gravity",
+      "c": "old",
+      "g": "Becoming serious again."
+    },
+    {
+      "t": "pleasant familiarity",
+      "c": "old",
+      "g": "Friendly teasing, as between equals."
+    },
+    {
+      "t": "skulked off",
+      "c": "old",
+      "g": "Slunk away."
+    },
+    {
+      "t": "mortified vanity",
+      "c": "old",
+      "g": "Wounded pride."
+    },
+    {
+      "t": "accomplished",
+      "c": "old",
+      "g": "Educated and skilled."
+    },
+    {
+      "t": "discomfited",
+      "c": "old",
+      "g": "Upset and embarrassed."
+    },
+    {
+      "t": "Master Heathcliff",
+      "c": "ref",
+      "g": "Linton.",
+      "n": "'Master' was the polite title for a boy, as 'Mister' was for a man."
+    },
+    {
+      "t": "bad breeding",
+      "c": "old",
+      "g": "Bad manners.",
+      "n": "'Breeding' meant the manners that come from a good upbringing."
+    },
+    {
+      "t": "base Heathcliff",
+      "c": "old",
+      "g": "Low, wicked Heathcliff."
+    },
+    {
+      "t": "as quick and as intelligent a child as ever you were",
+      "c": "ref",
+      "g": "Nelly knew Hareton as a bright little boy.",
+      "n": "She looked after him as a baby and small child at the Heights (Chapters VIII to X), long before Heathcliff took charge of him."
+    },
+    {
+      "t": "conned his A B C",
+      "c": "old",
+      "g": "Studied his alphabet."
+    },
+    {
+      "t": "civil",
+      "c": "old",
+      "g": "Polite."
+    },
+    {
+      "t": "comply",
+      "c": "old",
+      "g": "Do as he asked."
+    },
+    {
+      "t": "having gathered venom with reflection",
+      "c": "old",
+      "g": "Having grown angrier the more he thought about it."
+    },
+    {
+      "s": "Get to thy own room!",
+      "e": "Begone wi’ ye both!",
+      "c": "dialect",
+      "who": "Hareton",
+      "tr": "Go to your own room! Take her there if she comes to see you. You shan't keep me out of this room. Get out, both of you!"
+    },
+    {
+      "t": "thou shalln’t",
+      "c": "dialect",
+      "g": "You shan't."
+    },
+    {
+      "t": "Begone",
+      "c": "old",
+      "g": "Go away!"
+    },
+    {
+      "t": "malignant",
+      "c": "old",
+      "g": "Spiteful; full of ill will."
+    },
+    {
+      "s": "I wer sure he’d sarve ye out!",
+      "e": "skift properly! Ech, ech, ech!",
+      "c": "dialect",
+      "who": "Joseph",
+      "tr": "I was sure he'd pay you back! He's a grand lad! He's got the right spirit in him! He knows, yes, he knows as well as I do who should be the master here. Heh, heh, heh! He made you clear off properly! Heh, heh, heh!",
+      "n": "Joseph means that Hareton, an Earnshaw, is the rightful master of the Heights, which passed to Heathcliff when Hindley died (Chapter XVII)."
+    },
+    {
+      "t": "sarve ye out",
+      "c": "dialect",
+      "g": "Serve you out: pay you back."
+    },
+    {
+      "t": "getten",
+      "c": "dialect",
+      "g": "Got."
+    },
+    {
+      "t": "sperrit",
+      "c": "dialect",
+      "g": "Spirit."
+    },
+    {
+      "t": "sud",
+      "c": "dialect",
+      "g": "Should."
+    },
+    {
+      "t": "skift",
+      "c": "dialect",
+      "g": "Shift: clear off; move quickly.",
+      "n": "Probably a dialect form of 'shift'."
+    },
+    {
+      "t": "wrought",
+      "c": "old",
+      "g": "Worked; twisted."
+    },
+    {
+      "s": "Thear, that’s t’ father!",
+      "e": "he cannot get at thee!",
+      "c": "dialect",
+      "who": "Joseph",
+      "tr": "There, that's his father in him! That's his father! We've always got something of both sides in us. Never mind, Hareton, lad. Don't be afraid, he can't get at you!",
+      "n": "Joseph means Linton's screaming fury shows Heathcliff's temper."
+    },
+    {
+      "t": "allas",
+      "c": "dialect",
+      "g": "Always."
+    },
+    {
+      "t": "Niver heed",
+      "c": "dialect",
+      "g": "Never mind."
+    },
+    {
+      "t": "dunnut be ’feard",
+      "c": "dialect",
+      "g": "Don't be afraid."
+    },
+    {
+      "t": "conveying",
+      "c": "old",
+      "g": "Carrying."
+    },
+    {
+      "t": "ascended",
+      "c": "old",
+      "g": "Went up."
+    },
+    {
+      "t": "no sich stuff",
+      "c": "dialect",
+      "g": "No such thing."
+    },
+    {
+      "t": "bahn",
+      "c": "dialect",
+      "g": "Going (from 'bound')."
+    },
+    {
+      "t": "din",
+      "c": "old",
+      "g": "Racket; loud noise."
+    },
+    {
+      "t": "presuming",
+      "c": "old",
+      "g": "Daring, rudely."
+    },
+    {
+      "t": "the ruffian",
+      "c": "old",
+      "g": "The thug (Hareton)."
+    },
+    {
+      "t": "wisht",
+      "c": "dialect",
+      "g": "Hush! Be quiet!"
+    },
+    {
+      "t": "blubbering",
+      "c": "old",
+      "g": "Crying noisily."
+    },
+    {
+      "t": "checked Minny",
+      "c": "old",
+      "g": "Pulled Minny up; stopped her."
+    },
+    {
+      "t": "the premises",
+      "c": "old",
+      "g": "The house and its grounds."
+    },
+    {
+      "s": "Miss Catherine, I’m ill grieved",
+      "e": "rayther too bad",
+      "c": "dialect",
+      "who": "Hareton",
+      "tr": "Miss Catherine, I'm very sorry, but it's rather too bad..."
+    },
+    {
+      "t": "ill grieved",
+      "c": "dialect",
+      "g": "Very sorry; deeply upset."
+    },
+    {
+      "t": "rayther",
+      "c": "dialect",
+      "g": "Rather."
+    },
+    {
+      "t": "a cut with my whip",
+      "c": "old",
+      "g": "A lash with my riding whip."
+    },
+    {
+      "t": "strangely excited",
+      "c": "shift",
+      "g": "Strangely agitated.",
+      "m": "'Excited' meant stirred up or upset, not eagerly happy."
+    },
+    {
+      "t": "encountering",
+      "c": "old",
+      "g": "Meeting."
+    },
+    {
+      "t": "I didn’t bid you good-night",
+      "c": "old",
+      "g": "I didn't say good night to you.",
+      "n": "'Bid' means say or wish here."
+    },
+    {
+      "t": "mending nicely",
+      "c": "old",
+      "g": "Recovering well."
+    },
+    {
+      "t": "inexpressible joy",
+      "c": "old",
+      "g": "Joy too great for words."
+    },
+    {
+      "t": "gave notice of my approach",
+      "c": "old",
+      "g": "Barked to announce that I was coming."
+    },
+    {
+      "t": "confounded me",
+      "c": "old",
+      "g": "Bewildered me."
+    },
+    {
+      "t": "occasioned the uproar",
+      "c": "old",
+      "g": "Caused the row."
+    },
+    {
+      "t": "melted into air",
+      "c": "ref",
+      "g": "Vanished.",
+      "n": "Perhaps an echo of Shakespeare's 'The Tempest': 'melted into air, into thin air'."
+    },
+    {
+      "t": "refrain",
+      "c": "old",
+      "g": "Hold back; stay away."
+    },
+    {
+      "t": "saddle Minny",
+      "c": "rural",
+      "g": "Put the saddle on Minny, ready to ride."
+    },
+    {
+      "t": "the court",
+      "c": "rural",
+      "g": "The farmyard."
+    },
+    {
+      "t": "Young master is in the house",
+      "c": "rural",
+      "g": "Linton is in the main living room.",
+      "n": "At the Heights 'the house' means the big main room."
+    },
+    {
+      "t": "parlour",
+      "c": "rural",
+      "g": "The smaller, private sitting room."
+    },
+    {
+      "t": "directly",
+      "c": "shift",
+      "g": "At once.",
+      "m": "Means immediately, not 'in a straight line'."
+    },
+    {
+      "t": "quitted",
+      "c": "old",
+      "g": "Left."
+    },
+    {
+      "t": "Mr. Heathcliff",
+      "c": "name",
+      "first": true,
+      "g": "Master of Wuthering Heights and Linton's father."
+    },
+    {
+      "t": "do me this justice",
+      "c": "old",
+      "g": "Be fair to me in this."
+    },
+    {
+      "t": "defects",
+      "c": "old",
+      "g": "Faults; weaknesses."
+    },
+    {
+      "t": "distorted nature",
+      "c": "old",
+      "g": "Twisted character."
+    },
+    {
+      "t": "reconciled",
+      "c": "old",
+      "g": "Made up; friends again."
+    },
+    {
+      "t": "the former with nearly as little resentment as the latter",
+      "c": "old",
+      "g": "His selfishness almost as patiently as his illness."
+    },
+    {
+      "t": "abusing poor Linton",
+      "c": "old",
+      "g": "Harshly scolding and insulting Linton."
+    },
+    {
+      "t": "provokingly",
+      "c": "old",
+      "g": "Annoyingly."
+    },
+    {
+      "t": "tranquillity",
+      "c": "old",
+      "g": "Peace; calm."
+    },
+    {
+      "t": "It requires some study",
+      "c": "shift",
+      "g": "It needs some thought.",
+      "m": "'Study' here means careful thinking, not schoolwork."
+    },
+    {
+      "t": "Mr. Linton",
+      "c": "name",
+      "first": true,
+      "g": "Edgar Linton, Cathy's father."
+    },
+    {
+      "t": "betrayal of her confidence",
+      "c": "shift",
+      "g": "Betrayal of the secret she trusted me with.",
+      "m": "'Confidence' here means a secret told in trust, not self-assurance."
+    },
+    {
+      "t": "interdict",
+      "c": "old",
+      "g": "Ban; prohibition."
+    },
+    {
+      "t": "In vain",
+      "c": "old",
+      "g": "Uselessly; without success."
+    },
+    {
+      "t": "disposition",
+      "c": "old",
+      "g": "Character; nature."
+    },
+    {
+      "t": "withhold",
+      "c": "old",
+      "g": "Hold back; refuse."
+    }
+  ]
+}
