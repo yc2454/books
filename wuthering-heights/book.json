@@ -1,0 +1,29 @@
+{
+  "id": "wuthering-heights",
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "year": "1847",
+  "blurb": "Moorland dialect, shifted meanings and old farm life, explained word by word. Joseph's Yorkshire speeches in plain English.",
+  "source": "Text: Project Gutenberg eBook #768 (public domain). Notes written for this companion.",
+  "chapters": 34,
+  "volumeBreak": 15,
+  "fonts": {
+    "display": "\"Cormorant Garamond\", \"Literata\", Georgia, serif",
+    "displayStyle": "italic",
+    "displayWeight": "500",
+    "body": "\"Literata\", Georgia, \"Times New Roman\", serif"
+  },
+  "cover": { "bg": "#2a2230", "ink": "#ebe7e0", "accent": "#c49cc6", "muted": "#a89aa8" },
+  "theme": {
+    "light": {
+      "paper": "#f0f1ec", "panel": "#e5e8e1", "raised": "#fafbf8", "ink": "#1d221f", "muted": "#5b635c",
+      "rule": "#d1d6ce", "accent": "#6b3e6e", "mark": "#f2dd8a",
+      "c-shift": "#8c3a7b", "c-old": "#36608f", "c-rural": "#4a7537", "c-dialect": "#9c5d17", "c-ref": "#a13838", "c-name": "#2b7774"
+    },
+    "dark": {
+      "paper": "#151917", "panel": "#1d2220", "raised": "#232926", "ink": "#e2e6df", "muted": "#9aa39b",
+      "rule": "#2f3632", "accent": "#c99fcd", "mark": "#6b5a1f",
+      "c-shift": "#d68dc6", "c-old": "#8eb1e2", "c-rural": "#9dc685", "c-dialect": "#e2aa60", "c-ref": "#e88c8c", "c-name": "#79c8c3"
+    }
+  }
+}

@@ -12,7 +12,7 @@ Read these first to absorb the style:
 - `notes/chNN.json`: you create one for each of your chapters.
 - `python3 check.py N`: validates chapter N with the page's exact matching rules. Run it until it prints `OK`.
 
-Only create or edit the `notes/chNN.json` files for **your** chapters. Don't touch other files. Don't run `build.py`: other people are working at the same time.
+Only create or edit the `notes/chNN.json` files for **your** chapters. Don't touch other files. Don't run `site/build.py`: other people are working at the same time.
 
 ## JSON format
 
