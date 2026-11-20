@@ -2,7 +2,7 @@
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600&family=IBM+Plex+Sans:wght@400;500;600&family=Libre+Caslon+Display&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600&family=IBM+Plex+Sans:wght@400;500;600&family=Josefin+Sans:wght@300;600&family=Libre+Caslon+Display&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap">
 <style>
 /* Layout: the library is a page with a ruled margin line down its left edge, like a notebook;
    each book opens into a reading column beside a sticky note card. Book pages override these
@@ -39,9 +39,54 @@
   --accent: #93b5db; --margin-line: #6c3a3a; --mark: #6b5a1f; --shadow: 0 12px 34px rgba(0, 0, 0, .5);
   color-scheme: dark;
 }
-:root[data-book="wuthering-heights"] { --paper: #f0f1ec; --panel: #e5e8e1; --raised: #fafbf8; --ink: #1d221f; --muted: #5b635c; --rule: #d1d6ce; --accent: #6b3e6e; --mark: #f2dd8a; --c-shift: #8c3a7b; --c-old: #36608f; --c-rural: #4a7537; --c-dialect: #9c5d17; --c-ref: #a13838; --c-name: #2b7774; --f-display: "Cormorant Garamond", "Literata", Georgia, serif; --f-body: "Literata", Georgia, "Times New Roman", serif; --display-style: italic; --display-weight: 500 }
+:root[data-book="wuthering-heights"] { --paper: #f0f1ec; --panel: #e5e8e1; --raised: #fafbf8; --ink: #1d221f; --muted: #5b635c; --rule: #d1d6ce; --accent: #6b3e6e; --mark: #f2dd8a; --c-shift: #8c3a7b; --c-old: #36608f; --c-rural: #4a7537; --c-dialect: #9c5d17; --c-ref: #a13838; --c-name: #2b7774; --f-display: "Cormorant Garamond", "Literata", Georgia, serif; --f-body: "Literata", Georgia, "Times New Roman", serif; --display-style: italic; --display-weight: 500; --title-transform: none; --title-tracking: 0 }
 @media (prefers-color-scheme: dark) { :root[data-book="wuthering-heights"]:not([data-theme="light"]) { --paper: #151917; --panel: #1d2220; --raised: #232926; --ink: #e2e6df; --muted: #9aa39b; --rule: #2f3632; --accent: #c99fcd; --mark: #6b5a1f; --c-shift: #d68dc6; --c-old: #8eb1e2; --c-rural: #9dc685; --c-dialect: #e2aa60; --c-ref: #e88c8c; --c-name: #79c8c3; color-scheme: dark } }
 :root[data-book="wuthering-heights"][data-theme="dark"] { --paper: #151917; --panel: #1d2220; --raised: #232926; --ink: #e2e6df; --muted: #9aa39b; --rule: #2f3632; --accent: #c99fcd; --mark: #6b5a1f; --c-shift: #d68dc6; --c-old: #8eb1e2; --c-rural: #9dc685; --c-dialect: #e2aa60; --c-ref: #e88c8c; --c-name: #79c8c3; color-scheme: dark }
+:root[data-book="wuthering-heights"] [data-c="shift"] { --c: var(--c-shift) }
+:root[data-book="wuthering-heights"] .w[data-c="shift"] { text-decoration-style: wavy; text-decoration-thickness: 1.5px }
+:root[data-book="wuthering-heights"] .text.hide-shift .w[data-c="shift"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="wuthering-heights"] [data-c="old"] { --c: var(--c-old) }
+:root[data-book="wuthering-heights"] .w[data-c="old"] { text-decoration-style: solid; text-decoration-thickness: 2px }
+:root[data-book="wuthering-heights"] .text.hide-old .w[data-c="old"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="wuthering-heights"] [data-c="rural"] { --c: var(--c-rural) }
+:root[data-book="wuthering-heights"] .w[data-c="rural"] { text-decoration-style: dashed; text-decoration-thickness: 2px }
+:root[data-book="wuthering-heights"] .text.hide-rural .w[data-c="rural"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="wuthering-heights"] [data-c="dialect"] { --c: var(--c-dialect) }
+:root[data-book="wuthering-heights"] .w[data-c="dialect"] { text-decoration-style: double; text-decoration-thickness: 2px }
+:root[data-book="wuthering-heights"] .text.hide-dialect .w[data-c="dialect"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="wuthering-heights"] [data-c="ref"] { --c: var(--c-ref) }
+:root[data-book="wuthering-heights"] .w[data-c="ref"] { text-decoration-style: dotted; text-decoration-thickness: 2.5px }
+:root[data-book="wuthering-heights"] .text.hide-ref .w[data-c="ref"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="wuthering-heights"] [data-c="name"] { --c: var(--c-name) }
+:root[data-book="wuthering-heights"] .w[data-c="name"] { text-decoration-style: dotted; text-decoration-thickness: 2.5px }
+:root[data-book="wuthering-heights"] .text.hide-name .w[data-c="name"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="as-i-lay-dying"] { --paper: #ebeae5; --panel: #e0dfd8; --raised: #f7f6f2; --ink: #221f1b; --muted: #68625a; --rule: #d3d0c7; --accent: #9b3d22; --mark: #f0d27a; --c-dialect: #a3501a; --c-shift: #8a3477; --c-old: #335f8c; --c-rural: #4d7230; --c-ref: #a12f2f; --c-world: #5b4ea0; --c-style: #7a6512; --c-name: #2f7f86; --f-display: "Josefin Sans", "IBM Plex Sans", system-ui, sans-serif; --f-body: "Spectral", Georgia, "Times New Roman", serif; --display-style: normal; --display-weight: 600; --title-transform: uppercase; --title-tracking: .22em }
+@media (prefers-color-scheme: dark) { :root[data-book="as-i-lay-dying"]:not([data-theme="light"]) { --paper: #171513; --panel: #1f1c19; --raised: #25221e; --ink: #e9e4db; --muted: #a39b8f; --rule: #36312b; --accent: #e08a63; --mark: #6e5a1c; --c-dialect: #e59a5f; --c-shift: #d98bc8; --c-old: #8fb1df; --c-rural: #a6cb84; --c-ref: #ec8f8f; --c-world: #ab9ff0; --c-style: #d9c16a; --c-name: #7cc9cf; color-scheme: dark } }
+:root[data-book="as-i-lay-dying"][data-theme="dark"] { --paper: #171513; --panel: #1f1c19; --raised: #25221e; --ink: #e9e4db; --muted: #a39b8f; --rule: #36312b; --accent: #e08a63; --mark: #6e5a1c; --c-dialect: #e59a5f; --c-shift: #d98bc8; --c-old: #8fb1df; --c-rural: #a6cb84; --c-ref: #ec8f8f; --c-world: #ab9ff0; --c-style: #d9c16a; --c-name: #7cc9cf; color-scheme: dark }
+:root[data-book="as-i-lay-dying"] [data-c="dialect"] { --c: var(--c-dialect) }
+:root[data-book="as-i-lay-dying"] .w[data-c="dialect"] { text-decoration-style: double; text-decoration-thickness: 2px }
+:root[data-book="as-i-lay-dying"] .text.hide-dialect .w[data-c="dialect"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="as-i-lay-dying"] [data-c="shift"] { --c: var(--c-shift) }
+:root[data-book="as-i-lay-dying"] .w[data-c="shift"] { text-decoration-style: wavy; text-decoration-thickness: 1.5px }
+:root[data-book="as-i-lay-dying"] .text.hide-shift .w[data-c="shift"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="as-i-lay-dying"] [data-c="old"] { --c: var(--c-old) }
+:root[data-book="as-i-lay-dying"] .w[data-c="old"] { text-decoration-style: solid; text-decoration-thickness: 2px }
+:root[data-book="as-i-lay-dying"] .text.hide-old .w[data-c="old"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="as-i-lay-dying"] [data-c="rural"] { --c: var(--c-rural) }
+:root[data-book="as-i-lay-dying"] .w[data-c="rural"] { text-decoration-style: dashed; text-decoration-thickness: 2px }
+:root[data-book="as-i-lay-dying"] .text.hide-rural .w[data-c="rural"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="as-i-lay-dying"] [data-c="ref"] { --c: var(--c-ref) }
+:root[data-book="as-i-lay-dying"] .w[data-c="ref"] { text-decoration-style: dotted; text-decoration-thickness: 2.5px }
+:root[data-book="as-i-lay-dying"] .text.hide-ref .w[data-c="ref"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="as-i-lay-dying"] [data-c="world"] { --c: var(--c-world) }
+:root[data-book="as-i-lay-dying"] .w[data-c="world"] { text-decoration-style: dotted; text-decoration-thickness: 2.5px }
+:root[data-book="as-i-lay-dying"] .text.hide-world .w[data-c="world"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="as-i-lay-dying"] [data-c="style"] { --c: var(--c-style) }
+:root[data-book="as-i-lay-dying"] .w[data-c="style"] { text-decoration-style: dashed; text-decoration-thickness: 2px }
+:root[data-book="as-i-lay-dying"] .text.hide-style .w[data-c="style"] { text-decoration-color: transparent; cursor: text; background: none }
+:root[data-book="as-i-lay-dying"] [data-c="name"] { --c: var(--c-name) }
+:root[data-book="as-i-lay-dying"] .w[data-c="name"] { text-decoration-style: dotted; text-decoration-thickness: 2.5px }
+:root[data-book="as-i-lay-dying"] .text.hide-name .w[data-c="name"] { text-decoration-color: transparent; cursor: text; background: none }
 
 
 * { box-sizing: border-box; }
@@ -86,8 +131,8 @@ a { color: inherit; }
 .cover::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 9px; background: linear-gradient(90deg, rgba(0,0,0,.35), rgba(255,255,255,.07) 70%, transparent); }
 .cover::after { content: ""; position: absolute; inset: 8px 8px 8px 16px; border: 1px solid color-mix(in srgb, var(--cv-accent) 35%, transparent); border-radius: 2px; pointer-events: none; }
 .cover:hover { transform: translateY(-3px); box-shadow: 0 1px 0 rgba(255,255,255,.06) inset, 0 20px 34px -12px rgba(0,0,0,.5); }
-.cover .emblem { width: 72%; color: var(--cv-accent); margin-top: 6px; }
-.cover .emblem svg { display: block; width: 100%; height: auto; }
+.cover .emblem { flex: 1; min-height: 0; width: 78%; display: flex; align-items: center; justify-content: center; color: var(--cv-accent); margin: 4px 0 10px; }
+.cover .emblem svg { display: block; max-width: 100%; max-height: 100%; width: 100%; height: 100%; }
 .cover .ct { text-align: center; display: grid; gap: 6px; }
 .cover .ct b { font-size: 1.55rem; line-height: 1.05; font-weight: 500; text-wrap: balance; }
 .cover .ct i { display: block; width: 26px; height: 1px; background: var(--cv-accent); margin: 2px auto; }
@@ -156,6 +201,7 @@ main { min-width: 0; }
 .chap-head { text-align: center; margin: 8px 0 26px; }
 .chap-head .vol { margin-top: 10px; font-size: .75rem; text-transform: uppercase; letter-spacing: .12em; color: var(--muted); }
 .chap-head h1 { font-family: var(--f-display); font-style: var(--display-style); font-weight: var(--display-weight); font-size: 3.4rem; line-height: 1; margin: 6px 0 0; }
+.chap-head h1.titled { font-size: 2.9rem; text-transform: var(--title-transform, none); letter-spacing: var(--title-tracking, 0); }
 .chap-head h1 small { display: block; font-family: var(--f-ui); font-style: normal; font-size: .8rem; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; font-weight: 500; }
 .orient { border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 12px 2px; margin: 0 0 28px; color: var(--muted); font-size: .9rem; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; }
 .orient dt { font-size: .7rem; text-transform: uppercase; letter-spacing: .1em; font-weight: 600; padding-top: 2px; color: var(--ink); }
@@ -177,14 +223,6 @@ main { min-width: 0; }
 .w.active { background: color-mix(in srgb, var(--c) 24%, transparent); text-decoration-color: var(--c); }
 .w.flash, mark.hl.flash { animation: flash 1.4s ease-out; }
 @keyframes flash { 0%, 30% { background: color-mix(in srgb, var(--accent) 35%, transparent); } }
-.w[data-c="shift"] { text-decoration-style: wavy; text-decoration-thickness: 1.5px; }
-.w[data-c="rural"] { text-decoration-style: dashed; }
-.w[data-c="dialect"] { text-decoration-style: double; }
-.w[data-c="ref"], .w[data-c="name"] { text-decoration-style: dotted; text-decoration-thickness: 2.5px; }
-[data-c="shift"] { --c: var(--c-shift); } [data-c="old"] { --c: var(--c-old); } [data-c="rural"] { --c: var(--c-rural); }
-[data-c="dialect"] { --c: var(--c-dialect); } [data-c="ref"] { --c: var(--c-ref); } [data-c="name"] { --c: var(--c-name); }
-.text.hide-shift .w[data-c="shift"], .text.hide-old .w[data-c="old"], .text.hide-rural .w[data-c="rural"],
-.text.hide-dialect .w[data-c="dialect"], .text.hide-ref .w[data-c="ref"], .text.hide-name .w[data-c="name"] { text-decoration-color: transparent; cursor: text; background: none; }
 .pass {
   cursor: pointer; border-radius: 3px; padding: .05em .12em; margin: 0 -.12em;
   background: color-mix(in srgb, var(--c-dialect) 10%, transparent);
@@ -387,17 +425,10 @@ ol.items li button span { color: var(--muted); font-size: .8rem; overflow: hidde
 </div>
 
 <script>
-const SHELF = [{"id":"wuthering-heights","title":"Wuthering Heights","author":"Emily Brontë","year":"1847","blurb":"Moorland dialect, shifted meanings and old farm life, explained word by word. Joseph's Yorkshire speeches in plain English.","fonts":{"display":"\"Cormorant Garamond\", \"Literata\", Georgia, serif","displayStyle":"italic","displayWeight":"500","body":"\"Literata\", Georgia, \"Times New Roman\", serif"},"cover":{"bg":"#2a2230","ink":"#ebe7e0","accent":"#c49cc6","muted":"#a89aa8"},"emblem":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 120\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><defs><clipPath id=\"wh-ring\"><circle cx=\"60\" cy=\"60\" r=\"51\"/><\/clipPath><\/defs><circle cx=\"60\" cy=\"60\" r=\"55\" stroke-width=\"1.2\"/><circle cx=\"60\" cy=\"60\" r=\"51\" stroke-width=\"0.6\" opacity=\".6\"/><g clip-path=\"url(#wh-ring)\"><path d=\"M12 24 C36 20, 62 21, 98 17\" stroke-width=\"0.9\" opacity=\".55\" stroke-dasharray=\"10 5\"/><path d=\"M18 31 C32 29, 44 29, 56 28\" stroke-width=\"0.9\" opacity=\".45\" stroke-dasharray=\"6 5\"/><path d=\"M86 30 C95 29, 104 29, 114 27\" stroke-width=\"0.9\" opacity=\".45\" stroke-dasharray=\"4 4\"/><path d=\"M2 93 C26 82, 46 76, 64 77 C80 78, 96 85, 118 84\" stroke-width=\"1.5\"/><path d=\"M56 99 C74 94, 92 95, 118 98\" stroke-width=\"0.8\" opacity=\".5\"/><path d=\"M78 80.5 V72 L85 67 L92 72 V82\" stroke-width=\"1.2\"/><path d=\"M92 74.5 H99 V82.6\" stroke-width=\"1.2\"/><path d=\"M83 75.5 h3\" stroke-width=\"1.2\"/><path d=\"M34 80 C34.5 71, 37 63, 43 57 C50 50, 61 46.5, 74 45\" stroke-width=\"2.3\"/><path d=\"M40 61 C49 59.5, 60 60.5, 75 58\" stroke-width=\"1.5\"/><path d=\"M46 53.5 C54 46.5, 67 42, 83 39.5\" stroke-width=\"1.5\"/><path d=\"M37 67 C46 68, 56 70.5, 67 70\" stroke-width=\"1.3\"/><path d=\"M56 49 C64 42.5, 75 38.5, 90 36\" stroke-width=\"1.1\"/><path d=\"M62 59.3 L69 62.5\" stroke-width=\"1\"/><path d=\"M66 44 L73 47.5\" stroke-width=\"1\"/><path d=\"M52 69.2 L59 66\" stroke-width=\"1\"/><path d=\"M74 45 L81 47.5\" stroke-width=\"1\"/><path d=\"M83 39.5 L89 41.5\" stroke-width=\"1\"/><\/g><\/svg>","source":"Text: Project Gutenberg eBook #768 (public domain). Notes written for this companion.","chapters":[{"n":1,"roman":"I","ready":true},{"n":2,"roman":"II","ready":true},{"n":3,"roman":"III","ready":true},{"n":4,"roman":"IV","ready":true},{"n":5,"roman":"V","ready":true},{"n":6,"roman":"VI","ready":true},{"n":7,"roman":"VII","ready":true},{"n":8,"roman":"VIII","ready":true},{"n":9,"roman":"IX","ready":true},{"n":10,"roman":"X","ready":true},{"n":11,"roman":"XI","ready":true},{"n":12,"roman":"XII","ready":true},{"n":13,"roman":"XIII","ready":true},{"n":14,"roman":"XIV","ready":true},{"n":15,"roman":"XV","ready":true},{"n":16,"roman":"XVI","ready":true},{"n":17,"roman":"XVII","ready":true},{"n":18,"roman":"XVIII","ready":true},{"n":19,"roman":"XIX","ready":true},{"n":20,"roman":"XX","ready":true},{"n":21,"roman":"XXI","ready":true},{"n":22,"roman":"XXII","ready":true},{"n":23,"roman":"XXIII","ready":true},{"n":24,"roman":"XXIV","ready":true},{"n":25,"roman":"XXV","ready":true},{"n":26,"roman":"XXVI","ready":true},{"n":27,"roman":"XXVII","ready":true},{"n":28,"roman":"XXVIII","ready":true},{"n":29,"roman":"XXIX","ready":true},{"n":30,"roman":"XXX","ready":true},{"n":31,"roman":"XXXI","ready":true},{"n":32,"roman":"XXXII","ready":true},{"n":33,"roman":"XXXIII","ready":true},{"n":34,"roman":"XXXIV","ready":true}],"stats":{"chapters":34,"notes":5756,"passages":59}}];
+const SHELF = [{"id":"wuthering-heights","title":"Wuthering Heights","author":"Emily Brontë","year":"1847","blurb":"Moorland dialect, shifted meanings and old farm life, explained word by word. Joseph's Yorkshire speeches in plain English.","fonts":{"display":"\"Cormorant Garamond\", \"Literata\", Georgia, serif","displayStyle":"italic","displayWeight":"500","body":"\"Literata\", Georgia, \"Times New Roman\", serif"},"cover":{"bg":"#2a2230","ink":"#ebe7e0","accent":"#c49cc6","muted":"#a89aa8"},"cats":{"shift":{"label":"Changed meaning","short":"Changed meaning"},"old":{"label":"Old or literary word","short":"Old / literary"},"rural":{"label":"Farm & country life","short":"Farm & country"},"dialect":{"label":"Yorkshire dialect","short":"Dialect"},"ref":{"label":"Reference & context","short":"References"},"name":{"label":"People & places","short":"People & places"}},"chapterLabel":"Chapter","orientLabel":"Where we are","dropcap":true,"emblem":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 120\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><defs><clipPath id=\"wh-ring\"><circle cx=\"60\" cy=\"60\" r=\"51\"/><\/clipPath><\/defs><circle cx=\"60\" cy=\"60\" r=\"55\" stroke-width=\"1.2\"/><circle cx=\"60\" cy=\"60\" r=\"51\" stroke-width=\"0.6\" opacity=\".6\"/><g clip-path=\"url(#wh-ring)\"><path d=\"M12 24 C36 20, 62 21, 98 17\" stroke-width=\"0.9\" opacity=\".55\" stroke-dasharray=\"10 5\"/><path d=\"M18 31 C32 29, 44 29, 56 28\" stroke-width=\"0.9\" opacity=\".45\" stroke-dasharray=\"6 5\"/><path d=\"M86 30 C95 29, 104 29, 114 27\" stroke-width=\"0.9\" opacity=\".45\" stroke-dasharray=\"4 4\"/><path d=\"M2 93 C26 82, 46 76, 64 77 C80 78, 96 85, 118 84\" stroke-width=\"1.5\"/><path d=\"M56 99 C74 94, 92 95, 118 98\" stroke-width=\"0.8\" opacity=\".5\"/><path d=\"M78 80.5 V72 L85 67 L92 72 V82\" stroke-width=\"1.2\"/><path d=\"M92 74.5 H99 V82.6\" stroke-width=\"1.2\"/><path d=\"M83 75.5 h3\" stroke-width=\"1.2\"/><path d=\"M34 80 C34.5 71, 37 63, 43 57 C50 50, 61 46.5, 74 45\" stroke-width=\"2.3\"/><path d=\"M40 61 C49 59.5, 60 60.5, 75 58\" stroke-width=\"1.5\"/><path d=\"M46 53.5 C54 46.5, 67 42, 83 39.5\" stroke-width=\"1.5\"/><path d=\"M37 67 C46 68, 56 70.5, 67 70\" stroke-width=\"1.3\"/><path d=\"M56 49 C64 42.5, 75 38.5, 90 36\" stroke-width=\"1.1\"/><path d=\"M62 59.3 L69 62.5\" stroke-width=\"1\"/><path d=\"M66 44 L73 47.5\" stroke-width=\"1\"/><path d=\"M52 69.2 L59 66\" stroke-width=\"1\"/><path d=\"M74 45 L81 47.5\" stroke-width=\"1\"/><path d=\"M83 39.5 L89 41.5\" stroke-width=\"1\"/><\/g><\/svg>","source":"Text: Project Gutenberg eBook #768 (public domain). Notes written for this companion.","chapters":[{"n":1,"roman":"I","ready":true},{"n":2,"roman":"II","ready":true},{"n":3,"roman":"III","ready":true},{"n":4,"roman":"IV","ready":true},{"n":5,"roman":"V","ready":true},{"n":6,"roman":"VI","ready":true},{"n":7,"roman":"VII","ready":true},{"n":8,"roman":"VIII","ready":true},{"n":9,"roman":"IX","ready":true},{"n":10,"roman":"X","ready":true},{"n":11,"roman":"XI","ready":true},{"n":12,"roman":"XII","ready":true},{"n":13,"roman":"XIII","ready":true},{"n":14,"roman":"XIV","ready":true},{"n":15,"roman":"XV","ready":true},{"n":16,"roman":"XVI","ready":true},{"n":17,"roman":"XVII","ready":true},{"n":18,"roman":"XVIII","ready":true},{"n":19,"roman":"XIX","ready":true},{"n":20,"roman":"XX","ready":true},{"n":21,"roman":"XXI","ready":true},{"n":22,"roman":"XXII","ready":true},{"n":23,"roman":"XXIII","ready":true},{"n":24,"roman":"XXIV","ready":true},{"n":25,"roman":"XXV","ready":true},{"n":26,"roman":"XXVI","ready":true},{"n":27,"roman":"XXVII","ready":true},{"n":28,"roman":"XXVIII","ready":true},{"n":29,"roman":"XXIX","ready":true},{"n":30,"roman":"XXX","ready":true},{"n":31,"roman":"XXXI","ready":true},{"n":32,"roman":"XXXII","ready":true},{"n":33,"roman":"XXXIII","ready":true},{"n":34,"roman":"XXXIV","ready":true}],"stats":{"chapters":34,"total":34,"notes":5756,"passages":59}},{"id":"as-i-lay-dying","title":"As I Lay Dying","author":"William Faulkner","year":"1930","blurb":"Fifteen voices, one coffin, a ten-day journey to Jefferson. Hill-country Mississippi speech in plain English, plus the history, farm life and Faulkner's invented county behind it.","fonts":{"display":"\"Josefin Sans\", \"IBM Plex Sans\", system-ui, sans-serif","displayStyle":"normal","displayWeight":"600","titleTransform":"uppercase","titleTracking":".22em","body":"\"Spectral\", Georgia, \"Times New Roman\", serif"},"cover":{"bg":"#6b2b18","ink":"#f2ece1","accent":"#e6c27a","muted":"#d6ad93"},"cats":{"dialect":{"label":"Southern dialect","short":"Dialect"},"shift":{"label":"Changed meaning","short":"Changed meaning"},"old":{"label":"Uncommon word","short":"Uncommon words"},"rural":{"label":"Farm & country life","short":"Farm & country"},"ref":{"label":"History & context","short":"History"},"world":{"label":"Faulkner's world","short":"Faulkner's world"},"style":{"label":"How it's written","short":"Style"},"name":{"label":"People & places","short":"People & places"}},"chapterLabel":"Section","orientLabel":"Who's speaking","dropcap":false,"emblem":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 140\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><defs><clipPath id=\"aild-box\"><path d=\"M37 8 H63 L74 40 L67 132 H33 L26 40 Z\"/><\/clipPath><\/defs><path d=\"M34 4 H66 L78 40 L70 136 H30 L22 40 Z\" stroke-width=\"1.3\"/><path d=\"M37 8 H63 L74 40 L67 132 H33 L26 40 Z\" stroke-width=\"0.6\" opacity=\".6\"/><g clip-path=\"url(#aild-box)\"><path d=\"M44 30 q3 -3.2 6 -.6 q3 -2.6 6 .6\" stroke-width=\"1.1\"/><path d=\"M57 21 q1.6 -1.7 3.2 -.3 q1.6 -1.4 3.2 .3\" stroke-width=\"0.8\" opacity=\".7\"/><path d=\"M57 66 a6 6 0 0 1 12 0\" stroke-width=\"0.9\" opacity=\".75\"/><path d=\"M20 66 H80\" stroke-width=\"1.1\"/><path d=\"M46.5 66 V62.5 H53.5 V66\" stroke-width=\"0.9\"/><path d=\"M48 62.5 Q50 58.6 52 62.5 M50 58.8 V57\" stroke-width=\"0.9\"/><path d=\"M20 74 L45 67 M20 84 L43 68 M80 74 L55 67 M80 84 L57 68\" stroke-width=\"0.6\" opacity=\".45\"/><path d=\"M36 136 L48.6 66.5 M64 136 L51.4 66.5\" stroke-width=\"1.1\"/><path d=\"M47.5 95 L48.6 89 M52.5 95 L51.4 89\" stroke-width=\"0.8\"/><path d=\"M47.6 89 h4.8 v-3.2 h-4.8 z\" stroke-width=\"0.8\"/><path d=\"M41.5 103 H58.5 V97 H41.5 Z\" stroke-width=\"1.2\"/><path d=\"M44 97 L45 94.5 H55 L56 97\" stroke-width=\"1\"/><circle cx=\"41\" cy=\"105\" r=\"4.4\" stroke-width=\"1.2\"/><circle cx=\"59\" cy=\"105\" r=\"4.4\" stroke-width=\"1.2\"/><path d=\"M41 100.6 V109.4 M36.6 105 H45.4 M59 100.6 V109.4 M54.6 105 H63.4\" stroke-width=\"0.5\" opacity=\".7\"/><\/g><\/svg>","source":"Text: the 1930 text, from the Random House reprint as transcribed on Wikisource. Public domain in the US since 2026. Notes written for this companion.","chapters":[{"n":1,"roman":"I","title":"Darl","ready":true},{"n":2,"roman":"II","title":"Cora","ready":true},{"n":3,"roman":"III","title":"Darl","ready":true},{"n":4,"roman":"IV","title":"Jewel","ready":true},{"n":5,"roman":"V","title":"Darl","ready":true},{"n":6,"roman":"VI","title":"Cora","ready":false},{"n":7,"roman":"VII","title":"Dewey Dell","ready":false},{"n":8,"roman":"VIII","title":"Tull","ready":false},{"n":9,"roman":"IX","title":"Anse","ready":false},{"n":10,"roman":"X","title":"Darl","ready":false},{"n":11,"roman":"XI","title":"Peabody","ready":false},{"n":12,"roman":"XII","title":"Darl","ready":false},{"n":13,"roman":"XIII","title":"Vardaman","ready":false},{"n":14,"roman":"XIV","title":"Dewey Dell","ready":false},{"n":15,"roman":"XV","title":"Vardaman","ready":false},{"n":16,"roman":"XVI","title":"Tull","ready":false},{"n":17,"roman":"XVII","title":"Darl","ready":false},{"n":18,"roman":"XVIII","title":"Cash","ready":false},{"n":19,"roman":"XIX","title":"Vardaman","ready":false},{"n":20,"roman":"XX","title":"Tull","ready":false},{"n":21,"roman":"XXI","title":"Darl","ready":false},{"n":22,"roman":"XXII","title":"Cash","ready":false},{"n":23,"roman":"XXIII","title":"Darl","ready":false},{"n":24,"roman":"XXIV","title":"Vardaman","ready":false},{"n":25,"roman":"XXV","title":"Darl","ready":false},{"n":26,"roman":"XXVI","title":"Anse","ready":false},{"n":27,"roman":"XXVII","title":"Darl","ready":false},{"n":28,"roman":"XXVIII","title":"Anse","ready":false},{"n":29,"roman":"XXIX","title":"Samson","ready":false},{"n":30,"roman":"XXX","title":"Dewey Dell","ready":false},{"n":31,"roman":"XXXI","title":"Tull","ready":false},{"n":32,"roman":"XXXII","title":"Darl","ready":false},{"n":33,"roman":"XXXIII","title":"Tull","ready":false},{"n":34,"roman":"XXXIV","title":"Darl","ready":false},{"n":35,"roman":"XXXV","title":"Vardaman","ready":false},{"n":36,"roman":"XXXVI","title":"Tull","ready":false},{"n":37,"roman":"XXXVII","title":"Darl","ready":false},{"n":38,"roman":"XXXVIII","title":"Cash","ready":false},{"n":39,"roman":"XXXIX","title":"Cora","ready":false},{"n":40,"roman":"XL","title":"Addie","ready":false},{"n":41,"roman":"41","title":"Whitfield","ready":false},{"n":42,"roman":"42","title":"Darl","ready":false},{"n":43,"roman":"43","title":"Armstid","ready":false},{"n":44,"roman":"44","title":"Vardaman","ready":false},{"n":45,"roman":"45","title":"Moseley","ready":false},{"n":46,"roman":"46","title":"Darl","ready":false},{"n":47,"roman":"47","title":"Vardaman","ready":false},{"n":48,"roman":"48","title":"Darl","ready":false},{"n":49,"roman":"49","title":"Vardaman","ready":false},{"n":50,"roman":"50","title":"Darl","ready":false},{"n":51,"roman":"51","title":"Vardaman","ready":false},{"n":52,"roman":"52","title":"Darl","ready":false},{"n":53,"roman":"53","title":"Cash","ready":false},{"n":54,"roman":"54","title":"Peabody","ready":false},{"n":55,"roman":"55","title":"MacGowan","ready":false},{"n":56,"roman":"56","title":"Vardaman","ready":false},{"n":57,"roman":"57","title":"Darl","ready":false},{"n":58,"roman":"58","title":"Dewey Dell","ready":false},{"n":59,"roman":"59","title":"Cash","ready":false}],"stats":{"chapters":5,"total":59,"notes":156,"passages":3}}];
 const INLINE = null;
 
-const CATS = {
-  shift: { label: "Changed meaning", short: "Changed meaning" },
-  old: { label: "Old or literary word", short: "Old / literary" },
-  rural: { label: "Farm & country life", short: "Farm & country" },
-  dialect: { label: "Yorkshire dialect", short: "Dialect" },
-  ref: { label: "Reference & context", short: "References" },
-  name: { label: "People & places", short: "People & places" },
-};
+let CATS = {};  // the open book's note categories (from its book.json)
 
 const $ = (s) => document.querySelector(s);
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -499,11 +530,20 @@ async function loadBook(id) {
   return (bookCache[id] = await r.json());
 }
 const shelfBook = (id) => SHELF.find((b) => b.id === id);
-const romanOf = (bookId, n) => (shelfBook(bookId)?.chapters.find((c) => c.n === n) || {}).roman || n;
+const chapOf = (bookId, n) => shelfBook(bookId)?.chapters.find((c) => c.n === n) || { n, roman: String(n) };
+/* "Chapter XIII" or "Section 5 · Darl" */
+function chName(bookId, n) {
+  const b = shelfBook(bookId), c = chapOf(bookId, n), label = b?.chapterLabel || "Chapter";
+  return c.title ? `${label} ${c.n} · ${c.title}` : `${label} ${c.roman}`;
+}
+/* compact form for menus and buttons: "Chapter XIII" or "5 · Darl" */
+const chShort = (bookId, c) => (c.title ? `${c.n} · ${c.title}` : `${shelfBook(bookId)?.chapterLabel || "Chapter"} ${c.roman}`);
 
 /* ===================== home ===================== */
 function renderHome() {
-  $("#shelf").innerHTML = SHELF.map((b) => {
+  if (!SHELF.length) {
+    $("#shelf").innerHTML = `<p class="empty-note">No books here: this file is the page template. Run <b>python3 site/build.py</b>, then open <b>dist/offline.html</b> (or the published link) to see the library.</p>`;
+  } else $("#shelf").innerHTML = SHELF.map((b) => {
     const prog = Store.get("progress-" + b.id);
     const count = highlights(b.id).length;
     const cv = b.cover;
@@ -517,9 +557,9 @@ function renderHome() {
         <h2 style="font-family:${esc(f.display)};font-style:${f.displayStyle || "normal"}">${esc(b.title)}</h2>
         <p class="by">${esc(b.author)}, ${esc(b.year)}</p>
         <p class="blurb">${esc(b.blurb)}</p>
-        <ul class="stats"><li><b>${b.stats.chapters}</b> chapters</li><li><b>${fmtNum(b.stats.notes)}</b> notes</li><li><b>${b.stats.passages}</b> dialect speeches in plain English</li></ul>
-        ${prog ? `<div class="progress-line">You're reading <b>Chapter ${esc(romanOf(b.id, prog.ch))}</b>${count ? ` · ${count} highlight${count === 1 ? "" : "s"}` : ""}</div>` : count ? `<div class="progress-line">${count} highlight${count === 1 ? "" : "s"}</div>` : ""}
-        <div class="book-actions"><a class="btn primary" href="#${b.id}">${prog ? "Continue reading" : "Start reading"}</a>${prog && prog.ch !== 1 ? `<a class="btn" href="#${b.id}-1">From Chapter I</a>` : ""}</div>
+        <ul class="stats"><li>${b.stats.chapters < b.stats.total ? `<b>${b.stats.chapters}</b> of ${b.stats.total} ${(b.chapterLabel || "Chapter").toLowerCase()}s annotated so far` : `<b>${b.stats.chapters}</b> ${(b.chapterLabel || "Chapter").toLowerCase()}s`}</li><li><b>${fmtNum(b.stats.notes)}</b> notes</li><li><b>${b.stats.passages}</b> dialect speeches in plain English</li></ul>
+        ${prog ? `<div class="progress-line">You're reading <b>${esc(chName(b.id, prog.ch))}</b>${count ? ` · ${count} highlight${count === 1 ? "" : "s"}` : ""}</div>` : count ? `<div class="progress-line">${count} highlight${count === 1 ? "" : "s"}</div>` : ""}
+        <div class="book-actions"><a class="btn primary" href="#${b.id}">${prog ? "Continue reading" : "Start reading"}</a>${prog && prog.ch !== 1 ? `<a class="btn" href="#${b.id}-1">From the beginning</a>` : ""}</div>
       </div>
     </article>`;
   }).join("");
@@ -535,7 +575,7 @@ function hlItemHTML(h, withBook) {
   const b = shelfBook(h.book);
   const quote = h.quote.length > 320 ? h.quote.slice(0, 320).trimEnd() + "…" : h.quote;
   return `<button type="button" class="hl-item" data-goto-hl="${esc(h.id)}">
-    <span class="where">${withBook && b ? esc(b.title) + " · " : ""}Chapter ${esc(romanOf(h.book, h.ch))}</span>
+    <span class="where">${withBook && b ? esc(b.title) + " · " : ""}${esc(chName(h.book, h.ch))}</span>
     <q style="font-family:${esc(b ? b.fonts.body : "inherit")}"><mark>${esc(quote)}</mark></q>
     ${h.note ? `<span class="cm">${esc(h.note.length > 220 ? h.note.slice(0, 220) + "…" : h.note)}</span>` : ""}
   </button>`;
@@ -621,7 +661,7 @@ function annotated(ch) {
     if (/^(\*\s*)+$/.test(p)) return `<p class="break" data-p="${i}" aria-hidden="true">* * *</p>`;
     const r = annotate(p, ch.notes, used);
     r.hits.forEach((x) => { if (!seen.has(x)) { seen.add(x); order.push(x); } });
-    return `<p data-p="${i}"${i === 0 && /^\p{L}/u.test(p) ? ' class="dropcap"' : ""}>${r.html}</p>`;
+    return `<p data-p="${i}"${i === 0 && shelfBook(state.bookId).dropcap !== false && /^\p{L}/u.test(p) ? ' class="dropcap"' : ""}>${r.html}</p>`;
   });
   return (state.annotated[key] = { html: paras.join(""), order });
 }
@@ -637,7 +677,8 @@ async function openBook(id, n) {
     state.bookId = id; state.data = null; state.ch = null;
     $("#bookTitle").textContent = meta.title;
     $("#bookAuthor").textContent = meta.author;
-    $("#chapter").innerHTML = meta.chapters.map((c) => `<option value="${c.n}" ${c.ready ? "" : "disabled"}>Chapter ${c.roman}</option>`).join("");
+    CATS = meta.cats || {};
+    $("#chapter").innerHTML = meta.chapters.map((c) => `<option value="${c.n}" ${c.ready ? "" : "disabled"}>${esc(chShort(id, c))}${c.ready ? "" : " · coming"}</option>`).join("");
     reader.innerHTML = `<p class="loading-msg">Opening ${esc(meta.title)}…</p>`;
     card.innerHTML = "";
     try { state.data = await loadBook(id); }
@@ -660,14 +701,17 @@ function renderChapter(n, { scrollP = null } = {}) {
   $("#chapter").value = String(ch.n);
   const want = "#" + state.bookId + "-" + ch.n;
   if (location.hash !== want) history.replaceState(null, "", want);
-  const head = `<header class="chap-head"><h1><small>Chapter</small>${ch.roman}</h1>${ch.volnote ? `<div class="vol">${esc(ch.volnote)}</div>` : ""}</header>`;
+  const meta = shelfBook(state.bookId);
+  const head = ch.title
+    ? `<header class="chap-head"><h1 class="titled"><small>${esc(meta.chapterLabel || "Section")} ${ch.n}</small>${esc(ch.title)}</h1></header>`
+    : `<header class="chap-head"><h1><small>${esc(meta.chapterLabel || "Chapter")}</small>${ch.roman}</h1>${ch.volnote ? `<div class="vol">${esc(ch.volnote)}</div>` : ""}</header>`;
   if (!ch.paras) {
     reader.innerHTML = head + `<p class="empty">This chapter hasn't been annotated yet.</p>` + navHTML(ch);
     state.order = []; renderCard(); renderDrawer(); return;
   }
   const a = annotated(ch);
   state.order = a.order;
-  const orient = ch.orient ? `<dl class="orient"><dt>Where we are</dt><dd>${esc(ch.orient)}</dd></dl>` : "";
+  const orient = ch.orient ? `<dl class="orient"><dt>${esc(meta.orientLabel || "Where we are")}</dt><dd>${esc(ch.orient)}</dd></dl>` : "";
   reader.innerHTML = head + orient + `<div class="text" id="text"></div>` + navHTML(ch) + `<p class="source">${esc(shelfBook(state.bookId).source)}</p>`;
   paintText();
   applyHidden(); applyPlain();
@@ -685,7 +729,8 @@ function renderChapter(n, { scrollP = null } = {}) {
 function navHTML(ch) {
   const chs = state.data.chapters;
   const prev = chs.find((c) => c.n === ch.n - 1), next = chs.find((c) => c.n === ch.n + 1);
-  return `<nav class="chap-nav">${prev ? `<button class="btn" type="button" data-go="${prev.n}">← Chapter ${prev.roman}</button>` : "<span></span>"}${next ? `<button class="btn" type="button" data-go="${next.n}">Chapter ${next.roman} →</button>` : "<span></span>"}</nav>`;
+  const ready = (c) => c && c.paras;
+  return `<nav class="chap-nav">${ready(prev) ? `<button class="btn" type="button" data-go="${prev.n}">← ${esc(chShort(state.bookId, prev))}</button>` : "<span></span>"}${ready(next) ? `<button class="btn" type="button" data-go="${next.n}">${esc(chShort(state.bookId, next))} →</button>` : "<span></span>"}</nav>`;
 }
 
 /* ---- text + the reader's highlights ---- */
@@ -769,7 +814,7 @@ function renderCard() {
   if (!ch || !ch.paras) { card.innerHTML = ""; return; }
   if (c.type === "note") return noteCard(ch.notes[c.idx]);
   if (c.type === "hl") { const h = Store.get(c.id); if (h) return hlCard(c.id, h); state.card = { type: "idle" }; }
-  card.innerHTML = `${ch.orient ? `<p class="eyebrow">Where we are</p><p class="orient-text">${esc(ch.orient)}</p>` : ""}
+  card.innerHTML = `${ch.orient ? `<p class="eyebrow">${esc(shelfBook(state.bookId).orientLabel || "Where we are")}</p><p class="orient-text">${esc(ch.orient)}</p>` : ""}
     <p class="hint"><b>Tap an underlined word</b> for what it means here. <b>Select a sentence</b> to highlight it or add your own comment.</p>`;
   card.scrollTop = 0; cardFade();
 }
@@ -797,7 +842,7 @@ function noteCard(note) {
 }
 function hlCard(id, h) {
   card.innerHTML = `<div class="hl-card">
-    <div class="note-top"><span class="chip mine">Your highlight · Chapter ${esc(romanOf(h.book, h.ch))}</span><button class="close" type="button" data-close-card aria-label="Close">×</button></div>
+    <div class="note-top"><span class="chip mine">Your highlight · ${esc(chName(h.book, h.ch))}</span><button class="close" type="button" data-close-card aria-label="Close">×</button></div>
     <blockquote class="hl-quote">${esc(h.quote)}</blockquote>
     <label for="hlNote">Your comment</label>
     <textarea id="hlNote" placeholder="What struck you here? A question, a connection, a reminder…">${esc(h.note || "")}</textarea>
@@ -880,7 +925,7 @@ function renderHlMenu() {
   if (!list.length) { $("#hlList").innerHTML = `<p class="empty-note">No highlights in this book yet. Select a sentence in the text and choose <b>Highlight</b>. Highlights also work as bookmarks: tap one here to jump back to it.</p>`; return; }
   const groups = new Map();
   list.forEach((h) => { if (!groups.has(h.ch)) groups.set(h.ch, []); groups.get(h.ch).push(h); });
-  $("#hlList").innerHTML = [...groups].map(([n, hs]) => `<div class="hl-group"><h3>Chapter ${esc(romanOf(state.bookId, n))}</h3>${hs.map((h) => hlItemHTML(h, false)).join("")}</div>`).join("");
+  $("#hlList").innerHTML = [...groups].map(([n, hs]) => `<div class="hl-group"><h3>${esc(chName(state.bookId, n))}</h3>${hs.map((h) => hlItemHTML(h, false)).join("")}</div>`).join("");
 }
 function markListActive() {
   const items = $("#items");

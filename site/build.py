@@ -19,7 +19,7 @@ import re
 SITE = pathlib.Path(__file__).parent
 ROOT = SITE.parent
 DIST = ROOT / "dist"
-BOOKS = ["wuthering-heights"]  # shelf order
+BOOKS = ["wuthering-heights", "as-i-lay-dying"]  # shelf order
 
 ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII", "XIV",
          "XV", "XVI", "XVII", "XVIII", "XIX", "XX", "XXI", "XXII", "XXIII", "XXIV", "XXV", "XXVI",
@@ -38,8 +38,11 @@ def load_book(book_id):
     for n in range(1, meta["chapters"] + 1):
         text = folder / "text" / f"ch{n:02d}.txt"
         notes = folder / "notes" / f"ch{n:02d}.json"
-        ch = {"n": n, "roman": ROMAN[n - 1],
+        titles = meta.get("titles") or []
+        ch = {"n": n, "roman": ROMAN[n - 1] if n <= len(ROMAN) else str(n),
               "volnote": f"Volume II, Chapter {ROMAN[n - vb]} in two-volume editions" if vb and n >= vb else ""}
+        if n <= len(titles):
+            ch["title"] = titles[n - 1]
         if text.exists() and notes.exists():
             paras = [p.strip() for p in text.read_text(encoding="utf-8").split("\n\n") if p.strip()]
             data = json.loads(notes.read_text(encoding="utf-8"))
@@ -48,9 +51,12 @@ def load_book(book_id):
             n_pass += sum(1 for x in data["notes"] if "s" in x)
         chapters.append(ch)
     shelf = {k: meta[k] for k in ("id", "title", "author", "year", "blurb", "fonts", "cover")}
+    shelf.update(cats={k: {"label": v["label"], "short": v["short"]} for k, v in meta["categories"].items()},
+                 chapterLabel=meta.get("chapterLabel", "Chapter"), orientLabel=meta.get("orientLabel", "Where we are"),
+                 dropcap=meta.get("dropcap", True))
     shelf.update(emblem=emblem, source=meta.get("source", ""),
-                 chapters=[{"n": c["n"], "roman": c["roman"], "ready": "paras" in c} for c in chapters],
-                 stats={"chapters": sum(1 for c in chapters if "paras" in c), "notes": n_notes, "passages": n_pass})
+                 chapters=[{k: c[k] for k in ("n", "roman", "title") if k in c} | {"ready": "paras" in c} for c in chapters],
+                 stats={"chapters": sum(1 for c in chapters if "paras" in c), "total": len(chapters), "notes": n_notes, "passages": n_pass})
     return meta, shelf, {"id": book_id, "chapters": chapters}
 
 
@@ -61,11 +67,20 @@ def theme_css(meta):
         return "; ".join(f"--{k}: {v}" for k, v in tokens.items()) + extra
 
     f = meta["fonts"]
-    fonts = f'--f-display: {f["display"]}; --f-body: {f["body"]}; --display-style: {f.get("displayStyle", "normal")}; --display-weight: {f.get("displayWeight", "500")}'
+    fonts = (f'--f-display: {f["display"]}; --f-body: {f["body"]}; --display-style: {f.get("displayStyle", "normal")}; '
+             f'--display-weight: {f.get("displayWeight", "500")}; --title-transform: {f.get("titleTransform", "none")}; '
+             f'--title-tracking: {f.get("titleTracking", "0")}')
     light, dark = meta["theme"]["light"], meta["theme"]["dark"]
-    return (f"{sel} {{ {block(light)}; {fonts} }}\n"
-            f'@media (prefers-color-scheme: dark) {{ {sel}:not([data-theme="light"]) {{ {block(dark)}; color-scheme: dark }} }}\n'
-            f'{sel}[data-theme="dark"] {{ {block(dark)}; color-scheme: dark }}\n')
+    css = (f"{sel} {{ {block(light)}; {fonts} }}\n"
+           f'@media (prefers-color-scheme: dark) {{ {sel}:not([data-theme="light"]) {{ {block(dark)}; color-scheme: dark }} }}\n'
+           f'{sel}[data-theme="dark"] {{ {block(dark)}; color-scheme: dark }}\n')
+    thick = {"wavy": "1.5px", "dotted": "2.5px"}
+    for k, v in meta["categories"].items():
+        style = v.get("underline", "solid")
+        css += (f'{sel} [data-c="{k}"] {{ --c: var(--c-{k}) }}\n'
+                f'{sel} .w[data-c="{k}"] {{ text-decoration-style: {style}; text-decoration-thickness: {thick.get(style, "2px")} }}\n'
+                f'{sel} .text.hide-{k} .w[data-c="{k}"] {{ text-decoration-color: transparent; cursor: text; background: none }}\n')
+    return css
 
 
 def js_safe(obj):
@@ -79,7 +94,7 @@ def main():
         shelf.append(s)
         themes.append(theme_css(meta))
         data[book_id] = d
-    app = (SITE / "app.html").read_text(encoding="utf-8")
+    app = (SITE / "app.template.html").read_text(encoding="utf-8")
     app = app.replace("/*__THEMES__*/", "".join(themes))
     page = app.replace("/*__SHELF__*/[]", js_safe(shelf))
 

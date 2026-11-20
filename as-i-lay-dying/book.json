@@ -1,0 +1,46 @@
+{
+  "id": "as-i-lay-dying",
+  "title": "As I Lay Dying",
+  "author": "William Faulkner",
+  "year": "1930",
+  "blurb": "Fifteen voices, one coffin, a ten-day journey to Jefferson. Hill-country Mississippi speech in plain English, plus the history, farm life and Faulkner's invented county behind it.",
+  "source": "Text: the 1930 text, from the Random House reprint as transcribed on Wikisource. Public domain in the US since 2026. Notes written for this companion.",
+  "chapters": 59,
+  "chapterLabel": "Section",
+  "orientLabel": "Who's speaking",
+  "dropcap": false,
+  "titles": ["Darl", "Cora", "Darl", "Jewel", "Darl", "Cora", "Dewey Dell", "Tull", "Anse", "Darl", "Peabody", "Darl", "Vardaman", "Dewey Dell", "Vardaman", "Tull", "Darl", "Cash", "Vardaman", "Tull", "Darl", "Cash", "Darl", "Vardaman", "Darl", "Anse", "Darl", "Anse", "Samson", "Dewey Dell", "Tull", "Darl", "Tull", "Darl", "Vardaman", "Tull", "Darl", "Cash", "Cora", "Addie", "Whitfield", "Darl", "Armstid", "Vardaman", "Moseley", "Darl", "Vardaman", "Darl", "Vardaman", "Darl", "Vardaman", "Darl", "Cash", "Peabody", "MacGowan", "Vardaman", "Darl", "Dewey Dell", "Cash"],
+  "fonts": {
+    "display": "\"Josefin Sans\", \"IBM Plex Sans\", system-ui, sans-serif",
+    "displayStyle": "normal",
+    "displayWeight": "600",
+    "titleTransform": "uppercase",
+    "titleTracking": ".22em",
+    "body": "\"Spectral\", Georgia, \"Times New Roman\", serif"
+  },
+  "cover": { "bg": "#6b2b18", "ink": "#f2ece1", "accent": "#e6c27a", "muted": "#d6ad93" },
+  "categories": {
+    "dialect": { "label": "Southern dialect", "short": "Dialect", "underline": "double" },
+    "shift": { "label": "Changed meaning", "short": "Changed meaning", "underline": "wavy" },
+    "old": { "label": "Uncommon word", "short": "Uncommon words", "underline": "solid" },
+    "rural": { "label": "Farm & country life", "short": "Farm & country", "underline": "dashed" },
+    "ref": { "label": "History & context", "short": "History", "underline": "dotted" },
+    "world": { "label": "Faulkner's world", "short": "Faulkner's world", "underline": "dotted" },
+    "style": { "label": "How it's written", "short": "Style", "underline": "dashed" },
+    "name": { "label": "People & places", "short": "People & places", "underline": "dotted" }
+  },
+  "theme": {
+    "light": {
+      "paper": "#ebeae5", "panel": "#e0dfd8", "raised": "#f7f6f2", "ink": "#221f1b", "muted": "#68625a",
+      "rule": "#d3d0c7", "accent": "#9b3d22", "mark": "#f0d27a",
+      "c-dialect": "#a3501a", "c-shift": "#8a3477", "c-old": "#335f8c", "c-rural": "#4d7230",
+      "c-ref": "#a12f2f", "c-world": "#5b4ea0", "c-style": "#7a6512", "c-name": "#2f7f86"
+    },
+    "dark": {
+      "paper": "#171513", "panel": "#1f1c19", "raised": "#25221e", "ink": "#e9e4db", "muted": "#a39b8f",
+      "rule": "#36312b", "accent": "#e08a63", "mark": "#6e5a1c",
+      "c-dialect": "#e59a5f", "c-shift": "#d98bc8", "c-old": "#8fb1df", "c-rural": "#a6cb84",
+      "c-ref": "#ec8f8f", "c-world": "#ab9ff0", "c-style": "#d9c16a", "c-name": "#7cc9cf"
+    }
+  }
+}

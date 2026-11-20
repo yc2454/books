@@ -2,7 +2,7 @@
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600&family=IBM+Plex+Sans:wght@400;500;600&family=Libre+Caslon+Display&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600&family=IBM+Plex+Sans:wght@400;500;600&family=Josefin+Sans:wght@300;600&family=Libre+Caslon+Display&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap">
 <style>
 /* Layout: the library is a page with a ruled margin line down its left edge, like a notebook;
    each book opens into a reading column beside a sticky note card. Book pages override these
@@ -83,8 +83,8 @@ a { color: inherit; }
 .cover::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 9px; background: linear-gradient(90deg, rgba(0,0,0,.35), rgba(255,255,255,.07) 70%, transparent); }
 .cover::after { content: ""; position: absolute; inset: 8px 8px 8px 16px; border: 1px solid color-mix(in srgb, var(--cv-accent) 35%, transparent); border-radius: 2px; pointer-events: none; }
 .cover:hover { transform: translateY(-3px); box-shadow: 0 1px 0 rgba(255,255,255,.06) inset, 0 20px 34px -12px rgba(0,0,0,.5); }
-.cover .emblem { width: 72%; color: var(--cv-accent); margin-top: 6px; }
-.cover .emblem svg { display: block; width: 100%; height: auto; }
+.cover .emblem { flex: 1; min-height: 0; width: 78%; display: flex; align-items: center; justify-content: center; color: var(--cv-accent); margin: 4px 0 10px; }
+.cover .emblem svg { display: block; max-width: 100%; max-height: 100%; width: 100%; height: 100%; }
 .cover .ct { text-align: center; display: grid; gap: 6px; }
 .cover .ct b { font-size: 1.55rem; line-height: 1.05; font-weight: 500; text-wrap: balance; }
 .cover .ct i { display: block; width: 26px; height: 1px; background: var(--cv-accent); margin: 2px auto; }
@@ -153,6 +153,7 @@ main { min-width: 0; }
 .chap-head { text-align: center; margin: 8px 0 26px; }
 .chap-head .vol { margin-top: 10px; font-size: .75rem; text-transform: uppercase; letter-spacing: .12em; color: var(--muted); }
 .chap-head h1 { font-family: var(--f-display); font-style: var(--display-style); font-weight: var(--display-weight); font-size: 3.4rem; line-height: 1; margin: 6px 0 0; }
+.chap-head h1.titled { font-size: 2.9rem; text-transform: var(--title-transform, none); letter-spacing: var(--title-tracking, 0); }
 .chap-head h1 small { display: block; font-family: var(--f-ui); font-style: normal; font-size: .8rem; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; font-weight: 500; }
 .orient { border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 12px 2px; margin: 0 0 28px; color: var(--muted); font-size: .9rem; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; }
 .orient dt { font-size: .7rem; text-transform: uppercase; letter-spacing: .1em; font-weight: 600; padding-top: 2px; color: var(--ink); }
@@ -174,14 +175,6 @@ main { min-width: 0; }
 .w.active { background: color-mix(in srgb, var(--c) 24%, transparent); text-decoration-color: var(--c); }
 .w.flash, mark.hl.flash { animation: flash 1.4s ease-out; }
 @keyframes flash { 0%, 30% { background: color-mix(in srgb, var(--accent) 35%, transparent); } }
-.w[data-c="shift"] { text-decoration-style: wavy; text-decoration-thickness: 1.5px; }
-.w[data-c="rural"] { text-decoration-style: dashed; }
-.w[data-c="dialect"] { text-decoration-style: double; }
-.w[data-c="ref"], .w[data-c="name"] { text-decoration-style: dotted; text-decoration-thickness: 2.5px; }
-[data-c="shift"] { --c: var(--c-shift); } [data-c="old"] { --c: var(--c-old); } [data-c="rural"] { --c: var(--c-rural); }
-[data-c="dialect"] { --c: var(--c-dialect); } [data-c="ref"] { --c: var(--c-ref); } [data-c="name"] { --c: var(--c-name); }
-.text.hide-shift .w[data-c="shift"], .text.hide-old .w[data-c="old"], .text.hide-rural .w[data-c="rural"],
-.text.hide-dialect .w[data-c="dialect"], .text.hide-ref .w[data-c="ref"], .text.hide-name .w[data-c="name"] { text-decoration-color: transparent; cursor: text; background: none; }
 .pass {
   cursor: pointer; border-radius: 3px; padding: .05em .12em; margin: 0 -.12em;
   background: color-mix(in srgb, var(--c-dialect) 10%, transparent);
@@ -387,14 +380,7 @@ ol.items li button span { color: var(--muted); font-size: .8rem; overflow: hidde
 const SHELF = /*__SHELF__*/[];
 const INLINE = /*__INLINE__*/null;
 
-const CATS = {
-  shift: { label: "Changed meaning", short: "Changed meaning" },
-  old: { label: "Old or literary word", short: "Old / literary" },
-  rural: { label: "Farm & country life", short: "Farm & country" },
-  dialect: { label: "Yorkshire dialect", short: "Dialect" },
-  ref: { label: "Reference & context", short: "References" },
-  name: { label: "People & places", short: "People & places" },
-};
+let CATS = {};  // the open book's note categories (from its book.json)
 
 const $ = (s) => document.querySelector(s);
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -496,11 +482,20 @@ async function loadBook(id) {
   return (bookCache[id] = await r.json());
 }
 const shelfBook = (id) => SHELF.find((b) => b.id === id);
-const romanOf = (bookId, n) => (shelfBook(bookId)?.chapters.find((c) => c.n === n) || {}).roman || n;
+const chapOf = (bookId, n) => shelfBook(bookId)?.chapters.find((c) => c.n === n) || { n, roman: String(n) };
+/* "Chapter XIII" or "Section 5 · Darl" */
+function chName(bookId, n) {
+  const b = shelfBook(bookId), c = chapOf(bookId, n), label = b?.chapterLabel || "Chapter";
+  return c.title ? `${label} ${c.n} · ${c.title}` : `${label} ${c.roman}`;
+}
+/* compact form for menus and buttons: "Chapter XIII" or "5 · Darl" */
+const chShort = (bookId, c) => (c.title ? `${c.n} · ${c.title}` : `${shelfBook(bookId)?.chapterLabel || "Chapter"} ${c.roman}`);
 
 /* ===================== home ===================== */
 function renderHome() {
-  $("#shelf").innerHTML = SHELF.map((b) => {
+  if (!SHELF.length) {
+    $("#shelf").innerHTML = `<p class="empty-note">No books here: this file is the page template. Run <b>python3 site/build.py</b>, then open <b>dist/offline.html</b> (or the published link) to see the library.</p>`;
+  } else $("#shelf").innerHTML = SHELF.map((b) => {
     const prog = Store.get("progress-" + b.id);
     const count = highlights(b.id).length;
     const cv = b.cover;
@@ -514,9 +509,9 @@ function renderHome() {
         <h2 style="font-family:${esc(f.display)};font-style:${f.displayStyle || "normal"}">${esc(b.title)}</h2>
         <p class="by">${esc(b.author)}, ${esc(b.year)}</p>
         <p class="blurb">${esc(b.blurb)}</p>
-        <ul class="stats"><li><b>${b.stats.chapters}</b> chapters</li><li><b>${fmtNum(b.stats.notes)}</b> notes</li><li><b>${b.stats.passages}</b> dialect speeches in plain English</li></ul>
-        ${prog ? `<div class="progress-line">You're reading <b>Chapter ${esc(romanOf(b.id, prog.ch))}</b>${count ? ` · ${count} highlight${count === 1 ? "" : "s"}` : ""}</div>` : count ? `<div class="progress-line">${count} highlight${count === 1 ? "" : "s"}</div>` : ""}
-        <div class="book-actions"><a class="btn primary" href="#${b.id}">${prog ? "Continue reading" : "Start reading"}</a>${prog && prog.ch !== 1 ? `<a class="btn" href="#${b.id}-1">From Chapter I</a>` : ""}</div>
+        <ul class="stats"><li>${b.stats.chapters < b.stats.total ? `<b>${b.stats.chapters}</b> of ${b.stats.total} ${(b.chapterLabel || "Chapter").toLowerCase()}s annotated so far` : `<b>${b.stats.chapters}</b> ${(b.chapterLabel || "Chapter").toLowerCase()}s`}</li><li><b>${fmtNum(b.stats.notes)}</b> notes</li><li><b>${b.stats.passages}</b> dialect speeches in plain English</li></ul>
+        ${prog ? `<div class="progress-line">You're reading <b>${esc(chName(b.id, prog.ch))}</b>${count ? ` · ${count} highlight${count === 1 ? "" : "s"}` : ""}</div>` : count ? `<div class="progress-line">${count} highlight${count === 1 ? "" : "s"}</div>` : ""}
+        <div class="book-actions"><a class="btn primary" href="#${b.id}">${prog ? "Continue reading" : "Start reading"}</a>${prog && prog.ch !== 1 ? `<a class="btn" href="#${b.id}-1">From the beginning</a>` : ""}</div>
       </div>
     </article>`;
   }).join("");
@@ -532,7 +527,7 @@ function hlItemHTML(h, withBook) {
   const b = shelfBook(h.book);
   const quote = h.quote.length > 320 ? h.quote.slice(0, 320).trimEnd() + "…" : h.quote;
   return `<button type="button" class="hl-item" data-goto-hl="${esc(h.id)}">
-    <span class="where">${withBook && b ? esc(b.title) + " · " : ""}Chapter ${esc(romanOf(h.book, h.ch))}</span>
+    <span class="where">${withBook && b ? esc(b.title) + " · " : ""}${esc(chName(h.book, h.ch))}</span>
     <q style="font-family:${esc(b ? b.fonts.body : "inherit")}"><mark>${esc(quote)}</mark></q>
     ${h.note ? `<span class="cm">${esc(h.note.length > 220 ? h.note.slice(0, 220) + "…" : h.note)}</span>` : ""}
   </button>`;
@@ -618,7 +613,7 @@ function annotated(ch) {
     if (/^(\*\s*)+$/.test(p)) return `<p class="break" data-p="${i}" aria-hidden="true">* * *</p>`;
     const r = annotate(p, ch.notes, used);
     r.hits.forEach((x) => { if (!seen.has(x)) { seen.add(x); order.push(x); } });
-    return `<p data-p="${i}"${i === 0 && /^\p{L}/u.test(p) ? ' class="dropcap"' : ""}>${r.html}</p>`;
+    return `<p data-p="${i}"${i === 0 && shelfBook(state.bookId).dropcap !== false && /^\p{L}/u.test(p) ? ' class="dropcap"' : ""}>${r.html}</p>`;
   });
   return (state.annotated[key] = { html: paras.join(""), order });
 }
@@ -634,7 +629,8 @@ async function openBook(id, n) {
     state.bookId = id; state.data = null; state.ch = null;
     $("#bookTitle").textContent = meta.title;
     $("#bookAuthor").textContent = meta.author;
-    $("#chapter").innerHTML = meta.chapters.map((c) => `<option value="${c.n}" ${c.ready ? "" : "disabled"}>Chapter ${c.roman}</option>`).join("");
+    CATS = meta.cats || {};
+    $("#chapter").innerHTML = meta.chapters.map((c) => `<option value="${c.n}" ${c.ready ? "" : "disabled"}>${esc(chShort(id, c))}${c.ready ? "" : " · coming"}</option>`).join("");
     reader.innerHTML = `<p class="loading-msg">Opening ${esc(meta.title)}…</p>`;
     card.innerHTML = "";
     try { state.data = await loadBook(id); }
@@ -657,14 +653,17 @@ function renderChapter(n, { scrollP = null } = {}) {
   $("#chapter").value = String(ch.n);
   const want = "#" + state.bookId + "-" + ch.n;
   if (location.hash !== want) history.replaceState(null, "", want);
-  const head = `<header class="chap-head"><h1><small>Chapter</small>${ch.roman}</h1>${ch.volnote ? `<div class="vol">${esc(ch.volnote)}</div>` : ""}</header>`;
+  const meta = shelfBook(state.bookId);
+  const head = ch.title
+    ? `<header class="chap-head"><h1 class="titled"><small>${esc(meta.chapterLabel || "Section")} ${ch.n}</small>${esc(ch.title)}</h1></header>`
+    : `<header class="chap-head"><h1><small>${esc(meta.chapterLabel || "Chapter")}</small>${ch.roman}</h1>${ch.volnote ? `<div class="vol">${esc(ch.volnote)}</div>` : ""}</header>`;
   if (!ch.paras) {
     reader.innerHTML = head + `<p class="empty">This chapter hasn't been annotated yet.</p>` + navHTML(ch);
     state.order = []; renderCard(); renderDrawer(); return;
   }
   const a = annotated(ch);
   state.order = a.order;
-  const orient = ch.orient ? `<dl class="orient"><dt>Where we are</dt><dd>${esc(ch.orient)}</dd></dl>` : "";
+  const orient = ch.orient ? `<dl class="orient"><dt>${esc(meta.orientLabel || "Where we are")}</dt><dd>${esc(ch.orient)}</dd></dl>` : "";
   reader.innerHTML = head + orient + `<div class="text" id="text"></div>` + navHTML(ch) + `<p class="source">${esc(shelfBook(state.bookId).source)}</p>`;
   paintText();
   applyHidden(); applyPlain();
@@ -682,7 +681,8 @@ function renderChapter(n, { scrollP = null } = {}) {
 function navHTML(ch) {
   const chs = state.data.chapters;
   const prev = chs.find((c) => c.n === ch.n - 1), next = chs.find((c) => c.n === ch.n + 1);
-  return `<nav class="chap-nav">${prev ? `<button class="btn" type="button" data-go="${prev.n}">← Chapter ${prev.roman}</button>` : "<span></span>"}${next ? `<button class="btn" type="button" data-go="${next.n}">Chapter ${next.roman} →</button>` : "<span></span>"}</nav>`;
+  const ready = (c) => c && c.paras;
+  return `<nav class="chap-nav">${ready(prev) ? `<button class="btn" type="button" data-go="${prev.n}">← ${esc(chShort(state.bookId, prev))}</button>` : "<span></span>"}${ready(next) ? `<button class="btn" type="button" data-go="${next.n}">${esc(chShort(state.bookId, next))} →</button>` : "<span></span>"}</nav>`;
 }
 
 /* ---- text + the reader's highlights ---- */
@@ -766,7 +766,7 @@ function renderCard() {
   if (!ch || !ch.paras) { card.innerHTML = ""; return; }
   if (c.type === "note") return noteCard(ch.notes[c.idx]);
   if (c.type === "hl") { const h = Store.get(c.id); if (h) return hlCard(c.id, h); state.card = { type: "idle" }; }
-  card.innerHTML = `${ch.orient ? `<p class="eyebrow">Where we are</p><p class="orient-text">${esc(ch.orient)}</p>` : ""}
+  card.innerHTML = `${ch.orient ? `<p class="eyebrow">${esc(shelfBook(state.bookId).orientLabel || "Where we are")}</p><p class="orient-text">${esc(ch.orient)}</p>` : ""}
     <p class="hint"><b>Tap an underlined word</b> for what it means here. <b>Select a sentence</b> to highlight it or add your own comment.</p>`;
   card.scrollTop = 0; cardFade();
 }
@@ -794,7 +794,7 @@ function noteCard(note) {
 }
 function hlCard(id, h) {
   card.innerHTML = `<div class="hl-card">
-    <div class="note-top"><span class="chip mine">Your highlight · Chapter ${esc(romanOf(h.book, h.ch))}</span><button class="close" type="button" data-close-card aria-label="Close">×</button></div>
+    <div class="note-top"><span class="chip mine">Your highlight · ${esc(chName(h.book, h.ch))}</span><button class="close" type="button" data-close-card aria-label="Close">×</button></div>
     <blockquote class="hl-quote">${esc(h.quote)}</blockquote>
     <label for="hlNote">Your comment</label>
     <textarea id="hlNote" placeholder="What struck you here? A question, a connection, a reminder…">${esc(h.note || "")}</textarea>
@@ -877,7 +877,7 @@ function renderHlMenu() {
   if (!list.length) { $("#hlList").innerHTML = `<p class="empty-note">No highlights in this book yet. Select a sentence in the text and choose <b>Highlight</b>. Highlights also work as bookmarks: tap one here to jump back to it.</p>`; return; }
   const groups = new Map();
   list.forEach((h) => { if (!groups.has(h.ch)) groups.set(h.ch, []); groups.get(h.ch).push(h); });
-  $("#hlList").innerHTML = [...groups].map(([n, hs]) => `<div class="hl-group"><h3>Chapter ${esc(romanOf(state.bookId, n))}</h3>${hs.map((h) => hlItemHTML(h, false)).join("")}</div>`).join("");
+  $("#hlList").innerHTML = [...groups].map(([n, hs]) => `<div class="hl-group"><h3>${esc(chName(state.bookId, n))}</h3>${hs.map((h) => hlItemHTML(h, false)).join("")}</div>`).join("");
 }
 function markListActive() {
   const items = $("#items");
